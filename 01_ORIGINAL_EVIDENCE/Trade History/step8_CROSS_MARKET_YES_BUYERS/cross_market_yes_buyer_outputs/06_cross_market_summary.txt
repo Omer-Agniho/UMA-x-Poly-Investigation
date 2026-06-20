@@ -1,0 +1,17 @@
+Cross-Market YES Buyer Summary
+
+Collected at UTC: 2026-06-20T01:05:46.315524+00:00
+Markets scanned: 17
+YES BUY trade rows collected: 6739
+Unique YES buyer proxyWallets: 777
+
+Wallets that bought target June 15 market only: 45
+Wallets that bought target and future related markets: 32
+Wallets that bought future related markets only: 700
+Direct matches to UMA wallets: 0
+
+Interpretation note:
+Future-market-only YES buyers are not proof of wrongdoing. They are a lead category for review because they may show cross-market positioning that would not appear if the investigation only starts from June 15 YES buyers.
+
+Suggested legal wording:
+The cross-market export identifies wallets that purchased YES on related future-date Iran peace-deal markets, including wallets that did not appear as YES buyers on the June 15 market. These records should be reviewed for timing, size, wallet links, and whether the later markets depended on the same disputed factual premise.

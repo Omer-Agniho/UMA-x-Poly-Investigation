@@ -1,0 +1,14 @@
+Step 11E input preparation summary
+Prepared from uploaded Step 7 / Step 8 buyer files.
+
+UMA address universe rows: 213
+Unique UMA YES voter/delegate/staker/caller addresses: 101
+YES buyer wallets with relevant June 15 onward BUY YES activity: 338
+Relevant BUY YES transaction rows: 4758
+Priority 1 wallets: 89
+Priority 2 wallets: 18
+Priority 3 wallets: 30
+Priority 4 wallets: 201
+
+Default script setting MAX_PRIORITY=2 will query 107 buyer wallets first.
+Set MAX_PRIORITY=4 only if you want to query all 338 relevant YES buyer wallets.

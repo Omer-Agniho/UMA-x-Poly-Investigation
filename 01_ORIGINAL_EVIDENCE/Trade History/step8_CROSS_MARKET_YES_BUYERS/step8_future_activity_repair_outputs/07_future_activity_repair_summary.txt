@@ -1,0 +1,21 @@
+Step 8 Future Activity Repair Summary
+
+Collected at UTC: 2026-06-20T16:49:07.145126+00:00
+Activity window UTC: 2026-06-15T04:00:00+00:00 through 2026-06-19T04:00:00+00:00
+Markets queried: 17
+Cross-market wallets used: 732
+Raw activity rows collected: 16518
+Normalized activity rows for cross-market wallets: 16477
+Future related market activity rows: 13246
+Redeem / split / merge rows: 403
+
+Market relation counts:
+RELATED_OR_FUTURE_MARKET: 13246
+
+Activity type counts:
+MERGE: 49
+REDEEM: 354
+TRADE: 16074
+
+Interpretation:
+This repair run queries each related market one at a time, rather than using a comma-separated market list. It is intended to fill the missing future-related activity file from the earlier Step 8 run.

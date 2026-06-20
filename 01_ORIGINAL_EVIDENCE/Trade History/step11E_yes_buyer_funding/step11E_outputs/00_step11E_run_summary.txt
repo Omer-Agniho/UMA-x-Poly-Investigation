@@ -1,0 +1,24 @@
+Step 11E YES buyer funding analysis
+Collected at UTC: 2026-06-20T20:06:28.633156+00:00
+Block window: 88500000 to 88753129
+Transfer categories: external, erc20
+Priority threshold processed: <= 2
+YES buyer wallets queried: 107
+UMA addresses queried: 101
+Incoming transfer rows to YES buyers: 58280
+Incoming transfer rows to UMA addresses: 7
+Direct UMA-address-to-YES-buyer funding edges: 0
+Common funder addresses found: 0
+Common funder pair edges produced: 0
+Priority lead rows produced: 0
+Failed queries: 0
+
+Interpretation:
+This step checks funding sources for YES buyer wallets, including wallets that bought YES but did not redeem. It does not assume the buyer wallet and redeemer wallet are the same. A funding edge is transaction evidence only. It does not prove common ownership. Shared exchange, bridge, relayer, aggregator, or high-volume contract sources must be treated as weak unless supported by additional facts.
+
+Recommended review order:
+1. 03_direct_uma_to_yes_buyer_funding_edges.csv
+2. 06_priority_yes_buyer_funding_leads.csv
+3. 04_common_funder_matches.csv
+4. 05_common_funder_pair_edges.csv
+5. 01_incoming_to_yes_buyer_wallets.csv for manual source review

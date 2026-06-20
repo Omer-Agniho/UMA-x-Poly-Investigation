@@ -1,0 +1,9 @@
+Step 11F input summary
+Prepared at UTC: 2026-06-20T20:12:55.183832+00:00
+UMA priority addresses prepared: 101
+Polymarket priority wallets prepared: 107
+
+UMA input uses unique YES voter/delegate/staker/caller addresses from Step 11E UMA universe.
+Polymarket input uses a union of priority YES buyer wallets, Step 10 redeemers, and Step 11D token-path source/receiver wallets.
+
+Default script processes priority <= 2.

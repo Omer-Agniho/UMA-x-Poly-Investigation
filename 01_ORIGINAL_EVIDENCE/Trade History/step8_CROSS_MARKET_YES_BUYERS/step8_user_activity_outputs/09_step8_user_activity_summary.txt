@@ -1,0 +1,21 @@
+Step 8 User Activity Summary
+
+Collected at UTC: 2026-06-20T15:14:45.918132+00:00
+Activity window UTC: 2026-06-15T04:00:00+00:00 through 2026-06-19T04:00:00+00:00
+Market deadline UTC: 2026-06-16T03:59:00+00:00
+Final settlement UTC: 2026-06-18T00:32:19+00:00
+
+Suspected wallets queried: 885
+Related markets checked: 1
+Total normalized activity rows: 13347
+Target market activity rows: 13347
+Future or related market activity rows: 0
+Redeem / split / merge rows: 542
+Direct activity-wallet to UMA-wallet matches: 0
+
+Future-pool review:
+YES activity rows on related non-target markets: 0
+Approximate USDC size for YES activity on related non-target markets: 0
+
+Important limitation:
+This output shows public activity for queried Polymarket profile wallets. It does not prove that a Polymarket proxy wallet is controlled by a UMA voter unless there is direct wallet equality or additional wallet-link evidence.

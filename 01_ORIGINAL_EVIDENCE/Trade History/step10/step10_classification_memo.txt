@@ -1,0 +1,32 @@
+Step 10 Classification Memo
+
+Source files reviewed:
+- 06_wallet_redeem_summary.csv, SHA256: d444000e8f14ef6e72fb7ce71a1d0037c468e5c24bfc5feac58e0e8decef9bf2
+- 07_step10_redemption_summary.txt, SHA256: da1a4886844a2f4c728d660f3caa4385499e9d13fbcafe3040b3bb2ff52c1e0d
+
+Classification rule:
+Wallets marked BOUGHT_TARGET_AND_FUTURE_MARKETS or BOUGHT_TARGET_MARKET_ONLY with redemption transactions, ERC1155 burn rows, and incoming ERC20 transfer rows were classified as Direct YES buyer and redeemer.
+Wallets marked BOUGHT_FUTURE_MARKETS_ONLY with redemption transactions were classified as Related-market YES buyer and redeemer, target-link unclear. They should not be described as target-market YES buyers unless additional token path evidence proves that link.
+The category YES buyer but not redeemer cannot be fully produced from 06_wallet_redeem_summary.csv alone because this file only contains wallets with redemption activity. That category requires an anti-join against the Step 7 buyer list.
+
+Results:
+- Related-market YES buyer and redeemer, target-link unclear: 12 wallets, redeemActivityUSDCSize total 17178432.5216210004, ERC20 incoming total 17178433.13787500039
+- Direct YES buyer and redeemer: 24 wallets, redeemActivityUSDCSize total 9487224.02189800099635, ERC20 incoming total 9487230.42990200099635
+
+Top wallets by redeemActivityUSDCSize:
+- 0x02e7f29f3e612a95a9ccca7131ce7dd5d56b59e5: 7313660.108332001, BOUGHT_TARGET_AND_FUTURE_MARKETS, Direct YES buyer and redeemer
+- 0x4c358f830cea4ee26a301ed0faef418bc149fcfe: 6186261.47, BOUGHT_FUTURE_MARKETS_ONLY, Related-market YES buyer and redeemer, target-link unclear
+- 0x4099db7f2d394449ccf89c8d42260ecaf1d79fb8: 4975767.648465, BOUGHT_FUTURE_MARKETS_ONLY, Related-market YES buyer and redeemer, target-link unclear
+- 0xed107a85a4585a381e48c7f7ca4144909e7dd2e5: 2672126.9963720003, BOUGHT_FUTURE_MARKETS_ONLY, Related-market YES buyer and redeemer, target-link unclear
+- 0x5bb0de4e97698184ead80c80cb17a26cd6f6814b: 1111110.0, BOUGHT_FUTURE_MARKETS_ONLY, Related-market YES buyer and redeemer, target-link unclear
+- 0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1: 1071745.4174290001, BOUGHT_FUTURE_MARKETS_ONLY, Related-market YES buyer and redeemer, target-link unclear
+- 0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1: 897259.814001, BOUGHT_TARGET_AND_FUTURE_MARKETS, Direct YES buyer and redeemer
+- 0x88edd092d799556111e57ff3b2107e24dd406cfb: 296369.94, BOUGHT_TARGET_AND_FUTURE_MARKETS, Direct YES buyer and redeemer
+- 0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b: 262889.96443, BOUGHT_TARGET_AND_FUTURE_MARKETS, Direct YES buyer and redeemer
+- 0xebc6257296364265b17cb6e2d605c66d14fdd45f: 257852.0, BOUGHT_FUTURE_MARKETS_ONLY, Related-market YES buyer and redeemer, target-link unclear
+
+Lawyer-safe wording:
+The Step 10 records identify 36 wallets with Polymarket REDEEM activity and receipt-level indicators of ERC1155 burns and ERC20 transfers involving the selected wallets. Twenty-four wallets were already classified as buyers in both the target and future-related markets and also appear as redeemers. Twelve wallets were classified as future-related-market buyers and redeemers, but should not be described as target-market buyers without additional token-path tracing. These findings show redemption activity and potential financial benefit, subject to review of the raw receipts, token IDs, and market mapping.
+
+Classified CSV created: /mnt/data/06_wallet_redeem_summary_classified.csv
+Classified CSV SHA256: 71443d1e7c32c8de96ff205ad2359e4a72c1cd47a6849932ebce44a99dff467f

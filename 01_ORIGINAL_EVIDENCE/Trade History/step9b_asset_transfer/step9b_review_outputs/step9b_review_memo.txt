@@ -1,0 +1,45 @@
+Step 9B Review Memo
+
+Source files reviewed:
+00_step9b_run_summary.txt
+01_step9b_alchemy_asset_transfers.csv
+02_step9b_redeem_receipt_erc1155_logs.csv
+03_step9b_wallet_token_flow_summary.csv
+04_step9b_counterparty_summary.csv
+05_step9b_incoming_nonzero_edges_for_review.csv
+98_step9b_failed_asset_transfer_queries.csv
+99_step9b_failed_receipts.csv
+
+Run status:
+The Step 9B safe trace completed successfully. It used alchemy_getAssetTransfers, covered 12 selected future-only redeemer wallets, returned 12,187 ERC1155 asset-transfer rows, decoded 1,690 ERC1155 rows inside redemption receipts, produced 1,063 wallet-token flow rows, and reported zero failed asset-transfer queries and zero failed redemption receipts.
+
+Main finding:
+All 12 selected future-only redeemer wallets had ERC1155 incoming and outgoing or redeem-related movement in the traced block window. The wallet-level asset-transfer file shows direct incoming token movements from nonzero addresses. The redemption receipt file shows adapter-based redemption flows and burn-to-zero rows. Direct burn totals in the wallet flow summary can be zero where tokens first moved from the wallet to a redemption adapter and were then burned by the adapter.
+
+Important links found:
+1. Direct target-and-future redeemer wallets sent ERC1155 tokens to future-only redeemer wallets in 19 counterparty-summary rows.
+2. Future-only redeemer wallets also transferred ERC1155 tokens among themselves in 4 counterparty-summary rows.
+3. These links are token-transfer paths. They should be described as transaction-linked token flows, not proof of common ownership.
+
+Highest-value direct target-to-future edges by amount:
+                             contextWallet                               counterparty                                                                        tokenId  totalAssuming6Decimals                 firstUTC                  lastUTC
+0xebc6257296364265b17cB6e2D605C66D14fDd45f 0x8eBFDc251c6C378d4a3a54A8f15cebFa4B9183ce 104718292808309433767402444061650910790437726449955521731268760928480423099204                79510.17 2026-06-17T17:58:26.000Z 2026-06-17T18:02:34.000Z
+0xEd107a85a4585A381E48C7F7Ca4144909e7Dd2E5 0x8eBFDc251c6C378d4a3a54A8f15cebFa4B9183ce  31867385211987925701696042012772036156561382644688734856312468506547392739862                54614.44 2026-06-17T00:18:37.000Z 2026-06-17T00:18:37.000Z
+0x751a2b86caB503496eFD325c8344E10159349eA1 0x88Edd092d799556111E57ff3b2107E24dd406cfb  31867385211987925701696042012772036156561382644688734856312468506547392739862                45194.08 2026-06-17T23:45:35.000Z 2026-06-17T23:45:35.000Z
+0x4aD6caDEfae3c28F5b2CAa32a99eBBA3A614464C 0xC4086B708Cd3a50880B7069add1A1A80000f4675   5904694069529905826680225678119990013628860098514322777023141327768111791078                40000.00 2026-06-17T01:22:41.000Z 2026-06-17T01:22:41.000Z
+0x4099dB7F2D394449cCf89C8d42260eCAf1d79Fb8 0x54B56146656e7eef9DA02b3A030c18e06e924B31   5904694069529905826680225678119990013628860098514322777023141327768111791078                14979.93 2026-06-17T00:43:02.000Z 2026-06-17T00:43:02.000Z
+0x1295269296E51cD28a3dB85fA6728c0e352b5cFD 0x8eBFDc251c6C378d4a3a54A8f15cebFa4B9183ce  99566541619640652317512639709808184120400767516277184685355777020179304540844                 6092.37 2026-06-17T18:12:40.000Z 2026-06-17T18:12:40.000Z
+0x44c1DfE43260C94Ed4F1D00dE2e1f80Fb113Ebc1 0x8eBFDc251c6C378d4a3a54A8f15cebFa4B9183ce  62615244151326502594357917056983333482460956596991248871413253808974023938686                 6000.43 2026-06-18T00:19:22.000Z 2026-06-18T00:19:22.000Z
+0xEd107a85a4585A381E48C7F7Ca4144909e7Dd2E5 0x5CCf62aC8155E49bc7d021a1A66e9Ef18f5579D7  62615244151326502594357917056983333482460956596991248871413253808974023938686                 5254.58 2026-06-17T15:30:19.000Z 2026-06-17T15:30:19.000Z
+0x5BB0De4E97698184eaD80C80cb17A26cD6F6814B 0x35e36FaA4cf1488D120580302Ed1d149bE749188  64249180118275152401377807339590798359778131045793239076373429716258343036749                 1333.15 2026-06-16T05:26:21.000Z 2026-06-16T05:26:21.000Z
+0xebc6257296364265b17cB6e2D605C66D14fDd45f 0x24c8CF69a0e0A17EEE21f69d29752BfA32e823e1 104718292808309433767402444061650910790437726449955521731268760928480423099204                  718.83 2026-06-17T18:09:13.000Z 2026-06-17T18:09:13.000Z
+
+Conclusion:
+Step 9B is complete enough to proceed to Step 11. The next stage should compare UMA voter and delegate wallets against:
+1. the 24 direct target-and-future buyer plus redeemer wallets;
+2. the 12 future-only redeemer wallets;
+3. the direct target-and-future redeemer wallets that sent ERC1155 tokens into future-only redeemer wallets;
+4. selected external source leads from the counterparty file.
+
+Lawyer-safe wording:
+The Step 9B transfer review identified ERC1155 token movement into and out of the selected future-only redeemer wallets, including transfers from wallets previously classified as direct target-and-future buyer/redeemers. These token paths may be relevant to determining whether future-only redeemers received positions from target-market participants. The records do not, by themselves, prove common control or identity. Further wallet-link analysis is required before drawing ownership or coordination conclusions.
