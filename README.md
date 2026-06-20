@@ -6,7 +6,7 @@ This repository organizes evidence and analysis related to the Polymarket market
 
 `US x Iran permanent peace deal by June 15`
 
-The purpose of this repository is to preserve files, document the investigation, and prepare materials for legal review. The central allegation being investigated is that the market resolved to `YES` even though the written market rules may have required a `NO` outcome by the stated deadline.
+The purpose is to preserve files, document the investigation, and prepare materials for legal review. The central issue being investigated is whether the market resolved to `YES` even though the written rules may have required a `NO` outcome by the stated deadline.
 
 This repository is not a final legal conclusion. It is an evidence organization and analysis workspace.
 
@@ -32,7 +32,7 @@ This repository collects the evidence needed to answer several questions:
 
 The files in this repository should be treated as investigative evidence.
 
-Do not claim that any wallet, person, company, or group committed fraud unless a lawyer confirms that the evidence supports that claim.
+Do not claim that any wallet, person, company, or group committed fraud unless counsel confirms that the evidence supports that claim.
 
 Use careful wording:
 
@@ -53,7 +53,7 @@ Avoid wording such as:
 
 The core issue is the market result.
 
-The market rules required a permanent US Iran peace deal by June 15 at 11:59 PM ET. The investigation is reviewing whether that condition was actually met by the deadline.
+The market rules required a permanent United States and Iran peace deal by June 15 at 11:59 PM ET. The investigation is reviewing whether that condition was actually met by the deadline.
 
 If the condition was not met, the key claim for affected NO holders is that the market resolved contrary to its written rules.
 
@@ -72,54 +72,196 @@ The working timeline uses:
 
 Use UTC for blockchain records. Use ET or New York time for the market deadline.
 
-## Repository structure
+## Actual repository structure
 
-Recommended structure:
+The current repository is organized under:
 
 ```text
-/00_originals
-    Raw files exactly as received or downloaded. Do not edit.
-
-/01_market_rules
-    Market rules, screenshots, market metadata, condition ID, question ID, token IDs.
-
-/02_uma_vote
-    UMA vote records, whale vote workbook, validation files, round 10310 records.
-
-/03_trades
-    Polymarket trade history, YES buyer files, cross market buyer summaries.
-
-/04_activity
-    Polymarket user activity records such as trades, redeems, splits, and merges.
-
-/05_erc1155_transfers
-    Polygon ERC1155 outcome token transfer evidence.
-
-/06_redemptions
-    Redeem activity, transaction receipts, burn logs, collateral transfer logs.
-
-/07_wallet_links
-    Wallet matching, shared funder checks, two hop checks, token path analysis.
-
-/08_suspicious_trading
-    Bloomberg style suspicious YES buyer analysis and ranking.
-
-/09_timelines
-    Master timeline and event sequence.
-
-/10_lawyer_packet
-    Clean summaries, evidence indexes, legal review memos, open questions.
-
-/scripts
-    Python scripts used to collect, normalize, or analyze data.
-
-/hashes
-    SHA256 hash lists for file integrity.
+POLYMARKET CASE EVIDENCE/
+└── 01_ORIGINAL_EVIDENCE/
+    ├── Insider Trading News/
+    ├── Market Identity/
+    ├── Market Page/
+    ├── Market Rules/
+    ├── News and Goverment Sources/
+    ├── Polymarket Statements/
+    ├── Resolution Evidence/
+    ├── Trade History/
+    ├── Trading and Position Records/
+    ├── UMA Votes x Yes Shares/
+    └── Wallets and Blockchain Records/
 ```
 
-## Completed work
+The folder name `News and Goverment Sources` appears to contain a spelling typo. It should not be renamed without updating references in the evidence index.
 
-The investigation has completed or substantially completed the following:
+## Folder guide
+
+### Insider Trading News
+
+Contains screenshots and source material about suspicious trading, public reporting, and related outside commentary.
+
+Examples visible in this folder include:
+
+- Bloomberg insider trading chart screenshots
+- Bloomberg quote screenshot
+- Bloomberg article screenshot
+- screenshots related to UMA dispute arguments
+- screenshots related to UMA or resolver pages
+- screenshots of Polymarket related chat or public discussion
+
+Purpose:
+
+This folder supports the suspicious trading branch of the investigation. These materials may help show that outside observers or reporters identified unusual YES side trading. They should be treated as supporting material, not as proof by themselves.
+
+### Market Identity
+
+Contains files used to identify the exact Polymarket market and connect it to UMA resolution data.
+
+Visible files include:
+
+```text
+step4_market_identity_outputs/
+collect_market_identity.py
+README.txt
+```
+
+Purpose:
+
+This folder supports the chain from the Polymarket market to the exact condition ID, question ID, token IDs, and UMA ancillary hash.
+
+### Market Page
+
+Contains screenshots or saved records of the market page.
+
+Purpose:
+
+This folder should preserve what users saw on Polymarket, including title, rules, prices, outcome display, resolution state, and relevant page context.
+
+### Market Rules
+
+Contains the market rules and rule screenshots.
+
+Purpose:
+
+This folder is central to the case. It should show the actual written condition for resolving YES or NO, including the deadline and definition of a permanent peace deal.
+
+### News and Goverment Sources
+
+Contains public news, official statements, government materials, and other outside sources relevant to whether the market condition was met before the deadline.
+
+Purpose:
+
+This folder helps answer whether a qualifying permanent peace deal existed before June 15 at 11:59 PM ET.
+
+### Polymarket Statements
+
+Contains statements, screenshots, or records from Polymarket or Polymarket related sources.
+
+Purpose:
+
+This folder supports review of what Polymarket said publicly or through its platform about the market, resolution, rules, or dispute process.
+
+### Resolution Evidence
+
+Contains evidence related to the final market result and resolution process.
+
+Purpose:
+
+This folder should preserve final resolution status, timing, dispute records, UMA request identity, and any platform level resolution evidence.
+
+### Trade History
+
+Contains trade history, user activity, ERC1155 transfer work, redemption analysis, wallet link analysis, and scripts.
+
+Visible structure:
+
+```text
+Trade History/
+├── step7_TRADE_HISTORY_OUTPUTS/
+├── step8_CROSS_MARKET_YES_BUYERS/
+├── step9_ERC1155_TRANSFERS/
+├── step9b_asset_transfer/
+├── step10/
+├── step11A and step11B/
+├── step11C_polygon_shared_funder/
+├── step11D_token_path_outputs/
+├── step11E_yes_buyer_funding/
+├── step11F_two_hop_relation/
+└── collect_polymarket_trades.py
+```
+
+Purpose:
+
+This folder contains the main trading and wallet analysis work.
+
+The main investigation flow inside this folder is:
+
+- Step 7: collect and summarize Polymarket YES buyer history
+- Step 8: collect user activity records
+- Step 9: verify ERC1155 token transfers
+- Step 9B: trace token movement using indexed asset transfers
+- Step 10: analyze redemptions after the YES result
+- Step 11A and Step 11B: exact address and direct transfer checks
+- Step 11C: shared Polygon funder checks
+- Step 11D: ERC1155 token path checks
+- Step 11E: YES buyer funding checks
+- Step 11F: two hop relation checks
+
+### Trading and Position Records
+
+Contains trading records and position records that may not be part of the main Step 7 to Step 11 workflow.
+
+Purpose:
+
+This folder should preserve raw or exported position information, market holder records, or trading snapshots.
+
+### UMA Votes x Yes Shares
+
+Contains UMA vote records, scripts, and validation files.
+
+Visible files include:
+
+```text
+inspect_round10310_requests.py
+round10310_request_inspection.csv
+Top_60_Whales.csv
+uma_vote_validation.csv
+UMA-001_UMA_Iran_VoteRecord_FULL_original.xlsx
+UMA-002_raw_UMA_VoteRevealed_YES.json
+UMA-003_round10310_ancillary_hash_discovery.csv
+validate_uma_votes.py
+```
+
+Purpose:
+
+This folder supports the UMA voting branch of the investigation.
+
+It preserves:
+
+- top UMA whale voters
+- validated UMA YES vote records
+- raw UMA VoteRevealed data
+- round 10310 request inspection
+- ancillary hash discovery
+- scripts used to validate UMA vote records
+
+Important distinction:
+
+The UMA staker wallet is the wallet with voting power.
+
+The UMA delegate or caller wallet may be the wallet that actually cast or revealed the vote.
+
+Both should be preserved. Do not assume they are the same person unless the evidence supports it.
+
+### Wallets and Blockchain Records
+
+Contains blockchain records, wallet files, transaction records, and wallet analysis outputs.
+
+Purpose:
+
+This folder should preserve wallet related evidence that may not belong only to trade history, including raw transaction records, wallet labels, blockchain screenshots, and evidence used for wallet link review.
+
+## Completed work
 
 ### Step 4: Market to UMA link
 
