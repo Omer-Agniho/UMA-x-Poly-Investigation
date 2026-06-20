@@ -1,0 +1,25 @@
+Step 7 Trade History Summary
+
+Collected at UTC: 2026-06-20T00:36:37.626535+00:00
+Market question: US x Iran permanent peace deal by June 15, 2026?
+Market slug: us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129
+Condition ID: 0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423
+YES token ID: 5904694069529905826680225678119990013628860098514322777023141327768111791078
+NO token ID: 59855952379545476461266875939089074481171378466995213858930892770855011813551
+
+Normalized trade rows: 3187
+YES trade rows: 1896
+YES BUY rows: 907
+Large YES BUY rows, threshold 1000: 298
+Unique proxyWallets in normalized trades: 987
+Unique YES BUY proxyWallets: 171
+Total YES BUY size: 9225227.662388999
+Approximate YES BUY notional USDC: 9212103.76777
+
+Market deadline UTC: 2026-06-16T03:59:00+00:00
+Final settlement UTC: 2026-06-18T00:32:19+00:00
+
+Direct proxyWallet to UMA-wallet matches found: 0
+
+Important limitation:
+The Polymarket Data API trade endpoint may be limited by pagination. If a request returns the maximum limit at the highest offset, the output may be incomplete and should be supplemented with additional API queries or on-chain transfer analysis.

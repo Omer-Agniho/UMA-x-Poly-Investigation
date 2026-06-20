@@ -1,0 +1,35 @@
+Step 11A exact-address screen and Step 11B package
+
+Generated at UTC: 2026-06-20T19:29:02.638601+00:00
+
+What was tested in Step 11A:
+- UMA staker wallets, workbook delegates, event voters, and event callers from uma_vote_validation.csv.
+- Step 10 classified redeemer wallets.
+- Step 9B wallet sets, sender/recipient edges, and counterparty leads.
+
+Step 11A result:
+- UMA address-role event instances reviewed: 456
+- Unique UMA addresses reviewed: 108
+- Unique Polymarket/Step9B addresses reviewed: 2573
+- Exact same-address matches found: 0
+
+Interpretation:
+No exact address match was found between the UMA address universe and the Step 10/Step 9B Polymarket wallet universe in the uploaded files.
+This does not rule out indirect relationships, shared funding, delegation, custody arrangements, intermediary wallets, exchange paths, bridge paths, or common beneficial ownership.
+It only means the exact same address was not found in the available UMA and Polymarket/Step9B sets.
+
+Next action:
+Run collect_step11B_polygon_funding_links.py to test direct Polygon native/ERC20 transfer links between UMA addresses and prioritized Polymarket/Step9B wallets.
+
+PowerShell:
+$env:POLYGON_RPC_URL="YOUR_POLYGON_ALCHEMY_RPC_URL"
+python collect_step11B_polygon_funding_links.py
+
+Outputs to upload after Step 11B:
+- step11B_outputs/00_step11B_run_summary.txt
+- step11B_outputs/01_uma_polygon_transfers_touching_polymarket_wallets.csv
+- step11B_outputs/02_all_uma_polygon_transfers_sampled.csv
+- step11B_outputs/98_step11B_failed_queries.csv
+
+Lawyer-safe wording:
+The Step 11A screen did not identify an exact same-address match between UMA voting addresses and the current Polymarket/Step9B wallet universe. This finding should be described narrowly. It does not exclude indirect wallet relationships, shared funders, intermediary wallets, custody structures, bridges, or exchange-linked flows. Further transfer-link analysis is required before drawing conclusions about affiliation or beneficial ownership.

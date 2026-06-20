@@ -1,0 +1,886 @@
+wallet,sources,sourceFiles,sourceColumns
+0x0061f603a457754bae0241f1fb34f0ce6a5e8fd6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x00b5dc7eb3c4e375117470d9a2b81efc85e6d2f3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x00be27e4f7227e8080d38822c0d930629d2c8a29,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x01c1e36518078416b10cb2c393f20a500d737a52,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x01c3122407055c357ef098ba8fdc1c5dd8e31687,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x01eebb367efb929e486919508e4df7fedd22c603,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x020ee12d87dba8e0f1cab3f239c36295a68869c1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x02e7f29f3e612a95a9ccca7131ce7dd5d56b59e5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x032aa3277e1d7970f0f5c7d66add7af5ace1cf07,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x035fa6cf792ae231501a99b554315ac2b62a33eb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x03c285cf0a7a6fa571f859303d068475756814e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x03d44c21522ad1c5d5af243c290d0a17a3330bb5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x03f02009d35e9a20cd18ed817d15e3c568d363e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x03f2a7e04f2f4bffba70bc4d2fd6e004753616ad,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x046477a08492e67e5d11128a547765df76765915,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x04b81d0480d5899b7d1460fa5036b66415ecdb57,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x0527c28985afe239a351634fe4996dcd73d120b1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0561808f2a9bdf861e53666f364f8238f5a44817,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x05d184b066d72cd42a1fe0fb880c3d4a0adbf8c4,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x060b1eb582790cdfa8e56afebfc4fcafcd2081fa,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x06cb73531a43553e31a8ad031026d4b33f1af47f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0712c54d501c197913c324666b23139643b8fab9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0739beca79df745311196936eb2b768c6ccdaba8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x07a8e675ab852288ae4fbd3cc9498e87317e6872,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x07d4245464dc4fa05d0b3f084d82482462dc8991,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x083c87f5f6b15a3f921ec5e266e65d4cbb8765f2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x08730443345e11c078c5b2597ce3c0f06af609e8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0886c4a87193c0751f67e5c508f3909f2c8cdd80,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x08ab85cd4836e0cf068594a49ab8dc732c3a3af9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0950965ae2d423a3db56c74899dd48d2fa744b03,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x099af188e9c68b91617efe4b09ee8cd90ba4c63d,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x0a23bd0a78af04a6c692912a9e6c60bc1ac5765f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0af38dee8e5e6c31ce573a59bdbf52cca60939f8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0afc9a935960948ed35e50ac7639cbb38e840b38,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x0bc5aef547761739846f779f391747a9f9ec8b88,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0c0e270cf879583d6a0142fc817e05b768d0434e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0c101db716b0d39f7b7431e7f5edbc3cc9adf96a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0c8f308a923218bb83ee2c5d6aebfaeeaefe44f0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0cd2998bb479699e82bdd1494bb5b5cabd1a3e34,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0d08ba36dc957430371e4216a74ee373a0af9e62,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0d2ea4f8d00f92e280b107e3c87f9dc9b05cf1a2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0dd7762e2fe09c9ee2f5acdea19c102f7c16d8c2,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x0df9d939d68d852fbd5bf145d49e099ca94a7287,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0e5bd76779e74304d08e759072abf126d87da593,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0e5f35f0c4395e19a26f05d10d971efb0ed20049,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x0e81567c05eb9cbbb220d9dfa5b54b79fa0954bf,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0f0c11f59a586fb452f7fbd402d04ee8aaf4fb96,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x0f8fe8e8b7ad38615904a08e821e875fa19d8b67,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x100113203807a493ac94f20c1bd167f8b02465b1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x107f6c8c78c66f1d3a281cbf504e4c3c5562bb8c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x10ab807ac93681f1f8d567501721ce245ec5b2e8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x112e9bf2f008dae57e1e6ad44ba73292e20ca3f6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x11370aa6d4c1a5f033147efbc7b32cda687f5b5c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1225f46aab444aa4c533df8805c2950d4e8d6c5d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x122cdd9db64fd8dc3ebab813218e3effe21f821f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1247ee17b73772e3a29e38d8c32733c850a7f451,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x126db3213b309a8d554594e591e614425ccac78e,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x1295269296e51cd28a3db85fa6728c0e352b5cfd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x12a2d8ca203a16fe19095049031d0526a665e263,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x131a2d27d9f5ec25bbb42db80e1a474dc4f6e4d0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1321f3c681c680f3a8581a8c64d15126e9ae9482,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x13b72e0aa620978c720a2bc87c1b1c68ee42c98f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x144e019d576f112fa767cc77240b98a7f31e5e08,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x14c01f2a118855218e83bec18d0aadfd9c8e1b97,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x15056942b61b0ef65bf6ac861655dfd506eb95f3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x15f7ddbc6ffe08722ddeb64d51e58aef7b8ca018,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1602856ef17c9b838b2f2b941b9c628cd5eecbf7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x162f6fff88a52864f2ecc9833e58089d5254798d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x16af6b53036cac2393e7994ded8e0226986b12a5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x16bd7cc71f6da1e77d1d8255677abc75b9bae288,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x16d08e3319a4766c241ed597b8577c889c2d3800,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x16fc2422c7c92f62cc0accebf712ab18c8ce90fa,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x17d0ed0c0c6ce411e86bc02c905422aa90a7158b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x17d2defa6331b43ad3e231e6ca25cbda4087a6d8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x17ec5f15430ef9c396556c421f7b549b78c031b1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x180090140d05248a575868b98ee67abe2099c70d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x182bd8bf2f11a572c4ec686aae3a0d919adcf3d3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x18469a63386b393ae4bbc6b74621ffe36b81a932,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x18510d997eba5b8a0102bad7307e70e32bc4ae47,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x18f7f5243263e84ee8de50ca6c704b3415669222,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x191e35891382d3d6590918ff7a4b732689c1ef6b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1987733c8beae675c544752eafe437968efe6487,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1a0d30c0d36ec7fbd1082ce54443acb68ddaf351,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x1a6f9c14f95caecafb7a9512c901294571538df2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1a8e3b0227814f23bb7caf5be326cfec7bb32efa,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1aacf02365e0f2be274fb0330f312d8a0fa4d1e3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1bcb1bb4b32e3897684dfd81c354cff6c91a435c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1bd5a1a9c5ed9721cf76e8e16a04d130df87f114,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1c12abb42d0427e70e144ae67c92951b232f79d9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1c1675a7c3662131acfd00aaabcbc97a6a4f45e9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1c3888d46cbc7a6018153a4f68f0d8d75d867708,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1c8969b765c9fb1230575e38d37d3d7132da0177,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1c9c948c7a396ef0ce3f8243b9f658de9ec6908a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1cdd071bb612de6d66d0c882b676c663697de595,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1cee194da1eefe344fb2e7f46fab7d3a65c078e5,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x1dd46abe1feff9501b1a335b67baf0b2bbfda4ad,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1de746bb64222c304b38f84613745323cb6c7fc1,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x1e9d281540850c33530209b3fe35b1ab37376eec,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x1edfb719e2502197c4f5a8515bc6154a0d016be6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x203f9674be9782bc4b194625ee9dc6800e65b2d8,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x206191d01c411a5b346d11a2df2d463a356b8ec9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x206b7eeb5029664ff74f0d8e1c8168675144776b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x20ec3d7739fc8ba82014a9cf0a771b427e0b56c0,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x2108a6d1f32d1a932431d64e3328d1d45bd0520f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x2200b75c27835935a40308779b5656c09ab40f2d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x222f579dd5391bde6e204ea105bf7ae2f8838271,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x228bf75aa8f8ce3ad4d1ad05bc8a63673f5588b9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x22af4950e77da4f906b197ad177d35e891743d6a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x230b708e302063bf2d1aac44142b1aeefcf0c2c4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x23cc4d606d11eefaccb6609195322e1885284f5a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x240d2243d90e8968d0c8e807202bc8a2de0dc53c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x24ad62b6d22284cfd58eb73507aa8f698d65a51a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x24f16d0cda8c2de21c762e0295c28d7249a972a4,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x25b4651a1d3274518b166f0e03faaca9cf5a635a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x25df8604249807965707f83cc05d39efa46056bc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x25fd3151c1cc0f323d680f30a8957f047277bf28,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x260d417fbd1716b1375cd311f8a6677c4a780b3a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x265974800ecc76b67a6abe4b205aa6ba5876a631,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x27064cc4fe5bd5a20d0e5a21390a45f5a44bf7d3,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x2759f676c92605397d6ad8366871882523d9a1d0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x277989790d4a8c782d7a4992e13c2dcaa031239a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x27c3af983f1e736b4a90582eaf7d21c4e66d3577,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x27e94aba3a963f358a756b51028e3f685ddcf32f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x27ecdf40f1ffca700a81d48f7be172c6d07a2f79,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x28a1e9360a5bb650d42a57ee114fc03e29cb7809,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x28f0501bb79c229a4635548208d6a7bcfaa05d3a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x291283e633f417aa255cd02d996a24c56b1c3600,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2946afc37ce5a8b1051b051f2fdb23f2be7d8eb4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x29c7a04287c71746113606377d783506d9f9a549,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2a019dc0089ea8c6edbbafc8a7cc9ba77b4b6397,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2af9dcb1e7bdb976b8415d0f22b6bd570c5a95bb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2bfb7a0cfdef7268e2be02816cb3b3065bace6ed,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2c093796d15562444d81d68142b6f0b9fb73a2e7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2c26767989d49215d249e6d36f8e3fe2717f7dbd,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x2c3928af89565c352afe8e2a1b25deed77a056dc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2cc290ca98bca7d2f81404b915294732ea97f354,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2d51f7645dd96bcac85a62a3affd70a419776f52,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x2dc19b37c4e3aa62a74a65e39f9e9cdd1e2174fc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2df8030e40eaf359b78c4d3f1e6bb02807d28eb5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2ec20e5aa17f736060356f6b186208d5ce0ab4b4,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x2ee73e56c1cf6cdff1213ac07b2afebf340cce15,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2f602f15339e5d09a8c48466704ad06dfdc63a69,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2f757f2044ff809b4e4a44cb8853b1716580d150,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2f8320c2dc28681aa5bbf92e79c37be656a7d5f1,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x2fa801da750904fc348ccb9315a0b892377d4359,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x2fe8f2a25eed84088a4d1d61b668b602d86d7487,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x307140f93e66e19e54e5eb7300232129f91be347,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3074218677701417afc5c25f97074ecdc45da212,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x30b2daeb3757b6c7462cd0d776828f8d7398be50,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x30cc79b0acff35d82194aa81a2b067e026c352fc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x30f91b6df5a62ab2e504045e25fd449a23affbfc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3156eb90498a7f09b6ed9c60997a45a828c657bd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x31be7fb88842364bb5cba3a9b16661ba9c5a12da,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x31ff44447ca8efd8fca70c5f9192c37af6f898b4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3259ed47f47c64570f3d4d143c3ef1f5223e828f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x326b12a41cdb8fc0d9766e7b0214b69245c433eb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x32704d6d71831d443fa7f105741f1867c422e011,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3329cfc2b8d8ceb8d198f081bdf4262f421f43a6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x33ab58e55895f39619815d31dfc92d90d65f9523,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3424c2959434dc4cc1c18bc3f86137558c1d5d5e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x342f40fc637e631f669a5b38fa4fc94dcdd7dbed,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x347f3bd6a9ea7e7510bb2944407d7e1ff11c5ebf,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x34d0f35dee283bb7272f59220818007a6af4264e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x355744099c2c85eaada745e5538894c2f8f0e832,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x35a7f9db799649908688826e06ca754ea0153724,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x35bbbad2415fe5e39b12da9a316cdc80b022009b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x35e36faa4cf1488d120580302ed1d149be749188,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x35f149fc21a4c52aee4339b6cb01b840a92ca30f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x36693a8f7350a167f1cd0cefced209c73f67cb1b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3670279e844f5005d7ed8cc37ca562eaadef34f9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x36d921298df64f1ca0cfc117742535b7531eeae4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x371473617d3064ed904cde2df3e90ad1e0be9ce3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3746d575f37f1208fd3e6d891bd5ec1a3214ffa1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x374be67723f3e560eaa1383e00e500f2f5302a3f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x381b9294c1b95b61d018ff56312fbcc4897c4d74,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x38266db1174da047028b5343180cca0d02002bc7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x382afec9be090039c4e70c400ce500293e98b590,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x38f10ffdb7362835b17db0401b1d7e4fbf6624e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x395c354bf541b3d71d38130e380a415cb942ee8d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x396f35c4d4f84c0a6c5f3b13e40e1de550367f78,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3983b4364e7e116038537d61d533aa3ffb334614,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x398dafc40ced1757f33a263d809f18666ba5c7c3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x39a6626db3a258a609f234da483fa8c43aa6ebdd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x39b8ccf042e76e57dbc45f24e5c6db04c3ce5ea4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3a3fcf13a6fe621c642b24263539a3e259adcc63,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3acce6b28bca8bcb72d4083959383afa68fd06a3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3d03c46d2e4594ea6fa03f7b571342d8ee249d52,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3d1f6720d03a9f169af77c87fb1eeb177d5c6662,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3d9c10204d8f4ab1d69bafbefd134dff2973d863,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3da75ea5afc87759de410bae48c7ee2d34c302e1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3f20b410be0fbcd81bf57c8df862f001dc525d9b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x3fc9891920d7a44873c859b6a43baf691ee9e6ea,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x400302964e04281fe312ad03cdf56f7721f30df6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4050212e43001b98b02dd9a0b1e1531c03d37c90,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x405809651dae4e0556e8f3740b1e16a7df2d35b5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x40604cb1f958c03bea0b18aa43e4cb0d62f33ec3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4099db7f2d394449ccf89c8d42260ecaf1d79fb8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x416a3720931b451bfb6c22b0d471a8036e2b9d54,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x419d955a9c3df6a1b9eb3ebf2d21a3c63a8d57ef,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x4242b12999731d286ab446b9ab4da0797ac4b20d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x425e0d03366ecb2433e0ddf08a0c63b9622b7993,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x426786aa2229d684dc93b39094e7682dee2e70ee,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x428208cf4ff7b0aaede6dfd86969cfc823f93455,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x42d700ec4b49f1c3ecd52ca558ee17e89b1e1d59,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x43372356634781eea88d61bbdd7824cdce958882,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x433e8ad93164b547a13969db912b79f445b086fc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x437e0f8ce0f4c1975c2310c45d92ce64257b4a6f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x43a48d7d5aa38901a88fbfbb87c60586393c53f5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x43a73e1988b8d7fe73870d854026a6f3222c0b46,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x43f05ae1cbc007f07bbf34f6050f331238791b3d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4431211df49f9a51cbba89467a524985cc809080,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x444d3164b2e93dae5a3b97a88a500b87afd86f56,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4478d7bd8a295691ac84f60a5ec2b47e122102a4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x448861155279dbf833d041b963e3ac854599e319,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x44a1159b925c145e70f746bb3f0f58380553bd21,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x44a836d78305a80a45a203addd0fb82485dd16bb,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x45bc74efa620b45c02308acaecdff1f7c06f978b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x45e1535c178dcafb136aec8b7058f2129b695934,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x462cabbdca6d428cdec53c4fa17d131ea6586db6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x46663d380ee944007aabffe1c698ea8e5b12c42f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x46cdc10befc6db52296bcd587baccc21a16efec6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x47a40a367b3298be3da3bde3994c5342e26f368b,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x47ab026767cc320ac6e62f6ec747d59cf4d795df,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x47b5c94d54cfc48f653c8a74ea516d52122113d0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x47cc805eaea5959bfdaa016304ba4261bbea2fff,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x47fa4ec83c8eb130d695bfac3769bccddc19150e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x48185887c8dc95de60ee89722f1d0ee7894cbf0b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4863fe62d4cd3718bc0c104ec0cb45052d41e44f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x487a5bbdc6091be0e27c0e8ea283047d94862538,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x48f87ad9d4532b1db5fef365a56d8035e88579be,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x49b3fb1b5e6c6ae2a0f15de68f73f9e5cf99bd78,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x4a0c83972bed508384bbbbdbcd88990808cd48fd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4a1a27c4af018a874e97e551410953cb29e70208,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4a2be7a7e6e3b41dc2de00706b4c09660ca9af20,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4aba0523aa3a023d18dc6eebcdb483e79e0b9e7c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4ad6cadefae3c28f5b2caa32a99ebba3a614464c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4aea779b14c7c8dad013ee16a432661f7652faae,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4b14a5f3a68d0b85bc44871a2a6a11b1449ad1a1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4b39027c52bf5c0718307b25664b6d94befbe0ed,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4b6a87da4ed3238791d63cf4c0de5397e720ff69,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4b8aef878255f6242606fe5e73d659004f5a34fa,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x4bf256c1af0a9ee47a52e974b04ee7e150a68782,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4c26a98a587f22e415a20c4dad500e5c6e714750,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4c2966a198cd7ac982110d0219b037afa9997570,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4c358f830cea4ee26a301ed0faef418bc149fcfe,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4da9074e692d616114e5fc4ca0a78e7551443f5d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4e39fdfc230f9312d93db03ab48c10fccf2d8cbf,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4e472130a24d8a2ccd7425c350672776d44a4122,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4e8a73a422ebe04d33dd950bb6b36e3323eca117,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x4ed2257ab5b4f53a953caf9558c1d344eac3914a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5011224f4848cb2cf2d87cf2b823551dfd0e220e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x50421cc4cd0f184f346f4eb1d66e29656aaff296,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x50f53d80de4b8f12ec6fcea27bcdcb0beecc4f4d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5138101436a64861bfec8a2418285bc018d04fe5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5139d82046fa5b7f45d729eb814b811a54db9402,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x51608380dffa9080cd25e4ce9bc249d3dd2fb803,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x517062b4e48b621cf18b5ab2ddb7a44e9c33d8b2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x51fcc5710a903eebb53f23d22fb115e2b403fcbb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x52177c82768be0178896fde8544e81d2ed0e8201,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x521c9ea1179679f0e86e6bcdc842cbc01d6938f9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5297f1e1d0f0584537af763652a0a5f874037b99,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x52a34a80f9e08fba82295c3dd6dd1f5a3112d6cb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x52e5b9bfba94d1c6f65cd8ead5213b58af79efa8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x53831dd83c3d6318d7a50fdc3887666313143fa5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x53a30736a43c413edf5c13f049d34d3dd57b7128,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x54498e4c40b17261479aeaeeddf9cc37bd46992b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x546e7ed789cc4a7e5626160c96e54075042b26ab,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x54b56146656e7eef9da02b3a030c18e06e924b31,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x54b74d49cbfb92343e4607f260be721b208b4dfb,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x55b721af9b6323ddc994db71878e1e0be5133775,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5631e6c59e80dcda0fc137a6c8bcb4a586113553,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x56a5888550b372520b477f57269d9842bac55a2d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x57115d0ab27d2624ef87922dce73669e97e32f81,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x57e53da9040ef1c7eb0135ffc4d4e5edbc820487,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5822b9376e50d576ef85e62be0f53434816f8774,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x583582716cc49794789cacdf7aeffbdbd0b79404,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5869458f360d8c1ce49e35fccb3d0a1f25e8d533,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x58d990254a0cace64a1581499f78ee6f6d238590,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x59129e5e98c728aebf7e02eac9a56bd7a5482a21,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5981e1fa72cb892732a7315652d82c95bf1d9742,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x59b84f3938b35337f32bf779ad1d337077e92e18,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5a218c7ad04135830a45c41aaed7294df7809318,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5a84ad7ab65e054253f1a16fe15a81a9d546c2b7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5a892cefe9c01ed049d8e5193136abaf5808c186,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5ae56cbb75e93991d871e3f9a7ef6088702168e1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5b2b3f7bc76c2ba2d2a924a6f74314d193d62327,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5b2e824ffdd7e8d5ac9b1470c81922267e4214bd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5b3ad4d1e5a1fa91ae490e1752ebe3e8599b9096,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5bb0de4e97698184ead80c80cb17a26cd6f6814b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5c981963b983d3056e81c51124117916d0c1fc8a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5ccf62ac8155e49bc7d021a1a66e9ef18f5579d7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5cd2d9b49d142e8ea3ecf2e0bfa2ed49ae87e254,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5d05b1f588780423488a09d9aefeb64df54d6320,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5d3b7d82e56c0ff736ef37120cf5554c3a8e9a2b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5d5542eb677346a9744796582a31bbbea4717cba,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5d92a251e1e7a1baf70500cd77c5ea6be849108a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5db732749c6871540f481c15ebf353fc03c225d3,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x5e449db35da5c46b0303156c4f275908e1c90c4e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5eda0d6cb641a76098e5cb3c9c76e57f3ecd92a7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5ee0ed811edb960bd104f28b9b98a593851c27c7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5f0b2ef77500dcda06d15179720b39772d1f2305,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5f0be971c7378233eb8770973827556cb2ebacd2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5f0da37f1b8c14afee49c83a540fe10bdae5c118,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5f0e97101e55624fe29148459834ac5389522c88,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5f42bf4c09bab264d9cb34725a198066ae82e101,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5f4ec13effa80000426ac764d8c2e313d4a0ce96,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x5ff84b0e40b8bb7a189118f49ba7b8f74fab973d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6047322d501de69d3dd47fd52611b965bdb8facd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6049761986af66cd8e78997c940766bd69c7f14f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x604a3636d184093cf9ade94a332e4aa05350d5f8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x606ffc68a29ebf92f9dc1d041fec5d0127571083,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x60a92c8620846d81f5ea17b0564e0d4b7c545a71,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x60edbe206a976915a79af9316824950196179c7d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6138105511d0442ff652349e6705d06024ac2e07,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6147d56b02fabd35cd9fc2b80a60276cdf089521,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x614dc8d3542c12103d2c6a3553fd761e391d1546,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x614ef7dc91765f9119d648ee0218685292dff2ff,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x615346ac3277f46c5282bd7eb20fc496d55144ab,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6268011cdc123d7ab44cabdef70b7a571f286031,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x628a9ac7d5c6e85c1777adf34287a6a719436d8f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x630b2b36f4bc512ef2860f2b5fb17e23c12d48e3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x630c8132d184e245e931c5a5bdc3b2dd478113e2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x631c2b93ff03c21d29b2b73af4ff965e88ea450f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x635d4ea180ca206cb2ae9c02bfbe93583b195025,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x637f04a15369b9c6e815fcc84bbbc3fddcf5220b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6391098e7404210be5b4b67c1bb6c1bdf4be194a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x63bc8a8dfc4840fb0d21c9ceb7fc046bc34a5025,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x648bad7080caa1a9931b2774b20e87eca75900ba,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x64b2120337f24f46bec3a36dda3254f902de55de,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x655abbf374758b27b047ef97757885b4ce0adf0c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x65649fc779c66dec9d2bb48edea367b06b6f47ce,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6564c6c44ef87e3bb32d7987317869817380340c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x6565f7ee4e2a667638ab91aefc0528b5191a8d21,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6573e30ee0ad46bc9afa0c2adb0d3f147d658efe,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x66a1db98713015330a82f08273b682bee77e80d9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x66ca133ec691ca210251fcd4c963ba220515225a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x672225e5e1aba1c970ac613efd1505f4b7a10762,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x67aa461d99eb5b95eefda2eed7af8f4efc0f8f46,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6966d2f3a2e0727b0eaa180ba5b33dc645e053ed,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x69bd16636702559651a8fbb06ef8dcde817247cb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x69c8df4225beb08afdeb5b542e81a393f426999b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x69d0341d380a1229f4751a0a721345dbc716586c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x69d0a6ccb76f3f7ef96dada03b01b555e76fa819,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x69d57cfa1abed351049d0d8de541b33635ce7767,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6a2f0438131fb53ade99442ead13558eece87105,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6a88c5ecd262e2c42e78bad8e6db7ab3c4e4b859,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6a924500b46196928132932bea000cf05939e8fb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6b133170edaaae9d61c296ae8c7b9f43bb3bf125,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6b24cde2e124122ff52ddb05160896f43f80cf25,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6bb3ef6992eba73ed752b95649425688692034e5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6d10c34c55db8f1e170c46e3c65c94563c6d1a7f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6d7dc1204ab1e543752b9b957b18a506b6fc9c1a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6d7e9de0d272d76deb5d79d0ae32958dcdea3248,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6d9b04e46b8807a411ec5aeb1f2e5293c556a7da,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6db0ac9b551d20690ce92884ce3cbb285a91f6d9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6dffbb0f349c785cba3874ea9d76a084ddab48dd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6e4976c274384ada57ae03b75e463585ad01f1af,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6e66d706b3da54f4e43a1c98ee4e3c3a0d4d48c2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6ede3d5fa80c7035e151229d3ce8f303950f97a2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6f3b6327969175e22109cfbac94ced908c0d4ae1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6f70aeed7e7a07a5c1d9fd71a924738833145948,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6f8d05bede9466082cde4cb10811b13d822b6e2a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x6fbe7de4342f3afa55a20d848b10ab8e3c071b01,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x702531bc3e53016704075d33adefad94ccc1579a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x704aa5cfd689da5b14e51e52f4ef92ac151b7183,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x70a21f1b3f482de6ac3c69e5e39e9e1f5efdfa09,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x70bc18fd72280d6b2bd22414f7f00682b0e14f4e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x70bc7d32ca23fe6271100fa28690d536e9f2a453,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x71bd821b2c823cf67ed329abbb6a05d3ab9eac00,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x71d9fcc2f94d23000ad69642e098c60846ac39b7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x71ed0bc95433cdf1be29f43219725fce9addd9eb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x71fb21d917b2a55456a3276b5aca33b2d560e7b4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x72a22d4d155079da8f50c89d4c6c03b6428e7b65,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x731a241767938bb23d1b2fac4c9cd2f3cea9033f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x736539924a5602b37a03a54fc12c1cc8f98964da,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x73c2a806fc7390b859525eeb7544ed6d45562f7b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x73d225c851df25d73b14846a370bdeef9434f9b7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x744c2f5fadbc305d20fc91274b71a6896d294946,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x74715e529168b8d466a01eaebd5f6476faffcdac,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x74957ea27ac4fbdee46d861fdae357859ff67fcf,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x74b200eaad61530ad0afa6d75d1fbe94b90ff6c3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x74d57194105b54fd3a7b859124a22026daf291c4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x751450fa3167f00422d61eeefe5e85ad41245dd2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x751a2b86cab503496efd325c8344e10159349ea1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x763777d8d72851a344d5cf675cf92a197e67ffcd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x76c54a0de8b0a3233317370056804fe998ebfe58,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x77446aafb04a685d9e7d33a773712a56fe7023f2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x77789126ba2033dd082548e668323a344870261d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7799378b43ff5ba1c78056c68158b874501baa3b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x77b54e172aca17ae856a0d4fef00588239db45df,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x77c13d2d7d41ffeb404f445afb9dbad78c3b6f9a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x780a5984bc095bdfae24fb8ea41d0c437eab07bd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x790658be2efa744273435d3f2a5d3de94662a9ae,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x793d214fd47833e96d6abdf866ae62512fd18720,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x793ed200a1e8344d608a17763d9cb8773b3643bf,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x79463f0b7e76ca148250055da304c4e25b8c387f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x79c3adbae459b4d1a3ac14ad7032b4cceecfd1b4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x79c8039c0cfbdc3cdf8d66efb1ad2836e698ea3c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x79cbe531cca9eb9320b6ce22b6e471a7bb5d331e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7b676d5a6379855773d405fcf19b9aa577651b07,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7ba5354929bf388707f397c8b21b8322dc954252,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7ba94a914454cfd5da67f4e7cb123ff8644360ab,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7baa3b328603535006d76d7b80af7260fd8a946a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x7bc14171ccb0d3e6bac219ec6a76211826e28db4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7cc47cd9d255ff0c3d1297a4e7cd0100b7bd5dec,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7d278cf6366856f6a5d128977733235610cb331c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7da056469cf07ff15cd6f9c830bef2249291365e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7dc82b3d81d3f7c0768d4001be34bf1a7dea7f0f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7df61ca342c9b53ba9b4c60745718ed48a77ac3b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7e91e86bfd38e3a4ab3187a780d03d254662cad0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7eaadebeaa566467b3881a5739c39a5196b0c549,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7ec21d40d403c953a9662ef29dc2c3fbcbe79b8c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7ecf67bbaac3ca4eb129d06252d9363cfaec1f5c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7ef586cbf853f7718704681a131b02523658c63e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7f279444b05b23c0772a2e0747fbe2a7eacc7a85,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7f6df986b69769665b41335c42d34caa154035ae,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7fdd0b78ac327a45df91b383a91963299b71cbae,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x7fed6777976286e8f927e409f07f22a456ae9664,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x80046e7909d0e9fbf79334ae3142e573c04d35e6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x806eb39a397cd3a17dae90ab123dea5099fe164f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x813924286c5907a42eeb5579223727a7a2fbc4cf,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8166910cc2f375fedbcf91dab5f8b0b451196f00,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x818c6ad01037ee805585f1a9874ea26a77007539,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x81924e30a4fe9e1eb715ade61296be6fa74c0664,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x81de0770551ca28dc0dc7fa148406d40bdfc20d4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8242a0899ad50231a13e4dc401d1bfbbf3f60f3c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x828d1dc3586d7aacbc8de4916685690b1453c9a5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x82963e0746cdcbb5c73aebf79251bc54c383e9cb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x82a7f376d8ad5b6e80b891729b380ac0a1286011,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x82ac3585ab4c876acf7bc28cb6833a65ba7ec7db,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x832bce13fa76d504c2b747587c274c996b423ae1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x840bf8f06b175aa001b85cdb68b3378e8b14946f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x841499f8f5f869c20886d581641dc181e9c6b672,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x84252729ed32fa0fa1b454b8f58b71758239d627,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0x843a1f88e67c338bb5cfdc4dce7703949cc0b18f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x843c0fdaab99f50aa1ebc7002e6e31cfdd0d4863,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x84571f1bf97a5c710cbe51daff2dd4556cc887fd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x845adab28b17a323fe2c90d107caeefaf93aaf47,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x847667d84fc4d81db36689c4f4c5845c8d125418,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x848f5c1de1f3110a6bd233f5bdc5eec6692d0967,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x849374a3481a4c8cd717e32558ab2aff2078e006,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x84956098a279f4beaf85696f461e60d75241b6e8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x84e11b7e38e9177c811489152ff487af4f1f61d0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8548682e561668a51f99124d998db97ff326e67e,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x860c51f3afa22dfaa4ae2c26fc749701f545418d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8631af1639333be6d1dfe6ddf0067ccbc1f83149,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8691cb55e8202ee71931d4cc3643fd3457fdf1ee,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x86f3d4bb1875e73c978b7e926b0cbceaa30eaf44,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x884a19794fbbf816527abb4dc866300268a7aa34,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8885056d8493536d6970059c15d35f47ec1fc5d4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x88edd092d799556111e57ff3b2107e24dd406cfb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x891c78dd395fe24ad2148c64377fdabe5cf1e455,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x89bebc6265fa32861e38ae26e112aa4694b9103a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x89d6cd9b1846c5a8c93a46edaa2a5b107998ea49,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8a1480dad6a335b8b527731bee0e14e7c0bfb0b5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8a644e388e2b6b035abbe131ae7ffec36c283c57,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8a815b830d6ecfb203abd27334ef8d621e2558b0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8aac1bf53a13efa2257f9d2efacd6c1b3f0b309a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8ae4c80b281c2e65796e10c406dd86952224273e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8b13db33b0d35d32bb88104dab04e26acb5767de,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8b64673c9a482913a6e2c1298637532947cd96ee,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x8b6d933c7468afbba6f9f8e128ab50f9ff54bec8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8bd7b5e860998607715da42944cc9de3486a3ae2,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x8c2f71eb241d65b3806239501f1a501af2fe1a88,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8d21cce66ea42c9af6efb82c3e3b6ec9f56b3e74,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8d47cd9b8b015b0f3865e8ee0b96b8125bb1f483,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x8d7a21359a46bd5c27b2ebf22f1324436e51276f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8dca95c4a159f0ada72be834d4c11a7f70335ea9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8dcb71b042f532753f5bba63d5163adf9a1866ad,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8deddeb62eba0d803da59ee4a9dec634ebbae329,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8dfd5e31a51b1850b21e4e737d9655aad89bcbea,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8e1502350b4bb8d9e3ad491a0df2c11d9060b44e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8eac8fb705b60197a3395bf9af2d45ec8a483600,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8ebfdc251c6c378d4a3a54a8f15cebfa4b9183ce,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8f41129e43ebfbfe6075d0804f3b2bb763b3260e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8f7bb1d97c28278e28943b8481f1a1651605154b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x8fff01819bd9fa175cc2c8feab5ba3730a770482,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9070ab4ca09ee04712f2d2b1a4623e599d04b3df,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x907d7ee926c7a3d8becf7a1e662294a93b6d20c4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x910eb896a3f4388790c42cb12553fceb19e620d7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9135eb2574796b51d390234ef5af565bca58b8dd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x917f466ee31c136869af4438fb01ddc410e04e2c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x91aab8d0ae5c7dde7d9ea7ca49aeb985e09819b8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x924412a2b856ecdc4b510b1fab2b3011be1c643c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x92d76b5d5ee767a4a90719a9a910936dc4006fc6,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x935dee8f976a7f08a0fbea4106bb09f0f1dc08ff,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x93e3a3410740bec86d6d6631b867a0a6d1b52b0e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x93ef12bfc73651880a24c0679333cc4ca0dc468b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x945a49252f772a10c6ddd1d1e1e24ee20438a48c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x94b741159100004f391efcc6ccbe5a8be1d4beeb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x94f1927375c2bc1382c4e521a3ed14af9b6c3be8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x95074f700f93bdf6e62fc965e0832064c0877b04,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x95172e263f7d5761099126e33ce08f41038ef0b3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x95c2457b36529ab8717e2db80b936b6533a8485b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x95cd0e455cf41e9f8cca8eee488432f3f10f29b8,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x95f13739807fdcf73e2cb1864c29aba854063322,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x97f937e0ec5068121db4a4b900140544b09f4e4f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x984b84e325d51e22058a62b42c5e50a98ee6339c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9895c337cd7a93e845970f97b3baf6e7a1663870,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x990b0d475c5dde492c1fb67efd9e698662347b0f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x992837530c9980e3db3d5ef9baf9fc3390408cee,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x9931f957a7445c9cf3f48cf09c3e523193b2ea8c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x999304fa61553d644b968ad36f77c46febf5ada8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x99bd7971cc56bbf3886bec226ddbf61752993d62,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9a2f6520977f3ef9d009577532fd98f262e51f59,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9a3fa403a6666eef75f92f181fcf13f9c051914a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9a94e5b4f0d6c646ed49e832cf8142c45474d5f9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9ab8d6df7b6c973b820a2a5ffab54732683ae9e9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9ad091ca2e8f1bd69f27662edcb49dceeaa5bf3d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9b5fb62ff41e104e65fa6cc4e57575ebd05f11c5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9b645cf105be1c15e5f955f8b06feac8a590015b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9b8f31d4a132cfd3425eef49076e56e60dc1ed2f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x9bc114cbdf47021f15416e720bc71b5341120e87,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0x9bc20ea6d67332be3071a7172eb0704244355a79,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9bf16573cb91f4e26b91d7a4f4c8782630585e29,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9c9e37ce7b45db5042612e716d582bdf55381a30,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9cc9d7766000d621e39dc9865a9920b1f224ac05,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9d3e4a2f6e82e6c78fcaeebd2d58eb4e68642c6b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9d736920e486176e7df7a76fa218f1ebd853216b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9d77b70cd7f7b8aa1edc140e364dc4519d67cf31,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9da7ab51f61b3cc5e7b34e6ef460c7c1654e8d0f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9ddfa4d5b954379a03d19f87df36b9820b862c83,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9e307d74b79af7930608065b9ce24b20ed2a0d35,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0x9e63c34aeb862156d947c1471b815fbf893103ef,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9e6ef45a4eb4904f539845ec44864659ade67f49,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9e83dcf11f1457887cfec68efaec6ad6aeaa9394,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9e98bffe91eb110ee744939cc207ba31c920dade,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9ef582748baf671ee716075658b870ae747c5d4f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9f086ae32344b489a004109f06fced08154273a8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9f83f83bdfc209c6fade8a2c77ea9667e9176cd9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9f8825251611bbb6c13bec096380844bc3ed7e43,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0x9f9458d8f4f6bd536e95bf9264672984b670ddcb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa012e12645cbba5d03320b1d5ec20c5ef0a26e3e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa022ba0a68e11a78348382ff168601012d4d77f8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa024b2f62b2afd85c4dc94930e74834cb03ee8ec,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa037e3e8ec2f0342051cf3855870797e25b4329c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa06a2e4fbe50229e2e0258cc7437c9f76917af2a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa0cc7eec68f2266d540449b319d5eb9127a0f2df,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa102b434ce441a3119e146f75ed6276ee1a836d9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa1308b877215b9721c65a76e62a14085a680b281,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa14dd15a484098b6b15e01891319f708ab1ffcec,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa182fa00bb8f9f43ab320118f5421dbb8d918b7f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa1aa96c9d7bba38aba523f7e5e73bf69053cf2b6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa1b2fd05bfd26b1b5ebfa39959ea7e6dc93140ca,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa1bdfe0c3e9d40eb6d986e3d2d607307f1df9971,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa1c79dfa3e3eee4e72bbb244f68beb437b0049b0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa204c9cfab0569f2623d2ec6fdbf26a986ddbf99,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa22fcbc1b2b9eacade17e128d643ab3304ffaf41,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa23eb5cb3d1c565ae0b3fdfbd31fca3f33729e98,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa2967c72d714fa74761bb2c2a7c924532e789fd3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa349e113d4a28fa83d65a6d3fa653f5a5380a150,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa3a983797c65730067a311d38e5c677e3283dc0a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa3c2ec158f222f3f4f5f4f57b113d761a4d3df3d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa3c7c8c3c49427d840f7e62e46d202fae2a53e1f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa3de21c8e8248a3bccfec6b68e33d4504802111a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa424ea87dc7ecd4ec2b888d4d711414464e25e12,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa48d4fd872b8e9eafd3466e2cd98566560494cbe,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa48e29c2bd8b5299dfe8e65330976594ec7db476,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa4a94ac26ddaa219f6d1cba12ae7066b56d33d13,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa4b366ad22fc0d06f1e934ff468e8922431a87b8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa4b47fd5239a5deacb1f03167f2876fe8ee62472,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa4c8e8d8983e53381b25967659a368f8e108aca2,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xa4d849e3b972088f72ed2899f2945410cd784ba7,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xa510249c44a60591cbe1747eb0fd97267d431f80,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa515950e37a72c9c8b064fbf9cbfed55cab02df7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa5c7114b3c17cc6b64afd5883eaabc7272497e7b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa62c41929814bd6efa808da05619ac24787be626,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa652efcd4c7e4119f578032b056136b3f29a6f8f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa67685fa5213fd8167977bfb7b3f50c06d511c22,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa69f17a0756c89f365a84b644d0fe6ee59c2f921,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa6efd883b64bbe346118734f28fee24b980e74fc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa6f8220dfac596335d6b6719f2a2c7b451cc316d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa76ace7503f5e079972be220162bc2b391db2986,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa7b9d5fc54eb3ffe1985a10e28d045a9b89487d0,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xa81ec81787d5dcd078b9d1a3763f6508d5d1c74e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa82b0e89cf734e2fa70cbd52ca65c77d64595220,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa87b3be0b1c494fce50ec98b3f98ec5f80ba86ed,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa8969b3f32236a5e108e7836b276d4e1715de5a8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa8a07987fd1df38b23b9e3ffee3de6449f1681df,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa8c63f775ddbbe66b56614191747def3021444e8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa8c9711b15779dc60d3046c675e61998636974f1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa8cf47316c1a3c0da7c2f00ec8dfa966c3cbbdf6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa8e20d1b16c2821c2e17a58eb9c92c2ec7699283,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xa91edabae0eae478c830a6d5dfd3acc0571709e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa970632083b618e6f865fc3f3b711eb0210efd1c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa9aca75fb5d8f04c2ec9eeb0eb0c30d2e526c5d1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa9b0d5c5e012cb47dd473fe3cea272b5f716c344,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xa9b73b68f02f26238e2fa948fe0b7dbeb5bff43c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xa9f7df44d7a2f1fd031e4126a6f750fffde12633,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaa06f6e8d4d0cce05d521fbca234de77c0af1e0f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaa2dafa4d2e39bb5ca975d50845420e5709753b3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaa3281fccc565d5092a7d6e89866b9c9a4f9f6b4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaa520ad46b0bd8486811bae3551f404f67083607,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaab430d847a1d57abce074b549e4d59497ec5a40,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaacbc9d95817074834824232a53bbfb88ff290cb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaacd1721c949e370d8054f2e52c24a5a348ec1eb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xab2067f2bfe4a5bce93cda6f418cde1515d2d9e2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xabf0672b391f90ad0c3dfccff43f2bcc916bfbce,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xad0b860664a781cc164fc8ea36f81567ebec2c5f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xad529df14c293d77984a0137990a1441b25211ac,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xad85c2f3942561afa448cbbd5811a5f7e2e3c6bd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xad96914d7762dac84ebbabafe366ae8ff24dd498,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xae86937214f218e9ea82be92b4b437caa211669e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaeb54882db82ec38f2feadbe82640abeead1b517,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaf24e37db6419cd98983ae20b42652e0e4ffa5f3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaf4635074c8f9966ff44f2497183b53fc0578c1d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaf4c815cf13bc8671a2a12bde62aabec24651ccc,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xaf828d3c6f071883f421dcb9bba5dc19b87e17fe,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xaf93d8484093be24539b4bc9369d142a78da5d2a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xafadd8bfd959b005c5281eabc7966f7f1dc110c9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb09080c5ac5adc483208dfbe22f8684eec907c17,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xb0ef8a3f9a8160152828a76cc24eea184aacc501,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb21be96dc75717272402ef97a5cc144544263e3c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xb238a91ee698b7ab265b6a99fc7347ec8356221e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb254d24b418eb429628e2eca9f390b8b69c5ee4f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb2e06ace9893458a23b05ad396be3ad3fced936a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb2f9dfd23bfe670d64b0e4b5aceaeb7d5433b146,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb32da0aeafefb28e2bfba79c003cd381993e79b5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb397dee549e3fdf24c82b72707cb6fcd849d214f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xb483d5718da4ac6f2aa39dc933f2043c5a3a0880,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb528a976ca7d476602f8040c3d1a49e5145a5039,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb6987e4a9b5f238bf627ff2aa511f0c0da50976a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb6a8461bf89e38e0dc049adf957a55f48d6e919f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb6e74e6fd559f9207679d128dddbb35b9042a166,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xb731ccc5f62e99ea25220bfd73c3867bb5205790,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xb7351893b4108a62cd765cdaa8ed6e8544e9bbf2,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xb73812cce6f5cb7ada40a134b4b16aefbdbb9472,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0xb7c32e88b7643dcef621c123836eff0fb5f41d43,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb883a22a0fa91439c4ca14d726fc571745108c7d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb8a47d387beb9ec7fd4baaec05396e9677cea13b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xb939edfcee10bfb12dd13603be79862cf94e9c42,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xba17aaa8ed37ad40567a3f62fb49a41dccf392b4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xba38f6073ca6434b91e9969d66d2a17d6075f74d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xba43c977413b9b9438d340103bf62f82aae69eda,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbacd00c9080a82ded56f504ee8810af732b0ab35,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbad26fe5458e6219cec3e40272760e275e835296,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbad3c62ad79b733f0a6539b2b02e55b0a6900900,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbb4d7631ef55f069f28b5441c500f035deaed388,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbbddb23272a9c5dad40d4a8bc6cf49e3eaf3c26a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbd0477e08d82d35a855ff19644a88a9213d8fbb0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbd315ebf29e9d7c155a2ad7d5c1c8845f29af9e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbd81954a4ebce3a843feb3fc6ebf439cf1c6006d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbd82a793eea1adf0a52f8edfa74155f71bd2396e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbdd0da8679a1883f792f33a1292d8a19fed0a6e9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbe74297ff19030f104ce1d538709f43b30eca70e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbeae9360957c3af4977972260bbb4539762ff5c0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbec3396836c22ed69945d4951ca3fe7c2f520ff4,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xbf01a875a5b4dd144ba848da805e79e9e7395ee9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xbfddb940e8fc30604ab066d2dee13fcfa91bc219,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc02147dee42356b7a4edbb1c35ac4ffa95f61fa8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc0307bd41fa72c331900c55eccedf40328c9749e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc03808e0af01563a739e408268d5517dd7d710f3,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xc06562bb6f77bacccc0cf7a6a8ced62579d10fca,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc115ba2350a57cadcb6dc1848322d3b251ec9138,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc1265aa3d6f6c8315756bc46305f29c0f7a4832c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc12fa1c74c5d97c8eae9c16ab9df28837d9d39ee,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xc1a76c54670b7fb1c1cbafeebb7581ead5eceaf3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc21ddd0c67c26a4fcd1fb2d0600c9d0affb60097,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc21ea96be762bb55041529af6e386e7c53b80215,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc26345e2465bf00be68a735ca59acd4ff3e16c0a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc2780797a62a229736743a8fd26ababa7358788c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc294089cb84fea08126227c7626ee9408fd84798,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc2f7fdc1a0c56eafc460caf2d00c45e630d1aef9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc3cd1d612bbf9fbf80da5a9bff0b0470cb46816c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc4086b708cd3a50880b7069add1a1a80000f4675,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc40f1dd81252612a8f3447988cef8a3e51cf0987,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc41a7e1f63b35d7b96732ddc5a525807fc8ad7d5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc43d777c9d3bdd23741b611eb17013fbd7aaf63a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc4582f4fdf283df30eb17535a244c5763372ba30,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc4819c9d851da3c40ec3a5cd1e1772c84dcd52ee,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc4eaee3cdd1e20a75209250dc8c67a6d180262c5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc4fbfd8c2bf090568f8eb207123364a3f0352bfd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc514ee0ec7d8cd86d32b60cbbe753f115959ed00,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xc636da66cfa5c363c4785835069dcaf85ab91feb,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xc6587b11a2209e46dfe3928b31c5514a8e33b784,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc68b7bdd22c1d464bb4afcdac2aca85fe176b030,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc6dd722558dbfbd8fa780efcbe819ed8c6604b9f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc70b6162e112e411986948a24b1bc259068fd2f2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc70c39357d8efd198c9d25140478960db8b18535,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc757850237e266d3b08d16b8455777a88590ccfc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc77bc7c12cff77cd80de2d3377ce22aec3a6a526,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc78d45a110d2a8b0f9682d4f5d6ceedf432787eb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc798197ae9aff808af4406320f31d822ae788aab,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc7d02944a76b9f83b199e9090ecc92c82d241f8a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc7d281f560b1f322082427b96ac0e4895434fceb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc825322f1697fbf3bff1a20c543fc1179ab1ad3f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc84028b40686d1bbcaaa4f0b966d300ed85cc9b2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc8613f8fef9985b231755d7259104cb768af9f3b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc8ab97a9089a9ff7e6ef0688e6e591a066946418,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc8b4a7c47acf784bc1143c8bb8bdcf7bafe919fe,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc91e6989491c792b3c98355f5d8f08a4b0d9ab09,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc97a4198bd5cc9c554b77fc6eabf91b71813168e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc9c7a6ff14924d00e0f6a2e531394f634b6a23c2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc9db6c957b2ba169608907443f3991b8d01b2ad3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xc9e8233c2c5476cda4f96595bbb3a9d117168df5,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xca6e53a606d825d2312a86c1a5dcc4c1e6eb73e8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xca939b308e611a3211c5d3690cd624602350c4d7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcab1a13e4657cab32161444e55d2fe803ea67dfa,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcb14f61711d913773f4b982af340fa7eae175358,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcb39f69efc6b293aa8b72d3164fafffe78986dda,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcbadceafb24c0a5f1d2ec848fe8523361a17c86e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xccc42be574a1d9eb31cb7ce29f03b3530bd377ca,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcd16c08f73cd87558304ce2209fca69ac5885e69,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xcd33bf06b0931d91899f9e7914e6d1e57b83cf51,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcd7c7a3e9a53d2e58c327c6b13936d8865fd6e59,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcd9607c4a676b7815f10bb8bc25355414e47cbdc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcdb1f1ef8213c06911e4ba6a884176c5571e276c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcdbc69eb662396d5a1877b7fe5063c2cb898f38b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xce1ee0c8de79ed12902869b67afcddb5456f851f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xce50d0b41fa9a61cb71bcc967cced83f074f1e2d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xce5bec63b40392845a9a504915f607c8e03a047a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xcf2e28e5e57461254b8b254ae6d03c89d19bf743,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xd0394bd0de8d901c3fde039a86bf08e6aa4a2532,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd0a530121747b005af6bed69426092cb525713d5,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xd0db79306c38e8ce1969ce80dde58fa67a67b117,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd0e21b00c14144ee50c1a5daed508315eac2900b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd189664c5308903476f9f079820431e4fd7d06f4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd1c769317bd15de7768a70d0214cf0bbcc531d2b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd245304a12ba711de764a45cd0912aee5ad52318,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd245cacfb253da22550517be815ac4e0f5921b15,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd2494ceb6dad8cf772e550b2bd327c4fbe3210da,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd25b8718f61fb64a754356ad8cf16b5579f59f3d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd2818af38ecf10a546758d077f95941d1112d750,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd2a78bb82389d30075144d17e782964918999f7f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xd2b850de39bf48ce50b6b6b3bdaa8951e6887223,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd3f7bfeaa8c1b65feb428d7988d49bbbfa17b781,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd44c919a655a007bcee15777c76b00cd3d8828c5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd48010de315e10d071853b1466f0c273e766fa07,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xd49d7b8c89a7ac72b0d6e84f0690e423637fc12b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd4d162d4993de762cd253ba4ac881f883f7a086e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd4e8d48486808c84515a22d2d9e2ef096f26baac,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd52b8dcb4b812c4056faf41164a6f6c73f4c5c72,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd5b6e187d28acecf1e82b21ecc9161d667c08781,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd5ccdf772f795547e299de57f47966e24de8dea4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd61e22734b257afc0710f6b530a0abc244eac34f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd6579403575cdccde602476047ea0bc220b04d75,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd67092c26663a6c98d3bd191c1c235379a739ff5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd6c7b1d0cdc3e524d38f8d1cd77b71e6a7be519b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd6ddc6559313bcc819f1df1b3647f3930da998ee,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd7617c7e532a3416a9a0ed9acd2fef1e4f1f75ad,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd837a0de2c7298045b8a1ecceb367ecd0f0b2af7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd8d5289c35124b5353f5a10a28b8cc29aec38935,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd8d5468ec132315e4209592bdc08987dc8b9c676,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xd9ba1e6dabf3c358282b19a69637744e3ed24c47,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xda37b0bea39e8af1cc9f7c99dac60f9a9c568940,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xda39194d075955d34aea74e557470ae6e44eb4aa,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xda4911a6ca2ac8ceea15b85f169220fc6141c716,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xda9126becc96be3598ddd05c4fc06f4093759ffd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdac5733db35e954c2bdc10cec0039c30ef014c4d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdb2808ed6cf0b8b9686222689cf4f6e88e42b80a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xdb7182c004755d4ffb180ccb48414fa23a914a20,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdbb80e4364667c56ad5d7675b83759e5c0a9f7de,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdbc45db6ba0618e6182109854e8d19a77b4f4347,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdc001bb6b2e0425f5f19dc74ea5b222c396f2649,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdc8d1c10dae2e945f096633924c238059c91351e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdd0a22a520624502c92c8b5138ad70669ca2c642,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdd2cb8c9b8fccdc366ae60f4fe1c99813ec0d18e,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xdd572169e741c72227589c5cb56b9ddd638d694d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdd91ee2aeacaa4b14c90519569e9136aa5fae3ac,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xde7be6d489bce070a959e0cb813128ae659b5f4b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xde8e310a7262bdf971754737017c0e6ad962d8e9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xdf7c6255fbc7ddc7eeac9ff33646b904cc0c1a97,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe142dfa8d6a752163e3ec2d52370d6ccfd6d4dcb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe162abe935e95d1ddb485b747bbb7d639cd81301,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe21d747c51ef4675890c4cb407c9663f2805c468,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe25b9180f5687aa85bd94ee309bb72a464320f1b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe348855eba9f8b179fe379dbb6f776e40f46484c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xe36b79317a75b08384c33d21197c7e3273886873,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xe3f0a0e9f6ddaa9ab041999dee170e874c406c6b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe42088fe251e3173e680f4b4a7f3942e5b8b021a,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xe499d0ed633da800ec8b2282a483c4a93188e36b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe53207e4032390de35514597cdcd64e93e33a08b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe61b95af3ef53de99cf3c1916d4af3b568904f3f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe6643d4bc9ef9a7b4a1d52a5d6b7df97daf6431e,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xe6940b14e6652d9f2c6b774e3eb4b35ceeee7e7c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe6e53d1135e87edd8d404ed52b3e937983cb8e81,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe74995389bfc1c24ca656e6c2502c1fca757f771,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe79d4a9f19e36f12024b1de884c6408faef96a40,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe8278d22bef444ede84505b7c0ec4e4001305209,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe855d15e21c32ca08fb98f23c98360ed9bd238f0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe90fe094286107ab146138930fb878869702131e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe9354d07f8dade79f8fd9c0b64c15d98d2423991,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe96d26ca077a331e126f7f66917c00373945a747,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe9b7df60a820bfe2ca9aababc49a03e74803ebe9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xe9c7fdce5c440eccc58efb7d844477c258025653,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xea60bedab3cd94841f1937fb72ec207568e383f5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xea85ab56e7e65b065076e7a26e9792f3572812dd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xea8ee311382139d952087a669252252625663de0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xeab7b0a830a1755f1296fee950b3080e3529b389,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xead6e4fce39452a0534333028cb4bcaff7dce0d6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xeae1c93c8ba5ded36a6be65043c3d62b3ed665ec,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xeaf0f2eab859d1036ec14f8c4a1a7da8e4ef6aff,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xeb095cb8ffd3f2e1196205acdf33bd3cb695bd5d,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xebb0c7663dd57f5b05ad5dea26a2cd32a0798363,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xebb7d9e2359e152e27f367a291ea2ac5b7df4736,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xebc6257296364265b17cb6e2d605c66d14fdd45f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xebc95608eb11ab482e2336fe08e67171ee21cc58,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xec2060bceeb4c2e803cec5b3963ddfe7800b3fb6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xec346b35a2799d574cf65f43d8e0d9d3e276d61e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xec5b8592fde4eedc5ad26be552c7da215fd30151,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xec6f15a8ab62fff46adf251ea17d2fe4e7bfaf0b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xeca0c0888e34df59589c67fbe53dc7f298b5e8f8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xed0429b2d9ffd7a7dcf6dbc80d20583039ce07a4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xed107a85a4585a381e48c7f7ca4144909e7dd2e5,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xed457c7e2e3e28cf8129502010fcf8ae5b970d29,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xed71bd667e3275a72040467827507385c94597c4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xed92d127277fae0dba3490b724f81dcb95a8a7b0,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xedc2834124c0465fb2ccbf239896ef65f975ad9f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xee1655a48ed1d448ac1e21f669fca7ab2b9006bb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xee257b00fdc660243235dce9d909af16bdef7cd3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xee66189831a0796c2de4f4eef33d97cee719b679,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xef38b778a2f371db7a0918be97d1344c7e77adc9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xefe1fcede58d10606e89fdcf7539035686c7e2ad,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; eventVoter; workbookStaker
+0xf0027afb0cfbaae582e21d96e2761b0b07bfbfb2,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xf0180d4561dbaeaac3b96b7491bfafc94cea4069,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xf01ac1aa9fef8eabc5e3c764747aabddaa90f231,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf01b53983491af4aa666f825eeee46f169ea224f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf0587af44973936b50901aa60084cc1e2dafe173,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf0ed9e68e6cd3ee712260abeaec32de56a7d47d8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf179611b9855c528042343bf0ab351719ecafd27,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf17fa09b76b0121d944f834f0deeb959e872b558,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf19b6569afbe9520d0e9afd5b3f034f21226396c,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf1a373992677f6817c762994c44802b60de5f17b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf1e54857bb64064cac6580fbca6f1a436ec2c9e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf2088ef95f5c1c0eee2640e8da537d6a1c175eef,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf2384ea0fd45fa075100a8f9bf585e91f121c3ba,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf254e0e1ba849c8fdbef457f02bd6283f0782ed4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf25b97c7b6b9cc2a8f898ae3bdf157781a6882d0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf26f230844326c168296309a6c9b2d6100a183b3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf2f35075f8e88035cb349dd4efeb5c261645fda3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf39695c39eacdf81d146ce6667e81476ea9b3fa7,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xf3ad4d92500389ed6241aa4a1e25115ab2949e0f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf3c93cffa5373b315f9957292f7824bf0f6b1f16,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf3fb23c98cb720442dc0f019a8cadc5b132eb340,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf45079cde1c119496181b3f8b5cc0b10cd029e45,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf4544ad911122d6abcafede027c01671e3d77ecc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf47fd4990297c2d6cec268b3656bf284fb9f79f7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf4d0b62bafd9c9bf1b4b1d9ff849568ea3be4637,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf4de12ccb9133b51df0cb5950f829043d966ac06,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf5160409d48a329d0104db2888eb53184033bb58,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf5e814660a5a5ac071390a36122e7bc7c1309fbd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf626c50e854b00ad6f255939ef4b6c8926578a12,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf655347175cd278fcbc4785bcb98ea44ed9a09e0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf659a672600f7c9f6fac317f884f8c76357fd48b,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xf6a806238f4a41af27f0696199449f41b2ba2687,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf7d132c9aa541ae09c74357e160fa05ff064f3cb,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf7d9e1136eab257ba974a4502050769070743e6b,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf7ebaa7f2f205a12609f7d1d0927316938c331c3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf8951c1c217f372e5f5939021c56f9cc5c8b02a4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf9087ef0758c069cebf909f4123a99c8ec475794,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf9696cc0b44224545e5a5a13aed16b8a65817ce8,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xf9a23d70c3429c582dce8737fc7d818f9044a79a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfa37e3a6b6a937d4dafcfabab4a415841a5eed37,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfa394a598dbf573202a8286b45f512c7a383977f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfa93e76bb7de1071d6f9c0f77af883c2a944b2d1,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xfaa55858f098040003978c3615a086cdd0cd7cc9,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfb482e8a88179abd3351439f9b8095180cb15c1f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfb7fdd0f3d964aa7da59f354e8914328d985fb67,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfb94615f863757d60cc98a4e4ce37ad7e5c1494f,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfba65b33e7d8f978ab92921e2a2146789bee3dc3,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfc007e15e0da73525fd0d8e8e425df14a0820be0,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfc009a8ca9a93652afe604486728b744b4f7b460,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfc160f7b733b238fea402fa58b022367295dd936,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfc204fcfd2a579157898a212ea25ac98de2b1e1c,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xfc2f4f50ce2f6045d35558a5e2d8d4b2ac6610c7,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfc5267f6a21ae2b9954bb087cdc4208e039da3b2,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfcbe0acc4eb7e57831eb405f9dd97d1f149a60bc,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfcfa494c13409172109f161c428499b39682ffa4,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xfd8355b24ab8815ca2d76d1e495dc29b4330241f,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventCaller; workbookDelegate
+0xfe2d23ffe604576376e44b8bcec6674d1619eefe,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfeb62967b03452ab34a1d4cba0c8207037655f3a,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfec2ade141272f5271febadfca5d21ca30fc04a5,"UMA validation wallets, direct comparison only",uma_vote_validation.csv,eventVoter; workbookStaker
+0xfef4edf8c1a76e66ff065081a136c9bfeef429bd,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xff12c076486622f6492023399a4e84d46dfbcdc4,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xffe4bdeaafc1c6626e34c89678ff6adf5a6a5ff6,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xffedd68137c2d50b7676b14c95d944f08057af8e,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet
+0xfffd199ace2be82e74e18e6fa37a9cfc96124645,"Cross-market YES buyers, including future-market-only buyers",04_cross_market_wallet_summary.csv,proxyWallet

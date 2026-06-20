@@ -1,0 +1,19 @@
+Step 9B safe ERC1155 transfer trace using alchemy_getAssetTransfers
+Collected at UTC: 2026-06-20T19:19:22.791820+00:00
+CTF contract: 0x4D97DCd97eC945f40cF65F87097ACe5EA0476045
+Start block: 88517743
+End block: 88748137
+Selected wallets: 12
+Asset transfer rows: 12187
+Redemption receipt decoded ERC1155 rows: 1690
+Wallet token flow summary rows: 1063
+Counterparty summary rows: 5297
+Incoming nonzero edges for review: 9892
+Failed asset transfer queries: 0
+Failed redemption receipts: 0
+
+Interpretation guide:
+This version avoids eth_getLogs and uses Alchemy's indexed asset transfer endpoint.
+The incoming nonzero edge file is the first file to review for possible token source wallets before redemption.
+The redemption receipt file decodes CTF logs inside known redemption transactions, including adapter flows.
+Amounts assuming 6 decimals are helper values. Preserve rawAmount for evidence.

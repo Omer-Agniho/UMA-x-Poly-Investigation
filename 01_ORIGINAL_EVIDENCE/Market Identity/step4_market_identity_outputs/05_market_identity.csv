@@ -1,0 +1,39 @@
+field,value
+collectedAtUTC,2026-06-19T23:34:37.018671+00:00
+marketId,2270330
+marketSlug,us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129
+question,"US x Iran permanent peace deal by June 15, 2026?"
+description,"This market will resolve to “Yes” if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”. 
+
+A permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify.
+
+A qualifying agreement will be considered to have been established if either of the following conditions are met:
+
+- The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria.
+
+- Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count.
+
+The primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used."
+conditionId,0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423
+questionID,0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b
+endDate,2026-06-15T00:00:00Z
+endDateIso,2026-06-15
+umaEndDate,2026-06-18T00:32:19Z
+umaEndDateIso,2026-06-18
+closed,True
+active,True
+resolvedBy,0x65070be91477460d8a7aeeb94ef92fe056c2f2a7
+resolutionSource,
+umaResolutionStatus,resolved
+outcomesRaw,"[""Yes"", ""No""]"
+outcomesParsed,"[""Yes"", ""No""]"
+clobTokenIdsRaw,"[""5904694069529905826680225678119990013628860098514322777023141327768111791078"", ""59855952379545476461266875939089074481171378466995213858930892770855011813551""]"
+clobTokenIdsParsed,"[""5904694069529905826680225678119990013628860098514322777023141327768111791078"", ""59855952379545476461266875939089074481171378466995213858930892770855011813551""]"
+outcomePricesRaw,"[""1"", ""0""]"
+outcomePricesParsed,"[""1"", ""0""]"
+yesTokenId,5904694069529905826680225678119990013628860098514322777023141327768111791078
+noTokenId,59855952379545476461266875939089074481171378466995213858930892770855011813551
+targetChildAncillaryHashFromUma,0xfebefea9c50649e612e994415e1aade270fc67155c424bcef61618f5c5645be6
+childOracleFromUmaWrapper,0xac60353a54873c446101216829a6a98cdbbc3f3d
+childRequesterFromUmaWrapper,0x2c0367a9db231ddebd88a94b4f6461a6e47c58b1
+childChainIdFromUmaWrapper,137

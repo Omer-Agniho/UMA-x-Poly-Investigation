@@ -1,0 +1,34 @@
+Step 4 Market Identity Summary
+
+Collected at UTC: 2026-06-19T23:34:37.018671+00:00
+Market ID: 2270330
+Market slug: us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129
+Question: US x Iran permanent peace deal by June 15, 2026?
+Condition ID: 0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423
+Question ID: 0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b
+YES token ID: 5904694069529905826680225678119990013628860098514322777023141327768111791078
+NO token ID: 59855952379545476461266875939089074481171378466995213858930892770855011813551
+Outcomes parsed: ['Yes', 'No']
+CLOB token IDs parsed: ['5904694069529905826680225678119990013628860098514322777023141327768111791078', '59855952379545476461266875939089074481171378466995213858930892770855011813551']
+
+UMA child-chain bridge fields from Ethereum VoteRevealed wrapper:
+Target child ancillaryDataHash: 0xfebefea9c50649e612e994415e1aade270fc67155c424bcef61618f5c5645be6
+childChainId: 137
+childOracle: 0xac60353a54873c446101216829a6a98cdbbc3f3d
+childRequester: 0x2c0367a9db231ddebd88a94b4f6461a6e47c58b1
+
+Polygon getQuestion status:
+FOUND_GETQUESTION_RESULT
+Successful adapter: 0x65070be91477460d8a7aeeb94ef92fe056c2f2a7
+
+Request timestamp: 1781475171
+Resolved: True
+Paused: False
+Reset: True
+Creator: 0x91430CaD2d3975766499717fA0D66A78D814E5c5
+Computed keccak ancillaryData: 0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b
+Computed hash matches questionID: True
+Computed hash matches target child ancillary hash: False
+
+Ancillary text excerpt:
+q: title: US x Iran permanent peace deal by June 15, 2026?, description: This market will resolve to “Yes” if Iran and the United states agree to a permanent peace deal by the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”. A permanent peace deal refers to any agreement which explicitly indicates that military hostilities between the United States and Iran have ended or will permanently cease, or uses equivalent language clearly signaling a lasting end to military hostilities between the United States and Iran. Agreements that are explicitly temporary or which do not include a definitive agreement to end military hostilities between the US and Iran on a lasting basis (e.g. a temporary extension of the two-week ceasefire agreement announced on April 7, 2026), will not qualify. A qualifying agreement will be considered to have been established if either of the following conditions are met: - The United States and Iran each sign or formally adopt a written agreement (e.g. a treaty or multi-point agreement) which meets the above criteria. - Both the governments of the United States and Iran provide clear public confirmation that a qualifying agreement has been definitively established. Negotiations, statements of progress, or other statements which do not constitute a definitive announcement that a qualifying agreement has been reached will not count. The primary resolution source for this market will be official information from the governments of the United States and Iran; however, a consensus of credible reporting may also be used. market_id: 2270330 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5

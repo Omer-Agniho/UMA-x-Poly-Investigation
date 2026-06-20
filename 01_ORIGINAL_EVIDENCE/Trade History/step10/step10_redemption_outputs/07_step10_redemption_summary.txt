@@ -1,0 +1,16 @@
+Step 10 Redemption Summary
+
+Collected at UTC: 2026-06-20T18:46:02.363834+00:00
+Redeem activity rows: 103
+Unique redemption transaction receipts fetched: 84
+ERC1155 redeem-related logs: 2658
+ERC1155 burn-to-zero logs: 1324
+ERC20 transfer logs involving selected wallets: 105
+Wallet summary rows: 36
+Wallets with redemption activity: 36
+
+Interpretation:
+Step 10 uses Polymarket activity rows labeled REDEEM, then fetches the underlying Polygon transaction receipts. The output checks for ERC1155 CTF token burns and ERC20 transfers involving the redeeming wallets. Redemption activity is stronger evidence of financial benefit than a trade alone.
+
+Limitation:
+If redemption occurs through an adapter, the ERC1155 burn may happen from the adapter address rather than directly from the proxy wallet. In that case, the activity row and transaction hash remain important, and the receipt should be reviewed as a complete transaction flow.

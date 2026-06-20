@@ -1,0 +1,16 @@
+Step 9 Receipt-Based ERC1155 Transfer Summary
+
+Collected at UTC: 2026-06-20T18:02:02.029006+00:00
+Polygon CTF contract: 0x4D97DCd97eC945f40cF65F87097ACe5EA0476045
+Selected wallets: 44
+Selected trade rows: 3353
+Unique receipts fetched: 2214
+Decoded ERC1155 YES transfer rows: 4811
+Wallet-market summary rows: 132
+Wallets with direct IN or OUT YES transfer evidence: 41
+
+Interpretation:
+This file verifies ERC1155 YES-token movement from the transaction receipts of selected Polymarket YES trades. This is a targeted receipt-based verification and does not attempt to scan every transfer by every wallet across the full date window.
+
+Limitation:
+This method verifies transfer logs inside known trade transactions. It may not capture later manual transfers, unrelated transfers, or redemptions. Those are handled in Step 10 or a later targeted wallet-link review.
