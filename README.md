@@ -79,19 +79,36 @@ Use UTC for blockchain records. Use ET or New York time for the market deadline.
 The current repository is organized under:
 
 ```text
-POLYMARKET CASE EVIDENCE/
-└── 01_ORIGINAL_EVIDENCE/
-    ├── Insider Trading News/
-    ├── Market Identity/
-    ├── Market Page/
-    ├── Market Rules/
-    ├── News and Goverment Sources/
-    ├── Polymarket Statements/
-    ├── Resolution Evidence/
-    ├── Trade History/
-    ├── Trading and Position Records/
-    ├── UMA Votes x Yes Shares/
-    └── Wallets and Blockchain Records/
+UMA-x-Poly-Investigation/
+├── 01_ORIGINAL_EVIDENCE/
+│   ├── Insider Trading News/
+│   ├── Market Page/
+│   ├── Market Rules/
+│   ├── News and Goverment Sources/
+│   ├── Resolution Evidence/
+│   ├── Trade History/
+│   └── Trading and Position Records/
+│
+├── 02_CHRONOLOGY/
+│   ├── Chronological Order of Events.xlsx
+│   └── Master Timeline.xlsx
+│
+├── 03_PROPOSED_EXHIBITS/
+│   ├── ARB_exhibits/
+│   ├── Market Identity/
+│   ├── Poly Audit - Conflict Of Interests/
+│   ├── Polymarket Market analizer app/
+│   ├── UMA Votes x Yes Shares/
+│   ├── Wallets and Blockchain Records/
+│   └── uskha's found evidence/
+│
+├── .gitignore
+├── EXHIBITS and Evidences.zip
+├── Evidence Register.xlsx
+├── Hash_Manifest.csv
+├── README for Lawyers.docx
+├── README for Lawyers.md
+└── README.md
 ```
 
 The folder name `News and Goverment Sources` appears to contain a spelling typo. Do not rename it unless all references in the evidence register, scripts, and file paths are updated.
