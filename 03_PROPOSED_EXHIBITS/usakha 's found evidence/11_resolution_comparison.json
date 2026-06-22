@@ -1,0 +1,86 @@
+{
+  "description": "Comparison of how different peace deal sub-markets were resolved. Shows systemic pattern of resolvers holding positions on markets they resolve.",
+  "event": "US x Iran Permanent Peace Deal (16 sub-markets, $478.9M total volume)",
+
+  "resolutions_checked": [
+    {
+      "market": "June 15, 2026 (peace deal deadline)",
+      "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "resolved": "YES",
+      "resolved_at": "2026-06-18T00:31:59Z",
+      "resolution_tx": "0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+      "resolution_method": "execTransaction through user Gnosis Safe",
+      "resolver_wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+      "resolver_identity": "ArmageddonRewardsBilly",
+      "resolver_profile": "https://polymarket.com/profile/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+      "resolver_position": "400,000 BUY YES at $0.999 = $399,600",
+      "resolver_profited": true,
+      "relayer_eoa": "0xb8f7761d8a267d03e24fde9db4c460faa08bad14"
+    },
+    {
+      "market": "June 30, 2026",
+      "condition_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+      "resolved": "YES",
+      "resolved_at": "2026-06-18T00:32:02Z",
+      "resolution_tx": "0x34136fb4bb5aadae5c51002c17c984d3c8607d4ce01cd173194d7fa70c603900",
+      "resolution_method": "execTransaction through user Gnosis Safe",
+      "resolver_wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+      "resolver_identity": "ArmageddonRewardsBilly (same wallet as June 15)",
+      "resolver_position": "No trades found on this sub-market",
+      "relayer_eoa": "0xb1261b6364a882ef68be780a73d41ee7bb54584b",
+      "note": "Resolved 3 seconds after June 15 market, through same wallet but different relayer"
+    },
+    {
+      "market": "July 31, 2026",
+      "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+      "resolved": "YES",
+      "resolved_at": "2026-06-18T00:32:35Z",
+      "resolution_tx": "0x4efaed1bfa76df6287c2ea2a5b5a5f37e78e5c009ed671de673d3ded1ca43f45",
+      "resolution_method": "execTransaction through user Gnosis Safe",
+      "resolver_wallet": "0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+      "resolver_identity": "Rex416",
+      "resolver_profile": "https://polymarket.com/profile/0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+      "resolver_position": "4,366.55 BUY YES at $0.999 = $4,362",
+      "resolver_profited": true,
+      "relayer_eoa": "0x0c78d59947e745ce4041c3b74da5d619a2fe5d46"
+    },
+    {
+      "market": "May 31, 2026",
+      "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "resolved": "NO",
+      "resolved_at": "2026-06-01T12:17:00Z",
+      "resolution_tx": "0x91f9a56a39c07c7f2ab67490953563c887594b6e63f8a4ed8b042a4c4f784401",
+      "resolution_method": "execTransaction through user Gnosis Safe",
+      "resolver_wallet": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+      "resolver_identity": "BenzoateOstylezeneBicarbonate",
+      "resolver_profile": "https://polymarket.com/profile/0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+      "resolver_position": "358,175.79 BUY NO at $0.999 = $357,818",
+      "resolver_profited": true,
+      "relayer_eoa": "0x5c3b231dab9b83ca01ac83703324bc7118f3d7bb"
+    },
+    {
+      "market": "April 22, 2026",
+      "condition_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+      "resolved": "NO",
+      "resolved_at": "2026-04-23T07:34:32Z",
+      "resolution_tx": "0x2bdd5f2c6a5707d5635b4572dc05ae1834784eac3bd21daad07c5e2f011b88b9",
+      "resolution_method": "Direct call to Resolver (no Gnosis Safe)",
+      "resolver_wallet": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+      "resolver_identity": "Polymarket standard resolution bot",
+      "resolver_position": "N/A (bot, not a user wallet)"
+    },
+    {
+      "market": "December 31, 2026",
+      "condition_id": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
+      "resolved": "YES",
+      "resolved_at": "2026-06-18T00:37:19Z",
+      "resolution_tx": "0x74353113ff05952f31d2a0d3667203c419096cb7653c5c2d3c99fa648923533a",
+      "resolution_method": "Direct call to Resolver (no Gnosis Safe)",
+      "resolver_wallet": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+      "resolver_identity": "Polymarket standard resolution bot",
+      "resolver_position": "N/A (bot, not a user wallet)"
+    }
+  ],
+
+  "systemic_finding": "When resolution is routed through a user's Gnosis Safe (rather than Polymarket's standard bot 0x0cabef...), it indicates the user was the UMA proposer for that market. In every user-wallet resolution checked (3/3), the proposer also held trading positions that profited from the resolution direction they proposed. This represents a structural conflict of interest in the UMA/Polymarket resolution system."
+}

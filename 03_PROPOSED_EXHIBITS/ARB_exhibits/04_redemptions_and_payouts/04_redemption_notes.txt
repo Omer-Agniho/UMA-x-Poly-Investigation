@@ -1,0 +1,1 @@
+The known redemption receipt and incoming transfer file show that ARB received 404,422.594999 USDCE from the CTF contract after the market resolved YES. The receipt also contains CTF token movement tied to the target condition ID. This is direct post-resolution benefit evidence for the exact market.

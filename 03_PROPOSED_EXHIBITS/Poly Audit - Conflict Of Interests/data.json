@@ -1,0 +1,5105 @@
+{
+  "market": {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "title": "US x Iran permanent peace deal by...?",
+    "volume": 478913402.3358511,
+    "sub_markets": [
+      {
+        "condition_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+        "question_id": "0xc1803b659426dddde273d5c6198f5b3835b53d4301e533e0590b42f5a11a00f7",
+        "question": "US x Iran permanent peace deal by April 22, 2026?",
+        "end_date": "2026-04-22T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 26051734.516940523
+      },
+      {
+        "condition_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+        "question_id": "0xc632d4b9a33b093c15a28a23401e16c438c25debe936c9bc89ea045079893460",
+        "question": "US x Iran permanent peace deal by April 30, 2026?",
+        "end_date": "2026-04-30T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 24173101.268068768
+      },
+      {
+        "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+        "question_id": "0xaebb7e7a586ea44a8d7ce41837f4ed734c07b12f69f853f80bf06266768aa750",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "end_date": "2026-05-31T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 87888981.28583376
+      },
+      {
+        "condition_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+        "question_id": "0xf214eceb5c5761b24a5957a6bff8f01be990b84925eaf38303f98c506602702c",
+        "question": "US x Iran permanent peace deal by June 30, 2026?",
+        "end_date": "2026-05-31T00:00:00Z",
+        "resolved": true,
+        "outcome": "YES",
+        "volume": 49036513.606860146
+      },
+      {
+        "condition_id": "0x084a4aac9da433824013ad192196193d7d1bd8293c0fedc9eb7e687909fd1d0f",
+        "question_id": "0xb29b0b18fb787ac730a67b34ec67ccc90169d14ba0a64d641035e0514e7147a4",
+        "question": "US x Iran permanent peace deal by April 24, 2026?",
+        "end_date": "2026-04-24T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 2840339.1436810005
+      },
+      {
+        "condition_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+        "question_id": "0xcc45aa168698958561607c01e306b6f7de8a0c33a36f250bad3aa481d4a0606c",
+        "question": "US x Iran permanent peace deal by May 15, 2026?",
+        "end_date": "2026-05-15T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 18446435.319120057
+      },
+      {
+        "condition_id": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
+        "question_id": "0xe4c3323629875ad28983657cf5de9a2c3670a8957433a42e226aba29a902126e",
+        "question": "US x Iran permanent peace deal by December 31, 2026?",
+        "end_date": "2026-12-31T00:00:00Z",
+        "resolved": true,
+        "outcome": "YES",
+        "volume": 14411915.111413987
+      },
+      {
+        "condition_id": "0xc5331256bff341491df0656772c4245a99a483c58eeda2faa70fa6bb8b7b0405",
+        "question_id": "0x6cb9189be9949188a731e34de2601886af5f8218ff0687f5b4df5d5360a5c1a9",
+        "question": "US x Iran permanent peace deal by May 8, 2026?",
+        "end_date": "2026-05-08T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 2171151.985206002
+      },
+      {
+        "condition_id": "0x667c01a18ac1efb8300ce2c4d9fd573275cb633344148675beee8e097db193c4",
+        "question_id": "0x6eebf498c00a3c50d0fb4fb22d041889524e90b1842536df2215cea886249dc8",
+        "question": "US x Iran permanent peace deal by May 11, 2026?",
+        "end_date": "2026-05-11T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 5134068.761336026
+      },
+      {
+        "condition_id": "0x2509daa236d3aea83c910be4e00f50027dd72e6fa0d350536d07cd079f58d7ab",
+        "question_id": "0x0292cbca7a1a11ca4ac5057b21b9b3f54a4dc755b4fb5b89241ea5c90d22bb9d",
+        "question": "US x Iran permanent peace deal by May 13, 2026?",
+        "end_date": "2026-05-13T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 2650977.8309899955
+      },
+      {
+        "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+        "question_id": "0x0afbd2f7835c6556058571b129543266446b2c3f9a5054d3d70c9a0dbad2fbf9",
+        "question": "US x Iran permanent peace deal by July 31, 2026?",
+        "end_date": "2026-07-31T00:00:00Z",
+        "resolved": true,
+        "outcome": "YES",
+        "volume": 12699539.82302617
+      },
+      {
+        "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+        "question_id": "0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b",
+        "question": "US x Iran permanent peace deal by June 15, 2026?",
+        "end_date": "2026-06-15T00:00:00Z",
+        "resolved": true,
+        "outcome": "YES",
+        "volume": 177370818.43892464
+      },
+      {
+        "condition_id": "0x53098776eb95dbbd2e899c4fcd787a043ba725f55433948da2fbd00abdfcd3ae",
+        "question_id": "0x1051e60b3ead728826355ed04a6ea3bfdaad3cf6eb7b21bf7b43285c2cea3e1c",
+        "question": "US x Iran permanent peace deal by May 22, 2026?",
+        "end_date": "2026-05-22T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 7704920.399582997
+      },
+      {
+        "condition_id": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
+        "question_id": "0x82ce31cb3a237d731019dc3185cad793f88631a527e585b22bf3bf6998879d90",
+        "question": "US x Iran permanent peace deal by May 26, 2026?",
+        "end_date": "2026-05-26T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 22930944.340371944
+      },
+      {
+        "condition_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
+        "question_id": "0x34c532df904043dcdaa10f399687bf81944a8638981198dbf2b68dc8d3675523",
+        "question": "US x Iran permanent peace deal by June 7, 2026?",
+        "end_date": "2026-06-07T00:00:00Z",
+        "resolved": true,
+        "outcome": "NO",
+        "volume": 19099091.534227055
+      },
+      {
+        "condition_id": "0xda519921a7090298cbdc56ee838a403a5193c2b3f637aef3e154e52de7b5e79c",
+        "question_id": "0xf051a390180b89ffe36a19ea547940f83005f55b6edfb3ef6ebb93c1b13b40c6",
+        "question": "US x Iran permanent peace deal by August 31, 2026?",
+        "end_date": "2026-08-31T00:00:00Z",
+        "resolved": true,
+        "outcome": "YES",
+        "volume": 3658876.830079999
+      },
+      {
+        "condition_id": "0x087713ab2905e789c42c3fafdf747512f8d7883b7fab1ac554b703310c09d869",
+        "question_id": "0x9185364abad49809aa81616712dfbdbc670f8bb5a557cfab74bb5e808ce8c667",
+        "question": "US x Iran permanent peace deal by October 31, 2026?",
+        "end_date": "2026-10-31T00:00:00Z",
+        "resolved": true,
+        "outcome": "YES",
+        "volume": 2643992.140187983
+      }
+    ],
+    "resolver": "",
+    "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5"
+  },
+  "trade_summary": {
+    "total_trades": 52585,
+    "unique_traders": 12963,
+    "whales": [
+      [
+        "0xc4d1a863e9cc45d02ba22d3a1ae9ba7822018ce8",
+        {
+          "name": "rdba",
+          "total_volume": 3470526,
+          "buy_yes": 3470526,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 3,
+          "first_trade_ts": 1781702987,
+          "last_trade_ts": 1781703041,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xf1539247af59b16517377a859bcd0d9c7eac162c",
+        {
+          "name": "secretscent",
+          "total_volume": 2442619.19574,
+          "buy_yes": 2442619.19574,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 2,
+          "first_trade_ts": 1781729990,
+          "last_trade_ts": 1781730611,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x3fc9891920d7a44873c859b6a43baf691ee9e6ea",
+        {
+          "name": "FallingStars",
+          "total_volume": 1165831.3205199998,
+          "buy_yes": 511876.5199300003,
+          "buy_no": 0,
+          "sell_yes": 653954.80059,
+          "sell_no": 0,
+          "trade_count": 92,
+          "first_trade_ts": 1781569113,
+          "last_trade_ts": 1781681960,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0xf9c1190aa8184bcbe418e6f5321c53b0bfbc39e2",
+        {
+          "name": "AdrianCronauer",
+          "total_volume": 1157785.3323799998,
+          "buy_yes": 0,
+          "buy_no": 679283.6061300001,
+          "sell_yes": 0,
+          "sell_no": 478501.72625,
+          "trade_count": 31,
+          "first_trade_ts": 1776902268,
+          "last_trade_ts": 1780240061,
+          "markets_active": 7
+        }
+      ],
+      [
+        "0x672f13d830d3617efea21c2ec7f4bda5d2c27fcc",
+        {
+          "name": "Shirtybonds",
+          "total_volume": 1001992,
+          "buy_yes": 1001992,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 2,
+          "first_trade_ts": 1781663620,
+          "last_trade_ts": 1781663620,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+        {
+          "name": "BenzoateOstylezeneBicarbonate",
+          "total_volume": 889433.4162599999,
+          "buy_yes": 531615.8020499999,
+          "buy_no": 357817.61420999997,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 3,
+          "first_trade_ts": 1780283155,
+          "last_trade_ts": 1781709022,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        {
+          "name": "ArmageddonRewardsBilly",
+          "total_volume": 796360.24262,
+          "buy_yes": 399600,
+          "buy_no": 237921.33857999998,
+          "sell_yes": 49005.325229999995,
+          "sell_no": 109833.57880999998,
+          "trade_count": 25,
+          "first_trade_ts": 1776826198,
+          "last_trade_ts": 1781731013,
+          "markets_active": 12
+        }
+      ],
+      [
+        "0x0e5bd76779e74304d08e759072abf126d87da593",
+        {
+          "name": "JAHODA",
+          "total_volume": 642531.93489,
+          "buy_yes": 642531.93489,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781731075,
+          "last_trade_ts": 1781731075,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x96672e2f487f6b6036243765f6dbe14c3ed86e07",
+        {
+          "name": "testlp",
+          "total_volume": 639393.7251800001,
+          "buy_yes": 0,
+          "buy_no": 639393.7251800001,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 10,
+          "first_trade_ts": 1777496294,
+          "last_trade_ts": 1780254686,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0x665dcbe83796b5010279f0a38b197d65e0aaaf35",
+        {
+          "name": "0x665dcbe83796B5010279F0a38b197D65E0AAAf35-1776853969009",
+          "total_volume": 616179.3938099999,
+          "buy_yes": 616179.3938099999,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781695892,
+          "last_trade_ts": 1781695892,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x8ebfdc251c6c378d4a3a54a8f15cebfa4b9183ce",
+        {
+          "name": "Ordon",
+          "total_volume": 586540.24819,
+          "buy_yes": 256770.9988,
+          "buy_no": 0,
+          "sell_yes": 329769.24939,
+          "sell_no": 0,
+          "trade_count": 21,
+          "first_trade_ts": 1779441214,
+          "last_trade_ts": 1781741947,
+          "markets_active": 5
+        }
+      ],
+      [
+        "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+        {
+          "name": "UnderperformingForALiving",
+          "total_volume": 498324.78280000004,
+          "buy_yes": 0,
+          "buy_no": 495905.85449000006,
+          "sell_yes": 0,
+          "sell_no": 2418.9283100000002,
+          "trade_count": 26,
+          "first_trade_ts": 1778282665,
+          "last_trade_ts": 1778854759,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0x52e5a051ecdb72c973efcba97d375e0d1eea920a",
+        {
+          "name": "0x52e5A051EcDb72c973EFcBa97D375E0D1EeA920A-1780400804404",
+          "total_volume": 496500.003,
+          "buy_yes": 496500.003,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781696047,
+          "last_trade_ts": 1781696047,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xf284ad6d607f777f34bc643cea587c33a886b9f9",
+        {
+          "name": "strike123",
+          "total_volume": 486714.70999999996,
+          "buy_yes": 0,
+          "buy_no": 298196.24714999995,
+          "sell_yes": 6.1698,
+          "sell_no": 188512.29305,
+          "trade_count": 16,
+          "first_trade_ts": 1779482839,
+          "last_trade_ts": 1781649394,
+          "markets_active": 4
+        }
+      ],
+      [
+        "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+        {
+          "name": "033033033",
+          "total_volume": 470992.39807,
+          "buy_yes": 470992.39807,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 12,
+          "first_trade_ts": 1781655158,
+          "last_trade_ts": 1781717282,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0x122cdd9db64fd8dc3ebab813218e3effe21f821f",
+        {
+          "name": "okcoolstorybro",
+          "total_volume": 463191.47482,
+          "buy_yes": 19.98,
+          "buy_no": 463171.49482,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 5,
+          "first_trade_ts": 1779839864,
+          "last_trade_ts": 1781740354,
+          "markets_active": 4
+        }
+      ],
+      [
+        "0x82a7183f93447d7a8ff5b4bd08eb0d74de266ed8",
+        {
+          "name": "Dripx",
+          "total_volume": 439644.91654,
+          "buy_yes": 439644.91654,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781721488,
+          "last_trade_ts": 1781721488,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x59c49a09e5335430833b96d96af9e581b0a9b517",
+        {
+          "name": "badbbd",
+          "total_volume": 422638.56837,
+          "buy_yes": 0,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 422638.56837,
+          "trade_count": 2,
+          "first_trade_ts": 1779855831,
+          "last_trade_ts": 1780311222,
+          "markets_active": 2
+        }
+      ],
+      [
+        "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
+        {
+          "name": "GroyperFinance",
+          "total_volume": 405487.99598,
+          "buy_yes": 275747.99598,
+          "buy_no": 0,
+          "sell_yes": 129740,
+          "sell_no": 0,
+          "trade_count": 6,
+          "first_trade_ts": 1781665035,
+          "last_trade_ts": 1781725682,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xb2a3623364c33561d8312e1edb79eb941c798510",
+        {
+          "name": "aekghas",
+          "total_volume": 403885.61018400005,
+          "buy_yes": 0,
+          "buy_no": 403885.61018400005,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 5,
+          "first_trade_ts": 1779459638,
+          "last_trade_ts": 1779463055,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x293e5821578e7c437adce886ee45c4593ac37674",
+        {
+          "name": "0x293E5821578e7C437ADcE886Ee45C4593Ac37674-1776558337344",
+          "total_volume": 402574.01181,
+          "buy_yes": 0,
+          "buy_no": 124.9875,
+          "sell_yes": 0,
+          "sell_no": 402449.02431,
+          "trade_count": 3,
+          "first_trade_ts": 1776804914,
+          "last_trade_ts": 1776848704,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1",
+        {
+          "name": "debased",
+          "total_volume": 395970.36728,
+          "buy_yes": 308016.63056,
+          "buy_no": 27002.509770000004,
+          "sell_yes": 36458.84122999999,
+          "sell_no": 24492.38572,
+          "trade_count": 52,
+          "first_trade_ts": 1776864200,
+          "last_trade_ts": 1781731376,
+          "markets_active": 11
+        }
+      ],
+      [
+        "0xa102b434ce441a3119e146f75ed6276ee1a836d9",
+        {
+          "name": "tf2",
+          "total_volume": 376928.1227,
+          "buy_yes": 122221.99566,
+          "buy_no": 0,
+          "sell_yes": 254706.12704000002,
+          "sell_no": 0,
+          "trade_count": 3,
+          "first_trade_ts": 1781694757,
+          "last_trade_ts": 1781720831,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x6fec0fd0e5562f0ca9a709417d4492aadac43be3",
+        {
+          "name": "0x6fEc0fd0e5562F0cA9a709417d4492aadaC43bE3-1776853750442",
+          "total_volume": 365993.64,
+          "buy_yes": 365993.64,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781694568,
+          "last_trade_ts": 1781694568,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xc294089cb84fea08126227c7626ee9408fd84798",
+        {
+          "name": "QuadrupleDouble",
+          "total_volume": 359716.8049699998,
+          "buy_yes": 110298.05339000003,
+          "buy_no": 0,
+          "sell_yes": 249418.75158,
+          "sell_no": 0,
+          "trade_count": 42,
+          "first_trade_ts": 1781550097,
+          "last_trade_ts": 1781682682,
+          "markets_active": 5
+        }
+      ],
+      [
+        "0x2e0b70d482e6b389e81dea528be57d825dd48070",
+        {
+          "name": "Trump2028",
+          "total_volume": 357994.64194,
+          "buy_yes": 0,
+          "buy_no": 357994.64194,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 3,
+          "first_trade_ts": 1777434812,
+          "last_trade_ts": 1780281332,
+          "markets_active": 2
+        }
+      ],
+      [
+        "0xc6587b11a2209e46dfe3928b31c5514a8e33b784",
+        {
+          "name": "Erasmus.",
+          "total_volume": 354769.61994,
+          "buy_yes": 3907.3004100000007,
+          "buy_no": 0,
+          "sell_yes": 350862.31953,
+          "sell_no": 0,
+          "trade_count": 6,
+          "first_trade_ts": 1778283251,
+          "last_trade_ts": 1781718187,
+          "markets_active": 5
+        }
+      ],
+      [
+        "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+        {
+          "name": "elmcap2",
+          "total_volume": 346669.24997999996,
+          "buy_yes": 55385.616780000004,
+          "buy_no": 291283.6332,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 7,
+          "first_trade_ts": 1776952104,
+          "last_trade_ts": 1781663670,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0xa5517ed74c6b07843946e0e69cad10a9fa94e050",
+        {
+          "name": "SlotinCap",
+          "total_volume": 328478.2466,
+          "buy_yes": 0,
+          "buy_no": 0,
+          "sell_yes": 328478.2466,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781633690,
+          "last_trade_ts": 1781633690,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x1295269296e51cd28a3db85fa6728c0e352b5cfd",
+        {
+          "name": "FlyingPlaty",
+          "total_volume": 287265.23922000005,
+          "buy_yes": 220831.73922000002,
+          "buy_no": 66433.5,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 3,
+          "first_trade_ts": 1780284982,
+          "last_trade_ts": 1781720027,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0x69aa9fa621403e3a121b29ad77d32ba9eb5e8847",
+        {
+          "name": "tsekinming01",
+          "total_volume": 281737.6515199999,
+          "buy_yes": 0,
+          "buy_no": 278832.3216399999,
+          "sell_yes": 0,
+          "sell_no": 2905.3298800000002,
+          "trade_count": 11,
+          "first_trade_ts": 1778191464,
+          "last_trade_ts": 1780887031,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0x90ca00f0a7c263ce9e8a9af5ad044cd4dc9c1a4b",
+        {
+          "name": "0x90ca00f0A7C263cE9e8A9AF5ad044cD4DC9C1A4b-1776853084345",
+          "total_volume": 274267.34811,
+          "buy_yes": 274267.34811,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781694664,
+          "last_trade_ts": 1781694664,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x448861155279dbf833d041b963e3ac854599e319",
+        {
+          "name": "Flipadelphia",
+          "total_volume": 260435.517228,
+          "buy_yes": 104819.295868,
+          "buy_no": 109221.4401,
+          "sell_yes": 38947.281259999996,
+          "sell_no": 7447.5,
+          "trade_count": 34,
+          "first_trade_ts": 1779818944,
+          "last_trade_ts": 1781713118,
+          "markets_active": 5
+        }
+      ],
+      [
+        "0xf39651f0addaad0221806d828197064b97feed0d",
+        {
+          "name": "Pajamapants",
+          "total_volume": 258429.72641,
+          "buy_yes": 0,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 258429.72641,
+          "trade_count": 14,
+          "first_trade_ts": 1776866516,
+          "last_trade_ts": 1779855959,
+          "markets_active": 2
+        }
+      ],
+      [
+        "0x2ff7fa71d9a7ecceb48c9244ab695ac8d653e982",
+        {
+          "name": "puntkunt",
+          "total_volume": 252206.6361,
+          "buy_yes": 0,
+          "buy_no": 151093.99995,
+          "sell_yes": 0,
+          "sell_no": 101112.63615,
+          "trade_count": 3,
+          "first_trade_ts": 1780281718,
+          "last_trade_ts": 1780848166,
+          "markets_active": 2
+        }
+      ],
+      [
+        "0xa4b366ad22fc0d06f1e934ff468e8922431a87b8",
+        {
+          "name": "HolyMoses7",
+          "total_volume": 245439.06524999999,
+          "buy_yes": 212139.39825,
+          "buy_no": 0,
+          "sell_yes": 33299.667,
+          "sell_no": 0,
+          "trade_count": 11,
+          "first_trade_ts": 1781704021,
+          "last_trade_ts": 1781730062,
+          "markets_active": 4
+        }
+      ],
+      [
+        "0xfb745c232f22c2bb9d2b66a1750c07a738601513",
+        {
+          "name": "timemachinee",
+          "total_volume": 243792.42179,
+          "buy_yes": 0,
+          "buy_no": 242335.35347,
+          "sell_yes": 0,
+          "sell_no": 1457.06832,
+          "trade_count": 3,
+          "first_trade_ts": 1777549414,
+          "last_trade_ts": 1777561722,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xfbe66593e49c4e7a7180a2582f041158bfb800f8",
+        {
+          "name": "gaven-willwin",
+          "total_volume": 237553.52235,
+          "buy_yes": 0,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 237553.52235,
+          "trade_count": 4,
+          "first_trade_ts": 1778858831,
+          "last_trade_ts": 1780306588,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0x5d0f03cf1243a3e21262d6cf844795afd9fff0ad",
+        {
+          "name": "EB99999",
+          "total_volume": 237448.89804,
+          "buy_yes": 0,
+          "buy_no": 20509.71331,
+          "sell_yes": 0,
+          "sell_no": 216939.18473,
+          "trade_count": 10,
+          "first_trade_ts": 1776867540,
+          "last_trade_ts": 1780258132,
+          "markets_active": 5
+        }
+      ],
+      [
+        "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+        {
+          "name": "The Spirit of Ukraine>UMA",
+          "total_volume": 231471.58379,
+          "buy_yes": 15868.51589,
+          "buy_no": 199600,
+          "sell_yes": 16002.93,
+          "sell_no": 0.1379,
+          "trade_count": 5,
+          "first_trade_ts": 1780281190,
+          "last_trade_ts": 1781714165,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0xf02008dd334fe83c8dad61dd9a54776d7fb03212",
+        {
+          "name": "topdaddy1",
+          "total_volume": 230830.97114,
+          "buy_yes": 0,
+          "buy_no": 0,
+          "sell_yes": 230830.97114,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781640469,
+          "last_trade_ts": 1781640469,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xa022ba0a68e11a78348382ff168601012d4d77f8",
+        {
+          "name": "yungstalin",
+          "total_volume": 229576.48225,
+          "buy_yes": 229318.48725,
+          "buy_no": 257.995,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 4,
+          "first_trade_ts": 1779807993,
+          "last_trade_ts": 1781721455,
+          "markets_active": 3
+        }
+      ],
+      [
+        "0xa5761fa386787d4bb7fb9f866acf034647538678",
+        {
+          "name": "Top1-J",
+          "total_volume": 216999.99999600003,
+          "buy_yes": 216999.99999600003,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 2,
+          "first_trade_ts": 1781661966,
+          "last_trade_ts": 1781662186,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x95074f700f93bdf6e62fc965e0832064c0877b04",
+        {
+          "name": "95074f700f93bdf6e62fc965e0832064c0877b04",
+          "total_volume": 215734.26781,
+          "buy_yes": 211690.27711,
+          "buy_no": 0,
+          "sell_yes": 4043.9907,
+          "sell_no": 0,
+          "trade_count": 32,
+          "first_trade_ts": 1781486433,
+          "last_trade_ts": 1781741219,
+          "markets_active": 5
+        }
+      ],
+      [
+        "0xfaf98181c44636998a194aa7660bcae1b977f4c4",
+        {
+          "name": "onekey02",
+          "total_volume": 212083.51230000003,
+          "buy_yes": 17161.821,
+          "buy_no": 194921.69130000003,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 13,
+          "first_trade_ts": 1777442090,
+          "last_trade_ts": 1781720642,
+          "markets_active": 7
+        }
+      ],
+      [
+        "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+        {
+          "name": "Car",
+          "total_volume": 210927.26658,
+          "buy_yes": 116.52034,
+          "buy_no": 0,
+          "sell_yes": 210058.58023999998,
+          "sell_no": 752.166,
+          "trade_count": 15,
+          "first_trade_ts": 1776870438,
+          "last_trade_ts": 1781740687,
+          "markets_active": 6
+        }
+      ],
+      [
+        "0xbe482cd6e5183be8767f03b48ebc3ff35769683f",
+        {
+          "name": "0xBE482CD6e5183BE8767f03b48EBc3FF35769683f-1768081000582",
+          "total_volume": 209903.38266,
+          "buy_yes": 0,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 209903.38266,
+          "trade_count": 1,
+          "first_trade_ts": 1780260694,
+          "last_trade_ts": 1780260694,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x5f8fe08245151828dc063df19ccbb3c9100d40cf",
+        {
+          "name": "Bonnie.Blue",
+          "total_volume": 203706.54953999998,
+          "buy_yes": 203706.54953999998,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781708971,
+          "last_trade_ts": 1781708971,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0xd08f50a9c65678bf92236c5ebe58028234a7fdb6",
+        {
+          "name": "Anghkooey",
+          "total_volume": 200000.28951,
+          "buy_yes": 200000.28951,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781731054,
+          "last_trade_ts": 1781731054,
+          "markets_active": 1
+        }
+      ],
+      [
+        "0x28547904c8fd224074a349a2313ef852e29e0414",
+        {
+          "name": "RockSolidBond",
+          "total_volume": 199800,
+          "buy_yes": 199800,
+          "buy_no": 0,
+          "sell_yes": 0,
+          "sell_no": 0,
+          "trade_count": 1,
+          "first_trade_ts": 1781731045,
+          "last_trade_ts": 1781731045,
+          "markets_active": 1
+        }
+      ]
+    ]
+  },
+  "resolutions": {
+    "resolutions": [
+      {
+        "condition_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+        "question": "US x Iran permanent peace deal by April 22, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-04-23T07:34:32+00:00",
+        "block": 85904814,
+        "tx_hash": "0x2bdd5f2c6a5707d5635b4572dc05ae1834784eac3bd21daad07c5e2f011b88b9",
+        "tx_link": "https://polygonscan.com/tx/0x2bdd5f2c6a5707d5635b4572dc05ae1834784eac3bd21daad07c5e2f011b88b9",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+        "question": "US x Iran permanent peace deal by April 30, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-01T07:20:50+00:00",
+        "block": 86250003,
+        "tx_hash": "0xe17b98290c3fafa0fa3288d96d1041a06f67ea6c060cb0588eddbf66adafc180",
+        "tx_link": "https://polygonscan.com/tx/0xe17b98290c3fafa0fa3288d96d1041a06f67ea6c060cb0588eddbf66adafc180",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-06-01T12:17:00+00:00",
+        "block": 87757999,
+        "tx_hash": "0x91f9a56a39c07c7f2ab67490953563c887594b6e63f8a4ed8b042a4c4f784401",
+        "tx_link": "https://polygonscan.com/tx/0x91f9a56a39c07c7f2ab67490953563c887594b6e63f8a4ed8b042a4c4f784401",
+        "resolver_wallet": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+        "resolver_type": "user_safe",
+        "relayer_eoa": "0x5c3b231dab9b83ca01ac83703324bc7118f3d7bb",
+        "exec_target": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "is_standard_bot": false,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
+        "question": "US x Iran permanent peace deal by June 30, 2026?",
+        "outcome": "YES",
+        "resolved_at": "2026-06-18T00:32:02+00:00",
+        "block": 88691818,
+        "tx_hash": "0x34136fb4bb5aadae5c51002c17c984d3c8607d4ce01cd173194d7fa70c603900",
+        "tx_link": "https://polygonscan.com/tx/0x34136fb4bb5aadae5c51002c17c984d3c8607d4ce01cd173194d7fa70c603900",
+        "resolver_wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "resolver_type": "user_safe",
+        "relayer_eoa": "0xb1261b6364a882ef68be780a73d41ee7bb54584b",
+        "exec_target": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "is_standard_bot": false,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x084a4aac9da433824013ad192196193d7d1bd8293c0fedc9eb7e687909fd1d0f",
+        "question": "US x Iran permanent peace deal by April 24, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-04-25T06:42:24+00:00",
+        "block": 85989650,
+        "tx_hash": "0x9a60c785172ed47ac3d6a8a7890ef645c0bf3ba2fc3da3187babd120a781abee",
+        "tx_link": "https://polygonscan.com/tx/0x9a60c785172ed47ac3d6a8a7890ef645c0bf3ba2fc3da3187babd120a781abee",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
+        "question": "US x Iran permanent peace deal by May 15, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-16T06:49:05+00:00",
+        "block": 86956821,
+        "tx_hash": "0x3b9bcc5161687cb7265c69090d561d54b99bf8640e259f31c8abe7fba9e1fc41",
+        "tx_link": "https://polygonscan.com/tx/0x3b9bcc5161687cb7265c69090d561d54b99bf8640e259f31c8abe7fba9e1fc41",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x9769f78cbc95a5ed11895e6064bac471d8fd8f930b260cf581b68d3f58630d27",
+        "question": "US x Iran permanent peace deal by December 31, 2026?",
+        "outcome": "YES",
+        "resolved_at": "2026-06-18T00:37:19+00:00",
+        "block": 88692029,
+        "tx_hash": "0x74353113ff05952f31d2a0d3667203c419096cb7653c5c2d3c99fa648923533a",
+        "tx_link": "https://polygonscan.com/tx/0x74353113ff05952f31d2a0d3667203c419096cb7653c5c2d3c99fa648923533a",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0xc5331256bff341491df0656772c4245a99a483c58eeda2faa70fa6bb8b7b0405",
+        "question": "US x Iran permanent peace deal by May 8, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-09T07:16:00+00:00",
+        "block": 86612144,
+        "tx_hash": "0xb2a9a078e2d3d04988504f72cf2de150c676ffe1a5612d6d89fe4e0c162ddf7f",
+        "tx_link": "https://polygonscan.com/tx/0xb2a9a078e2d3d04988504f72cf2de150c676ffe1a5612d6d89fe4e0c162ddf7f",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x667c01a18ac1efb8300ce2c4d9fd573275cb633344148675beee8e097db193c4",
+        "question": "US x Iran permanent peace deal by May 11, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-12T08:53:58+00:00",
+        "block": 86763617,
+        "tx_hash": "0x4099e707e8da4a70af3d47c6b2b651e0b2c54bbb4366dbf7506f3c8ba35e320c",
+        "tx_link": "https://polygonscan.com/tx/0x4099e707e8da4a70af3d47c6b2b651e0b2c54bbb4366dbf7506f3c8ba35e320c",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x2509daa236d3aea83c910be4e00f50027dd72e6fa0d350536d07cd079f58d7ab",
+        "question": "US x Iran permanent peace deal by May 13, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-14T08:26:19+00:00",
+        "block": 86861412,
+        "tx_hash": "0x317117834192e7641bda407a527b30a1939c726be1c6d5560692082819ffa510",
+        "tx_link": "https://polygonscan.com/tx/0x317117834192e7641bda407a527b30a1939c726be1c6d5560692082819ffa510",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+        "question": "US x Iran permanent peace deal by July 31, 2026?",
+        "outcome": "YES",
+        "resolved_at": "2026-06-18T00:32:35+00:00",
+        "block": 88691840,
+        "tx_hash": "0x4efaed1bfa76df6287c2ea2a5b5a5f37e78e5c009ed671de673d3ded1ca43f45",
+        "tx_link": "https://polygonscan.com/tx/0x4efaed1bfa76df6287c2ea2a5b5a5f37e78e5c009ed671de673d3ded1ca43f45",
+        "resolver_wallet": "0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+        "resolver_type": "user_safe",
+        "relayer_eoa": "0x0c78d59947e745ce4041c3b74da5d619a2fe5d46",
+        "exec_target": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "is_standard_bot": false,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+        "question": "US x Iran permanent peace deal by June 15, 2026?",
+        "outcome": "YES",
+        "resolved_at": "2026-06-18T00:31:59+00:00",
+        "block": 88691816,
+        "tx_hash": "0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+        "tx_link": "https://polygonscan.com/tx/0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+        "resolver_wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "resolver_type": "user_safe",
+        "relayer_eoa": "0xb8f7761d8a267d03e24fde9db4c460faa08bad14",
+        "exec_target": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "is_standard_bot": false,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x53098776eb95dbbd2e899c4fcd787a043ba725f55433948da2fbd00abdfcd3ae",
+        "question": "US x Iran permanent peace deal by May 22, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-23T06:12:20+00:00",
+        "block": 87301161,
+        "tx_hash": "0x68bd94f16061e87006c341facadf1cf042e7e6bab4c49c12ee5d3b7a54069e3d",
+        "tx_link": "https://polygonscan.com/tx/0x68bd94f16061e87006c341facadf1cf042e7e6bab4c49c12ee5d3b7a54069e3d",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
+        "question": "US x Iran permanent peace deal by May 26, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-05-27T06:10:31+00:00",
+        "block": 87498577,
+        "tx_hash": "0x5ce05ab226b320dd74381783cddd477c5575d993b3119283823e361255ab11ac",
+        "tx_link": "https://polygonscan.com/tx/0x5ce05ab226b320dd74381783cddd477c5575d993b3119283823e361255ab11ac",
+        "resolver_wallet": "0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d",
+        "resolver_type": "user_safe",
+        "relayer_eoa": "0x8c6bd6dae5780e3b4fcd27c70c1f9c113946adad",
+        "exec_target": "0xa238cbeb142c10ef7ad8442c6d1f9e89e07e7761",
+        "is_standard_bot": false,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
+        "question": "US x Iran permanent peace deal by June 7, 2026?",
+        "outcome": "NO",
+        "resolved_at": "2026-06-08T06:04:07+00:00",
+        "block": 88129108,
+        "tx_hash": "0x1633e903eef357837bb8be1e3241398f82b8d37a257fc52dff5e3850def71740",
+        "tx_link": "https://polygonscan.com/tx/0x1633e903eef357837bb8be1e3241398f82b8d37a257fc52dff5e3850def71740",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0xda519921a7090298cbdc56ee838a403a5193c2b3f637aef3e154e52de7b5e79c",
+        "question": "US x Iran permanent peace deal by August 31, 2026?",
+        "outcome": "YES",
+        "resolved_at": "2026-06-18T00:38:25+00:00",
+        "block": 88692073,
+        "tx_hash": "0x5fe88a123aee6246f269d0ca2841c24081a7cbd9069f847224c65834388cb415",
+        "tx_link": "https://polygonscan.com/tx/0x5fe88a123aee6246f269d0ca2841c24081a7cbd9069f847224c65834388cb415",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      },
+      {
+        "condition_id": "0x087713ab2905e789c42c3fafdf747512f8d7883b7fab1ac554b703310c09d869",
+        "question": "US x Iran permanent peace deal by October 31, 2026?",
+        "outcome": "YES",
+        "resolved_at": "2026-06-18T00:37:52+00:00",
+        "block": 88692051,
+        "tx_hash": "0xd1b3895318edcd26cd45f83a40cd2663e2b9f2f6516e51d90efc1007283ae900",
+        "tx_link": "https://polygonscan.com/tx/0xd1b3895318edcd26cd45f83a40cd2663e2b9f2f6516e51d90efc1007283ae900",
+        "resolver_wallet": "0x65070be91477460d8a7aeeb94ef92fe056c2f2a7",
+        "resolver_type": "standard_bot",
+        "relayer_eoa": "0x0cabefcdf9d28ff239e9acf9b48caed4942d49d0",
+        "exec_target": "",
+        "is_standard_bot": true,
+        "question_id_in_input": true
+      }
+    ],
+    "resolver_wallets": [
+      "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+      "0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d",
+      "0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+      "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418"
+    ]
+  },
+  "conflicts": {
+    "conflicts": [
+      {
+        "resolver_wallet": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+        "resolver_name": "BenzoateOstylezeneBicarbonate",
+        "resolver_profile": "https://polymarket.com/profile/0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+        "condition_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "resolution_outcome": "NO",
+        "resolver_type": "user_safe",
+        "position_side": "BUY",
+        "position_outcome": "NO",
+        "position_volume": 357817.61420999997,
+        "profited": true,
+        "severity": "CRITICAL",
+        "tx_hash": "0x91f9a56a39c07c7f2ab67490953563c887594b6e63f8a4ed8b042a4c4f784401",
+        "tx_link": "https://polygonscan.com/tx/0x91f9a56a39c07c7f2ab67490953563c887594b6e63f8a4ed8b042a4c4f784401"
+      },
+      {
+        "resolver_wallet": "0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+        "resolver_name": "Rex416",
+        "resolver_profile": "https://polymarket.com/profile/0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+        "condition_id": "0x20af55ab35186377b81219db6cb8615240cba42cea41731091be9484a5f5b122",
+        "question": "US x Iran permanent peace deal by July 31, 2026?",
+        "resolution_outcome": "YES",
+        "resolver_type": "user_safe",
+        "position_side": "BUY",
+        "position_outcome": "YES",
+        "position_volume": 4362.18345,
+        "profited": true,
+        "severity": "CRITICAL",
+        "tx_hash": "0x4efaed1bfa76df6287c2ea2a5b5a5f37e78e5c009ed671de673d3ded1ca43f45",
+        "tx_link": "https://polygonscan.com/tx/0x4efaed1bfa76df6287c2ea2a5b5a5f37e78e5c009ed671de673d3ded1ca43f45"
+      },
+      {
+        "resolver_wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "resolver_name": "ArmageddonRewardsBilly",
+        "resolver_profile": "https://polymarket.com/profile/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+        "question": "US x Iran permanent peace deal by June 15, 2026?",
+        "resolution_outcome": "YES",
+        "resolver_type": "user_safe",
+        "position_side": "BUY",
+        "position_outcome": "YES",
+        "position_volume": 399600,
+        "profited": true,
+        "severity": "CRITICAL",
+        "tx_hash": "0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+        "tx_link": "https://polygonscan.com/tx/0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e"
+      },
+      {
+        "resolver_wallet": "0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d",
+        "resolver_name": "0xAlikz",
+        "resolver_profile": "https://polymarket.com/profile/0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d",
+        "condition_id": "0x421bc1929df1429cf2cb94f80c1ce6a3ed0d1f0b7a2749b9890075f94eb549e9",
+        "question": "US x Iran permanent peace deal by May 26, 2026?",
+        "resolution_outcome": "NO",
+        "resolver_type": "user_safe",
+        "position_side": "BUY",
+        "position_outcome": "NO",
+        "position_volume": 9990,
+        "profited": true,
+        "severity": "CRITICAL",
+        "tx_hash": "0x5ce05ab226b320dd74381783cddd477c5575d993b3119283823e361255ab11ac",
+        "tx_link": "https://polygonscan.com/tx/0x5ce05ab226b320dd74381783cddd477c5575d993b3119283823e361255ab11ac"
+      }
+    ],
+    "conflict_count": 4
+  },
+  "uma_proposers": [
+    "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+    "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+    "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d"
+  ],
+  "clusters": {
+    "clusters": [
+      {
+        "wallets": [
+          "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+          "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+          "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
+          "0x96672e2f487f6b6036243765f6dbe14c3ed86e07",
+          "0x3fc9891920d7a44873c859b6a43baf691ee9e6ea",
+          "0x665dcbe83796b5010279f0a38b197d65e0aaaf35",
+          "0xb2a3623364c33561d8312e1edb79eb941c798510",
+          "0x0e5bd76779e74304d08e759072abf126d87da593",
+          "0xf1539247af59b16517377a859bcd0d9c7eac162c",
+          "0x59c49a09e5335430833b96d96af9e581b0a9b517",
+          "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+          "0x82a7183f93447d7a8ff5b4bd08eb0d74de266ed8"
+        ],
+        "names": [
+          "UnderperformingForALiving",
+          "BenzoateOstylezeneBicarbonate",
+          "GroyperFinance",
+          "testlp",
+          "FallingStars",
+          "0x665dcbe83796B5010279F0a38b197D65E0AAAf35-1776853969009",
+          "aekghas",
+          "JAHODA",
+          "secretscent",
+          "badbbd",
+          "033033033",
+          "Dripx"
+        ],
+        "combined_volume": 13865624.970596999,
+        "link_types": [
+          "same_funder",
+          "shared_contacts"
+        ],
+        "wallet_count": 12
+      }
+    ],
+    "same_funder_pairs": [
+      {
+        "funder": "0x09583cb666c9a687adeafb50fd556adb6bae6fa6",
+        "wallets": [
+          "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+          "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b"
+        ],
+        "names": [
+          "UnderperformingForALiving",
+          "033033033"
+        ],
+        "combined_volume": 969317.18087
+      }
+    ],
+    "batch_created": [],
+    "coordinated_bursts": [
+      {
+        "wallets": [
+          "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+          "0x8ebfdc251c6c378d4a3a54a8f15cebfa4b9183ce"
+        ],
+        "names": [
+          "033033033",
+          "Ordon"
+        ],
+        "trade_count": 3,
+        "combined_volume": 105215.83270999999,
+        "span_seconds": 44,
+        "timestamp": "2026-06-17T00:12:38+00:00"
+      }
+    ]
+  },
+  "fingerprints": {
+    "interaction_matches": [
+      {
+        "wallet1": "0x0e5bd76779e74304d08e759072abf126d87da593",
+        "wallet2": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+        "name1": "JAHODA",
+        "name2": "033033033",
+        "jaccard_similarity": 1,
+        "shared_contacts": 15,
+        "severity": "HIGH"
+      },
+      {
+        "wallet1": "0x0e5bd76779e74304d08e759072abf126d87da593",
+        "wallet2": "0x82a7183f93447d7a8ff5b4bd08eb0d74de266ed8",
+        "name1": "JAHODA",
+        "name2": "Dripx",
+        "jaccard_similarity": 1,
+        "shared_contacts": 15,
+        "severity": "HIGH"
+      },
+      {
+        "wallet1": "0xd1c769317bd15de7768a70d0214cf0bbcc531d2b",
+        "wallet2": "0x82a7183f93447d7a8ff5b4bd08eb0d74de266ed8",
+        "name1": "033033033",
+        "name2": "Dripx",
+        "jaccard_similarity": 1,
+        "shared_contacts": 15,
+        "severity": "HIGH"
+      }
+    ],
+    "gas_matches": [],
+    "nonce_matches": []
+  },
+  "wash_trading": {
+    "wash_trading_detected": true,
+    "cycles": [],
+    "suspicious_volume": 0,
+    "total_volume": 45848909.136842996,
+    "wash_ratio": 0,
+    "self_trading_wallets": [
+      {
+        "wallet": "0x3fc9891920d7a44873c859b6a43baf691ee9e6ea",
+        "name": "FallingStars",
+        "buy_volume": 511876.5199300003,
+        "sell_volume": 653954.80059,
+        "total_volume": 1165831.3205199998,
+        "buy_sell_ratio": 0.783
+      },
+      {
+        "wallet": "0xf9c1190aa8184bcbe418e6f5321c53b0bfbc39e2",
+        "name": "AdrianCronauer",
+        "buy_volume": 679283.6061300001,
+        "sell_volume": 478501.72625,
+        "total_volume": 1157785.3323799998,
+        "buy_sell_ratio": 0.704
+      },
+      {
+        "wallet": "0x8ebfdc251c6c378d4a3a54a8f15cebfa4b9183ce",
+        "name": "Ordon",
+        "buy_volume": 256770.9988,
+        "sell_volume": 329769.24939,
+        "total_volume": 586540.24819,
+        "buy_sell_ratio": 0.779
+      },
+      {
+        "wallet": "0xf284ad6d607f777f34bc643cea587c33a886b9f9",
+        "name": "strike123",
+        "buy_volume": 298196.24714999995,
+        "sell_volume": 188518.46285,
+        "total_volume": 486714.70999999996,
+        "buy_sell_ratio": 0.632
+      },
+      {
+        "wallet": "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
+        "name": "GroyperFinance",
+        "buy_volume": 275747.99598,
+        "sell_volume": 129740,
+        "total_volume": 405487.99598,
+        "buy_sell_ratio": 0.471
+      },
+      {
+        "wallet": "0xa102b434ce441a3119e146f75ed6276ee1a836d9",
+        "name": "tf2",
+        "buy_volume": 122221.99566,
+        "sell_volume": 254706.12704000002,
+        "total_volume": 376928.1227,
+        "buy_sell_ratio": 0.48
+      },
+      {
+        "wallet": "0xc294089cb84fea08126227c7626ee9408fd84798",
+        "name": "QuadrupleDouble",
+        "buy_volume": 110298.05339000003,
+        "sell_volume": 249418.75158,
+        "total_volume": 359716.8049699998,
+        "buy_sell_ratio": 0.442
+      },
+      {
+        "wallet": "0x2ff7fa71d9a7ecceb48c9244ab695ac8d653e982",
+        "name": "puntkunt",
+        "buy_volume": 151093.99995,
+        "sell_volume": 101112.63615,
+        "total_volume": 252206.6361,
+        "buy_sell_ratio": 0.669
+      },
+      {
+        "wallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
+        "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
+        "buy_volume": 98155.66379000002,
+        "sell_volume": 101403.24186999997,
+        "total_volume": 199558.90566000025,
+        "buy_sell_ratio": 0.968
+      },
+      {
+        "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
+        "name": "classified",
+        "buy_volume": 88254.82676,
+        "sell_volume": 83773.6397,
+        "total_volume": 172028.46645999997,
+        "buy_sell_ratio": 0.949
+      },
+      {
+        "wallet": "0x7511ec2fa81d5fb6b5a4ed436e287b434d8ea568",
+        "name": "millanos",
+        "buy_volume": 87397.57632499999,
+        "sell_volume": 60674.303960000005,
+        "total_volume": 148071.880285,
+        "buy_sell_ratio": 0.694
+      },
+      {
+        "wallet": "0x9efda3d6354152901fc4706c3b1a9ce50b45ad00",
+        "name": "Istaroth",
+        "buy_volume": 75626.66362,
+        "sell_volume": 70914.72962999999,
+        "total_volume": 146541.39325,
+        "buy_sell_ratio": 0.938
+      },
+      {
+        "wallet": "0xb1ca909e848cc24ec4e220ce1c453bc290c51705",
+        "name": "NonceChaser",
+        "buy_volume": 92907,
+        "sell_volume": 49950,
+        "total_volume": 142857,
+        "buy_sell_ratio": 0.538
+      },
+      {
+        "wallet": "0x08458f7e9d2858027de579e4c3ca305475496b6f",
+        "name": "GollumGekko",
+        "buy_volume": 62539.29965,
+        "sell_volume": 50664.802370000005,
+        "total_volume": 113204.10202,
+        "buy_sell_ratio": 0.81
+      },
+      {
+        "wallet": "0x5ccf62ac8155e49bc7d021a1a66e9ef18f5579d7",
+        "name": "Cungly",
+        "buy_volume": 50827.43327,
+        "sell_volume": 51506.20625,
+        "total_volume": 102333.63952,
+        "buy_sell_ratio": 0.987
+      },
+      {
+        "wallet": "0x05ab749a8554fb7c852238c271d384bae6798145",
+        "name": "SeniorLaghetto",
+        "buy_volume": 62942.88657,
+        "sell_volume": 35999.476969999996,
+        "total_volume": 98942.36354,
+        "buy_sell_ratio": 0.572
+      },
+      {
+        "wallet": "0xc15b833b6991e5dbcaca029f7d0f951e5db238af",
+        "name": "makinta",
+        "buy_volume": 39416.725289999995,
+        "sell_volume": 49900,
+        "total_volume": 89316.72529,
+        "buy_sell_ratio": 0.79
+      },
+      {
+        "wallet": "0x53e55bc7cb3d67ad177c023ce891ad076a9d6177",
+        "name": "Arbguy",
+        "buy_volume": 28577.676949999997,
+        "sell_volume": 47982.36296,
+        "total_volume": 76560.03990999999,
+        "buy_sell_ratio": 0.596
+      },
+      {
+        "wallet": "0x711b9a84bbc00d96a07c4816c79ef4515a4fbcec",
+        "name": "jimmy0001",
+        "buy_volume": 24680.999956,
+        "sell_volume": 46049.17192000001,
+        "total_volume": 70730.17187600001,
+        "buy_sell_ratio": 0.536
+      },
+      {
+        "wallet": "0xaac2469db4c243a2931acc252967b171bd97e8ce",
+        "name": "upont",
+        "buy_volume": 39705.481519999994,
+        "sell_volume": 27984.359780000003,
+        "total_volume": 67689.8413,
+        "buy_sell_ratio": 0.705
+      }
+    ]
+  },
+  "statistics": {
+    "benford": {
+      "observed": {
+        "1": 0.3358,
+        "2": 0.1933,
+        "3": 0.0967,
+        "4": 0.0894,
+        "5": 0.0701,
+        "6": 0.0392,
+        "7": 0.0449,
+        "8": 0.0332,
+        "9": 0.0975
+      },
+      "expected": {
+        "1": 0.301,
+        "2": 0.176,
+        "3": 0.125,
+        "4": 0.097,
+        "5": 0.079,
+        "6": 0.067,
+        "7": 0.058,
+        "8": 0.051,
+        "9": 0.046
+      },
+      "mad": 0.023,
+      "chi_squared": 4723.59,
+      "p_value_approx": 0.005,
+      "violation": true,
+      "verdict": "MINOR DEVIATION",
+      "sample_size": 51245
+    },
+    "entropy": {
+      "market_entropy": 0.001,
+      "bot_wallets": [
+        {
+          "wallet": "0x3fc9891920d7a44873c859b6a43baf691ee9e6ea",
+          "name": "FallingStars",
+          "trade_count": 92,
+          "entropy": 0.12,
+          "volume": 1165831.3205199998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8ebfdc251c6c378d4a3a54a8f15cebfa4b9183ce",
+          "name": "Ordon",
+          "trade_count": 21,
+          "entropy": 0.132,
+          "volume": 586540.24819,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+          "name": "UnderperformingForALiving",
+          "trade_count": 26,
+          "entropy": 0.112,
+          "volume": 498324.78280000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf284ad6d607f777f34bc643cea587c33a886b9f9",
+          "name": "strike123",
+          "trade_count": 16,
+          "entropy": 0.266,
+          "volume": 486714.70999999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x24c8cf69a0e0a17eee21f69d29752bfa32e823e1",
+          "name": "debased",
+          "trade_count": 52,
+          "entropy": 0.258,
+          "volume": 395970.36728,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc294089cb84fea08126227c7626ee9408fd84798",
+          "name": "QuadrupleDouble",
+          "trade_count": 42,
+          "entropy": 0.076,
+          "volume": 359716.8049699998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x69aa9fa621403e3a121b29ad77d32ba9eb5e8847",
+          "name": "tsekinming01",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 281737.6515199999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+          "name": "Flipadelphia",
+          "trade_count": 34,
+          "entropy": 0.135,
+          "volume": 260435.517228,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf39651f0addaad0221806d828197064b97feed0d",
+          "name": "Pajamapants",
+          "trade_count": 14,
+          "entropy": 0.106,
+          "volume": 258429.72641,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa4b366ad22fc0d06f1e934ff468e8922431a87b8",
+          "name": "HolyMoses7",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 245439.06524999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x95074f700f93bdf6e62fc965e0832064c0877b04",
+          "name": "95074f700f93bdf6e62fc965e0832064c0877b04",
+          "trade_count": 32,
+          "entropy": 0.275,
+          "volume": 215734.26781,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8a98109fb0f1d87d9bfcb4486ba3587b95c51b92",
+          "name": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA9604",
+          "trade_count": 1075,
+          "entropy": 0.026,
+          "volume": 199558.90566000025,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbacd00c9080a82ded56f504ee8810af732b0ab35",
+          "name": "ScottyNooo",
+          "trade_count": 44,
+          "entropy": 0.29,
+          "volume": 182613.12147000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6ede3d5fa80c7035e151229d3ce8f303950f97a2",
+          "name": "0x6EDe3D5Fa80c7035e151229d3CE8f303950f97a2-1777795772014",
+          "trade_count": 13,
+          "entropy": 0.29,
+          "volume": 176683.45778999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x12d6cccfc7470a3f4bafc53599a4779cbf2cf2a8",
+          "name": "classified",
+          "trade_count": 81,
+          "entropy": 0.098,
+          "volume": 172028.46645999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5e84743ad0515699b7adf2588de4c3032d538e88",
+          "name": "Cbb.",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 111700.39202000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5ccf62ac8155e49bc7d021a1a66e9ef18f5579d7",
+          "name": "Cungly",
+          "trade_count": 50,
+          "entropy": 0.23,
+          "volume": 102333.63952,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x05ab749a8554fb7c852238c271d384bae6798145",
+          "name": "SeniorLaghetto",
+          "trade_count": 204,
+          "entropy": 0.039,
+          "volume": 98942.36354,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4ad6cadefae3c28f5b2caa32a99ebba3a614464c",
+          "name": "noreasapa",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 95749.64451,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc4086b708cd3a50880b7069add1a1a80000f4675",
+          "name": "JJo",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 95722.84599999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xea7957606f259bcba522a4681494555547a7a9cc",
+          "name": "starbuck02",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 77164.81654,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x72e2c237e76b4ffada94ff347cdad511559b6610",
+          "name": "Hoch",
+          "trade_count": 15,
+          "entropy": 0.286,
+          "volume": 76535.279538,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa91edabae0eae478c830a6d5dfd3acc0571709e0",
+          "name": "enri.hl",
+          "trade_count": 197,
+          "entropy": 0.021,
+          "volume": 67237.98479,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcb59ea1babf3b26ea50088057e427ab0ed8f0a22",
+          "name": "BeneGesseritVoice",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 63780.00600000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x88e32b106f02fcd7a204e388f830ba290659384e",
+          "name": "QMTRADR",
+          "trade_count": 19,
+          "entropy": 0.29,
+          "volume": 60139.289300000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x879247bf7570a40d193dd3bb9118820e0b194174",
+          "name": "hosoon123",
+          "trade_count": 40,
+          "entropy": 0.223,
+          "volume": 57660.18009000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1dd197fa8bb4d6887ffecf89b75171aea7d7a156",
+          "name": "newnewuser",
+          "trade_count": 46,
+          "entropy": 0.036,
+          "volume": 54455.55047,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbaa2bcb5439e985ce4ccf815b4700027d1b92c73",
+          "name": "denizz",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 53117.338240000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbd0477e08d82d35a855ff19644a88a9213d8fbb0",
+          "name": "yuhyuhyuhy352352",
+          "trade_count": 36,
+          "entropy": 0.116,
+          "volume": 52835.60953,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe1b537a593c8115c327ce07e7b7f4560f5b620ac",
+          "name": "letradooor",
+          "trade_count": 760,
+          "entropy": 0.017,
+          "volume": 49548.74701999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5a892cefe9c01ed049d8e5193136abaf5808c186",
+          "name": "cestledeuxieme",
+          "trade_count": 1592,
+          "entropy": 0.017,
+          "volume": 41533.77959000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe4b40d75a8aec9c5198564df662dbaf51dba874d",
+          "name": "lardechois",
+          "trade_count": 874,
+          "entropy": 0.012,
+          "volume": 39210.34271000006,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf0d5eb1cbe7350f1f896ade6c172e6700414c665",
+          "name": "yen4u",
+          "trade_count": 17,
+          "entropy": 0.217,
+          "volume": 38955.64531000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5fa03d397355aac67c263e7219cf435e129dc20f",
+          "name": "moonthat",
+          "trade_count": 294,
+          "entropy": 0.083,
+          "volume": 38810.60431000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x789b0eef7b5f7864eb2685a8648830c96dde70e7",
+          "name": "confortdelagorge",
+          "trade_count": 127,
+          "entropy": 0.07,
+          "volume": 38785.965229999994,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x46992d0e547e3822a9c28723f51bfa804ae4e03c",
+          "name": "anon.1980.123",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 36825.30198,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa4b5bfecafef1e11a5bb97e7ae406e8fbeb60a9b",
+          "name": "Ethbanos",
+          "trade_count": 146,
+          "entropy": 0.1,
+          "volume": 36423.93346000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3d1487b9a384635dcd7e438eb183e95351b5ee01",
+          "name": "wagmi420",
+          "trade_count": 17,
+          "entropy": 0.248,
+          "volume": 34384.235497999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x42d9d2d6f162c6fb4df64aad2761329bc9190211",
+          "name": "lemondeourien",
+          "trade_count": 1019,
+          "entropy": 0.023,
+          "volume": 34113.34182999993,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa372a14fcc6eb98ebf73ba6febe0d5538c1e1b3e",
+          "name": "coinfun",
+          "trade_count": 19,
+          "entropy": 0.219,
+          "volume": 33223.98473799999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5cd5c8d7a17c78d7389d8b87b611aed83322ac33",
+          "name": "nonkenny90",
+          "trade_count": 28,
+          "entropy": 0.14,
+          "volume": 33207.628970000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2200b75c27835935a40308779b5656c09ab40f2d",
+          "name": "BeanC0unter",
+          "trade_count": 21,
+          "entropy": 0.196,
+          "volume": 32941.02725,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x793ed200a1e8344d608a17763d9cb8773b3643bf",
+          "name": "Letradeuur",
+          "trade_count": 1278,
+          "entropy": 0.019,
+          "volume": 32642.85942999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x59253f9a0cdf254fa4518fd3aae2541f9e0ab194",
+          "name": "0x59253f9a0Cdf254fa4518FD3aAe2541f9e0AB194-1730780830728",
+          "trade_count": 22,
+          "entropy": 0.289,
+          "volume": 32511.5512,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdae37ea4238f43fc3f25c1ef6c83be1aa5270863",
+          "name": "lechefenchef",
+          "trade_count": 1079,
+          "entropy": 0.019,
+          "volume": 31784.696089999983,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7e8aead6bd9a2b86fa6f0f8ef4f3de4118dd5f49",
+          "name": "0x7e8aEad6bD9a2B86fa6F0f8EF4F3de4118dD5F49-1779342749951",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 31695.417849999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x122d9ce327d1d40ded62b8782aea3d1c32af95fe",
+          "name": "safestrat",
+          "trade_count": 785,
+          "entropy": 0.013,
+          "volume": 31262.581449999983,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd914d88676771d525f933306390567cdec100d9a",
+          "name": "tkenmn",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 30675.010256999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa8c63f775ddbbe66b56614191747def3021444e8",
+          "name": "Tenebrus7",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 28968.765460000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4848379a9779a8dcfe80be3ba46e3912f4c50e2c",
+          "name": "buongiornoamico",
+          "trade_count": 795,
+          "entropy": 0.013,
+          "volume": 27026.843489999977,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe4ff8a61396932ad480bdd720f677b66eaaa85ba",
+          "name": "number777",
+          "trade_count": 981,
+          "entropy": 0.021,
+          "volume": 26653.764309999948,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x222f579dd5391bde6e204ea105bf7ae2f8838271",
+          "name": "DownInNO",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 26288.64942,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdb47822791a18b27ff7c2cd01969009b2503709d",
+          "name": "jeffefefef",
+          "trade_count": 266,
+          "entropy": 0.091,
+          "volume": 25786.9624,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9d736920e486176e7df7a76fa218f1ebd853216b",
+          "name": "AlAhmeda",
+          "trade_count": 15,
+          "entropy": 0.286,
+          "volume": 24976.846969999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe53207e4032390de35514597cdcd64e93e33a08b",
+          "name": "",
+          "trade_count": 130,
+          "entropy": 0.145,
+          "volume": 24723.094858,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x144e019d576f112fa767cc77240b98a7f31e5e08",
+          "name": "newstrat",
+          "trade_count": 1042,
+          "entropy": 0.017,
+          "volume": 24496.495019999882,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x71878dddb3cfa8744e47dcfa983b62eaac45f08b",
+          "name": "US-Phenom",
+          "trade_count": 31,
+          "entropy": 0.193,
+          "volume": 24266.158507999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe8795bd3d265b046b9c4822c9fd06ea391dc6d22",
+          "name": "Revered",
+          "trade_count": 15,
+          "entropy": 0.098,
+          "volume": 23164.567949,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf7ebaa7f2f205a12609f7d1d0927316938c331c3",
+          "name": "sonnguyen95",
+          "trade_count": 21,
+          "entropy": 0.26,
+          "volume": 22919.756798000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x15f7ddbc6ffe08722ddeb64d51e58aef7b8ca018",
+          "name": "idkwhatimdoinggg",
+          "trade_count": 26,
+          "entropy": 0.148,
+          "volume": 22712.99941,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb20ac3fbbe4f24a70186f498ebe70e232ffed09d",
+          "name": "lordedward",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 22086.769,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x93a93d84d44270b5b86dad5c28eff367a7d70b88",
+          "name": "",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 22058.869140000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x68aa4527e5cfbd1d19ef5f593afcee159e8eea5e",
+          "name": "lasiweijiasi",
+          "trade_count": 13,
+          "entropy": 0.115,
+          "volume": 22001.26255,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0a543bb97015206f67e1bc5ead7c2d60baf64a03",
+          "name": "yyyy77777yyyyy777yyy",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 21545.48098,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+          "name": "suntori",
+          "trade_count": 160,
+          "entropy": 0.129,
+          "volume": 21543.467269000008,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x615346ac3277f46c5282bd7eb20fc496d55144ab",
+          "name": "clem913",
+          "trade_count": 831,
+          "entropy": 0.012,
+          "volume": 21481.35921999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x09a5d3b75f908d780f2070ac270eabd6cf83caaa",
+          "name": "83CAAA",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 21027.288289999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x72a22d4d155079da8f50c89d4c6c03b6428e7b65",
+          "name": "meowtai",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 20509.61264,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe3850ec8daef3bda9a02d3314f37a8333e18b0c4",
+          "name": "y0Noqz",
+          "trade_count": 465,
+          "entropy": 0.093,
+          "volume": 20365.45108000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbf4d202382ba5702721a8c43126f5f08163733ed",
+          "name": "0xbF4d202382",
+          "trade_count": 82,
+          "entropy": 0.066,
+          "volume": 19204.070410000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbd38f8143f87f484d7f039626b5064b10f0e99d4",
+          "name": "liberateme",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 19064.27046,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd6ddc6559313bcc819f1df1b3647f3930da998ee",
+          "name": "juisloa",
+          "trade_count": 60,
+          "entropy": 0.191,
+          "volume": 18754.67171000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa9aca75fb5d8f04c2ec9eeb0eb0c30d2e526c5d1",
+          "name": "suraxy",
+          "trade_count": 26,
+          "entropy": 0.202,
+          "volume": 17222.007793999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4f30ce317ec89c090dceb6987235ad7bfabe12c3",
+          "name": "erzh",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 17056.73693,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x277989790d4a8c782d7a4992e13c2dcaa031239a",
+          "name": "balabalababalabala",
+          "trade_count": 18,
+          "entropy": 0.233,
+          "volume": 16697.481880000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x995c43b865e6794abd0e062e1374f6551f792282",
+          "name": "",
+          "trade_count": 19,
+          "entropy": 0.219,
+          "volume": 16677.536542,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x98405ff1b31ccd265f60e31ce1b34d9d8e15e6bc",
+          "name": "helloworld07",
+          "trade_count": 670,
+          "entropy": 0.015,
+          "volume": 16238.960100000006,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1d5ce0a272ba0d3340fe1daba63478a06c1d55df",
+          "name": "RiseFromTheAshes",
+          "trade_count": 17,
+          "entropy": 0.248,
+          "volume": 15048.888950000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbdc3e475821b3512b1ae1a492f89d15323e4c0ea",
+          "name": "Ilgato",
+          "trade_count": 15,
+          "entropy": 0.098,
+          "volume": 14610.990849999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa41f7bc26abf650aee09f00481c62797e1c1c0f7",
+          "name": "qwertyjack",
+          "trade_count": 16,
+          "entropy": 0.179,
+          "volume": 13491.376912,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x942a9306a554ab0b94d079dd60a6df7ad702aedc",
+          "name": "sakaili515",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 12983.691247,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xddd85ddfa58784925990c16c9858ccd62e4ee6f7",
+          "name": "Sreisz",
+          "trade_count": 15,
+          "entropy": 0.193,
+          "volume": 12893.0101,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1987733c8beae675c544752eafe437968efe6487",
+          "name": "jordan0073444",
+          "trade_count": 645,
+          "entropy": 0.015,
+          "volume": 12840.513170000022,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x71bd821b2c823cf67ed329abbb6a05d3ab9eac00",
+          "name": "jordannnnnnnn",
+          "trade_count": 560,
+          "entropy": 0.025,
+          "volume": 12697.201380000015,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8d5e5e04591e91ccc674282df051b047c373a9fc",
+          "name": "5463053",
+          "trade_count": 164,
+          "entropy": 0.012,
+          "volume": 12646.532199999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb939edfcee10bfb12dd13603be79862cf94e9c42",
+          "name": "prestigeworldwide",
+          "trade_count": 151,
+          "entropy": 0.081,
+          "volume": 12435.34738,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5822b9376e50d576ef85e62be0f53434816f8774",
+          "name": "dex52",
+          "trade_count": 24,
+          "entropy": 0.157,
+          "volume": 12379.99598,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb8b44e3cc9e0962982e3c8bf444b6a7411f51f6e",
+          "name": "MonacoLover",
+          "trade_count": 38,
+          "entropy": 0.083,
+          "volume": 11795.50921,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0a33fa80244e1e1ab627a38c5735abfd2dd43a4f",
+          "name": "PublioCornelio",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 11670.785249999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3b9d958db7c1245c335c403d2e624ab0ddd93836",
+          "name": "Jordan073469",
+          "trade_count": 552,
+          "entropy": 0.018,
+          "volume": 11493.608829999988,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa0c37cb0587b0dd1542f794bcfa345762bba5b9a",
+          "name": "kukubaja",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 11404.87611,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6c77b8733297bc9702d3c72283c7918cdc8aa514",
+          "name": "jordaaaannn",
+          "trade_count": 480,
+          "entropy": 0.03,
+          "volume": 11266.439210000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf32a44b612a60f2b0c0f23c419876ec1c89c06fd",
+          "name": "Dit26978",
+          "trade_count": 27,
+          "entropy": 0.283,
+          "volume": 10776.54078,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb483d5718da4ac6f2aa39dc933f2043c5a3a0880",
+          "name": "Jordannnnnnn",
+          "trade_count": 490,
+          "entropy": 0.02,
+          "volume": 10499.036750000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9f086ae32344b489a004109f06fced08154273a8",
+          "name": "Copezilla",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 9777.41394,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8b5532e4cb4810e8e3191e2f876d515b564f229c",
+          "name": "RollTheDice777",
+          "trade_count": 15,
+          "entropy": 0.288,
+          "volume": 9715.292070000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa3c7c8c3c49427d840f7e62e46d202fae2a53e1f",
+          "name": "compteeeee6",
+          "trade_count": 520,
+          "entropy": 0.009,
+          "volume": 9550.060170000033,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5f0da37f1b8c14afee49c83a540fe10bdae5c118",
+          "name": "hatice",
+          "trade_count": 24,
+          "entropy": 0.06,
+          "volume": 9547.391399999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x43f05ae1cbc007f07bbf34f6050f331238791b3d",
+          "name": "Donkolo",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 9093.669831000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9d699c315b662a161e763a3c4c954408a048ab3a",
+          "name": "MaximusGluteusDumpTruckus",
+          "trade_count": 30,
+          "entropy": 0.198,
+          "volume": 9074.820576,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2517ffdd702d8b42e3da0304ecbc459dc65e065d",
+          "name": "TrevorJones3",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 8940.224513,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5297f1e1d0f0584537af763652a0a5f874037b99",
+          "name": "adasol",
+          "trade_count": 96,
+          "entropy": 0.201,
+          "volume": 8744.042900999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb414bd8d17c921cdaf49023f653710c2b5324cd5",
+          "name": "eldestboy",
+          "trade_count": 53,
+          "entropy": 0.29,
+          "volume": 8634.844579999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7db2ee2b58c0eb9dc908d0b261852a37002c3ce5",
+          "name": "testiclepulveriser",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 8526.032163,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe8b5343ec8241dcf3584fd15693b81f1cb2caa05",
+          "name": "MMVN",
+          "trade_count": 14,
+          "entropy": 0.106,
+          "volume": 8093.855471000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x265974800ecc76b67a6abe4b205aa6ba5876a631",
+          "name": "engin02",
+          "trade_count": 46,
+          "entropy": 0.106,
+          "volume": 8009.652140999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4b9cb9ec83c19b7002b00504f1e37ad8619dc182",
+          "name": "PartizanVillage",
+          "trade_count": 66,
+          "entropy": 0.151,
+          "volume": 7898.712459999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x35e36faa4cf1488d120580302ed1d149be749188",
+          "name": "0x35e36FaA4cf1488D120580302Ed1d149bE749188-1775509899044",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 7401.72442,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4abee67107d088dc525180c6f3fdeb5dfe9637b7",
+          "name": "0x4aBeE67107D088dC525180C6F3fdEB5dfe9637b7-1779272203758",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 7243.1939999999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x26f427fc0019ae4210a8f73abd1914d81c96e110",
+          "name": "Wuazz",
+          "trade_count": 477,
+          "entropy": 0.029,
+          "volume": 6684.9173899999905,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc5bdf06de8ac9e1a904408d101c0cdc86571ceaa",
+          "name": "garbagefriends",
+          "trade_count": 23,
+          "entropy": 0.123,
+          "volume": 6066.710739999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x836ffd95ef3cf3c7987612279b2152b11ce6906e",
+          "name": "RizzEmWithTheTism",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 5485.31231,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6c5c0ed191af1ca320e0650ede109242bf37df53",
+          "name": "seize779",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 5448.245000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5a218c7ad04135830a45c41aaed7294df7809318",
+          "name": "balthazar",
+          "trade_count": 25,
+          "entropy": 0.058,
+          "volume": 5268.339646000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf027918f9a368fb6169d7caf5fa6e899f14b3f04",
+          "name": "Gorgeous-",
+          "trade_count": 29,
+          "entropy": 0.186,
+          "volume": 5179.963479999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd597dd2dd7cb5fa819534a61127df65dce326429",
+          "name": "takingcareofbusiness",
+          "trade_count": 48,
+          "entropy": 0.274,
+          "volume": 5084.070729999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa639cba9de2767193ac9652e56f79c6a9302a48f",
+          "name": "blunderbot",
+          "trade_count": 17,
+          "entropy": 0.297,
+          "volume": 4934.782590000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xced2fb16502b6c9ddd7238ad11c3fb82f1721076",
+          "name": "spamabunch",
+          "trade_count": 56,
+          "entropy": 0.18,
+          "volume": 4901.65855,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcc2620f9e3cb4498e8aea556764ec341357932ca",
+          "name": "0x2785e7022dc20757108204bI3c08cea8613b70a",
+          "trade_count": 32,
+          "entropy": 0.188,
+          "volume": 4645.448359999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc56bb8a556aa229598081f261032eb42a71d0e6d",
+          "name": "Bouplai",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 4372.269907,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa178826db4424fdbe3601e5243743a47b43e980c",
+          "name": "asldfjk",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 4145.83748,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3ad10aa6061ec6cebeb837dc1a051e496cad684a",
+          "name": "Yamin612",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 4097.606961999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa66790e2b0075e73c3781ddaf1d0b875a3aaceb3",
+          "name": "Elias.Thornwell",
+          "trade_count": 14,
+          "entropy": 0.268,
+          "volume": 4073.75212,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0d2d845a6ff64e31e04a70afce8a573940767ff5",
+          "name": "HeavyP1sser",
+          "trade_count": 238,
+          "entropy": 0.126,
+          "volume": 3989.447081,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb1a190be02cafacb6c30b98beb621503d5e2d308",
+          "name": "Jjw",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 3943.6331800000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb40e89677d59665d5188541ad860450a6e2a7cc9",
+          "name": "Poligarch",
+          "trade_count": 25,
+          "entropy": 0.263,
+          "volume": 3919.7706000000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3e5b23e9f71b2a2edcd5629d3f948f12f591073b",
+          "name": "beenraping",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 3880.45122,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x166a49699aba5d7a9ce3142450062deedf83d7ed",
+          "name": "Eia",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 3866.4916,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x21d5d6326f480863e1d00c5d52bba19d9cec9925",
+          "name": "bigshort",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 3783.8475799999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe2cbf5c728f9bd2a5d561cd350c5f04128ca6e8f",
+          "name": "aiioi",
+          "trade_count": 15,
+          "entropy": 0.193,
+          "volume": 3737.9526959999994,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe018ac1e9914f9061e9b4969a09b17984e44a22d",
+          "name": "testik2",
+          "trade_count": 40,
+          "entropy": 0.04,
+          "volume": 3720,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6fdcff29e55d88fe6b8a49f8022a9c9f78b31e39",
+          "name": "NCR1",
+          "trade_count": 32,
+          "entropy": 0.048,
+          "volume": 3683.25,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0c2dc1c9cc140d7fc330710582aebdddac830587",
+          "name": "Hakim654",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 3649.4267709999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xca972cdf160266af59af5ad84d0577cb3ac75409",
+          "name": "NellyDora",
+          "trade_count": 25,
+          "entropy": 0.058,
+          "volume": 3649.25263,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb1197584bdc1b2af385767a0a3014dd86dae8d46",
+          "name": "SAVEWORLD",
+          "trade_count": 27,
+          "entropy": 0.283,
+          "volume": 3621.8371999999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5d05b1f588780423488a09d9aefeb64df54d6320",
+          "name": "SP888",
+          "trade_count": 93,
+          "entropy": 0.119,
+          "volume": 3504.720851,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x04b30d518963c510ade2f2bd502c7438ea33ad8d",
+          "name": "AnToine83421802",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 3464.999871,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x45fb42d054b70e524f9368b5f76ccd8fef0bf1f6",
+          "name": "chemp1mln",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 3437.3369999999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xafaa2576b1a904b25f0a435f76f7b158d2dff0e4",
+          "name": "chupaps",
+          "trade_count": 65,
+          "entropy": 0.25,
+          "volume": 3200.445450000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa03201c619f89158f3e57f48bf0304cf70a7679e",
+          "name": "joember",
+          "trade_count": 15,
+          "entropy": 0.098,
+          "volume": 3181.6743730000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x279c5de35108afc30b99f09e595555b428e92b82",
+          "name": "0x279C5de35108AFC30b99f09e595555B428E92b82-1777882786715",
+          "trade_count": 169,
+          "entropy": 0.109,
+          "volume": 3058.863445000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcecaeade076dafc88fdb955864da9d9c15693f67",
+          "name": "Everestpredictions",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 3004.9999719999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7b0b3850eb4a00289a6e00097bc4daeec39cc3df",
+          "name": "vtat",
+          "trade_count": 14,
+          "entropy": 0.106,
+          "volume": 2841.926259,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xce0ceeb1d84a95e60a4a28ea19ed3efb58092945",
+          "name": "0xcE0cEEb1D84A95e60A4a28Ea19eD3EfB58092945-1767950962360",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 2656.77024,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa9fb0f3722bb17a7b2e6d3969ec037296581f9d1",
+          "name": "Vitaelit",
+          "trade_count": 26,
+          "entropy": 0.202,
+          "volume": 2585.7000000000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x54498e4c40b17261479aeaeeddf9cc37bd46992b",
+          "name": "",
+          "trade_count": 289,
+          "entropy": 0.093,
+          "volume": 2557.5934159999897,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xffeafb3a833da1d324af43edd7f106fe138a06c0",
+          "name": "chaoticgod",
+          "trade_count": 32,
+          "entropy": 0.142,
+          "volume": 2463.8821599999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd53ef4238bab3af3dc1e81f4c5640dbf42a20b73",
+          "name": "0xd53eF4238Bab3Af3Dc1e81F4C5640dBf42a20B73-1775149557747",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 2446.5113300000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x97d37d16d1774785197bfa23ffed625a8e493f3c",
+          "name": "Gluckyklucky",
+          "trade_count": 17,
+          "entropy": 0.297,
+          "volume": 2061.0420999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc91b7d9f4463c9985f562149c31841cde87793bd",
+          "name": "0xC91b7D9F4463C9985f562149",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 1979.9998659999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd064251efc30a38c3323e42113656144d4b8c4d1",
+          "name": "fresh",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 1732.053417,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+          "name": "neutralwave23",
+          "trade_count": 45,
+          "entropy": 0.179,
+          "volume": 1728.2500129999992,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x05ddbe2edc2fcb293eb149028f45e93cec14305c",
+          "name": "trader-05ddbe2e",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1721.4250399999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0bea2d8b2da01eb32c429942a186456aef6987b7",
+          "name": "es-f",
+          "trade_count": 19,
+          "entropy": 0.147,
+          "volume": 1668.87988,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x72f7210bc212e2c77da05cef3c925353efad4345",
+          "name": "g941ax6g1xpk",
+          "trade_count": 46,
+          "entropy": 0.036,
+          "volume": 1615.9711949999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x20ec89acc2678056d12f87a48eadfa684af04bf6",
+          "name": "20Ec89",
+          "trade_count": 99,
+          "entropy": 0.071,
+          "volume": 1571.4935799999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb51b3beffd13cde071ed799e70a7b0b598e8b4d9",
+          "name": "cambridgeisaac",
+          "trade_count": 33,
+          "entropy": 0.273,
+          "volume": 1537.1262800000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf2faf524fdf5901cf0f6e7a2eaae3f0c4e9f4a62",
+          "name": "ToadToad",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 1505.653143,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbfccc586c262d94f42c5f4fa34465d20105312a6",
+          "name": "Freeborne",
+          "trade_count": 15,
+          "entropy": 0.286,
+          "volume": 1503.6981319999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x36e0e6c39b4eba13c2d6a884644607c2abbc19b9",
+          "name": "Moide",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1463.12006,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x245ae9a357e37936d098a77c5f7970b3f7c5bf25",
+          "name": "ActonReal",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1431.06576,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe27c7e8fd957be5547e8e6e4f2130cd1c4d43047",
+          "name": "narucat",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1402,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x787897d6513b855efe7a033b6c4bfe6da65b8d41",
+          "name": "ox787897D6513B855eFe7A033b6c4BfE6da65b8D41",
+          "trade_count": 42,
+          "entropy": 0.038,
+          "volume": 1384.5212499999993,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa3af760e15e6b6bd3c43d8cf2ae6952f0a9bb7a6",
+          "name": "0xA3af760e15e6B6bd3C43d8cf2AE6952F0a9bB7a6-1720875307802",
+          "trade_count": 29,
+          "entropy": 0.203,
+          "volume": 1374.6525800000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x882b45bba3afa6c269b4c226aecd86d06e81a746",
+          "name": "0x882b45bbA3AFA6C269B4c226Aecd86D06e81a746-1772118897458",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 1357.1519200000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x433e8ad93164b547a13969db912b79f445b086fc",
+          "name": "Gregor",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 1323.88039,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe22f1c9e4d5984fd0b2e849b9be273c21ea81076",
+          "name": "",
+          "trade_count": 20,
+          "entropy": 0.182,
+          "volume": 1319.99655,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd837a0de2c7298045b8a1ecceb367ecd0f0b2af7",
+          "name": "",
+          "trade_count": 132,
+          "entropy": 0.103,
+          "volume": 1313.3683369999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x98597da16fd05b56941d809e16aa86f9ebd41650",
+          "name": "S1R1US",
+          "trade_count": 20,
+          "entropy": 0.07,
+          "volume": 1289.02194,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb6ce892dd3e01d4e30264f15fd9e61a4f62f895d",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1284.66354,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd2a857c2889af21403c3c6f92731640d4ced5bac",
+          "name": "SPEKs",
+          "trade_count": 20,
+          "entropy": 0.07,
+          "volume": 1282.069778,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2d811b8d15236dabe92b2f3610a01cc9dbcafe57",
+          "name": "SamsClub-VIP",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1264.0932,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x724c7f277889814c98afcd38555e25c6e68f1521",
+          "name": "Aw0",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1262.419774,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc37141e2aadfa26655bf039cacdc239c9da21e28",
+          "name": "FML69",
+          "trade_count": 42,
+          "entropy": 0.038,
+          "volume": 1245.3504399999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4f3337190c4c5acbf83d663ddba061afdc0cb512",
+          "name": "Chrisonerista",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 1163.586328,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd7befdd99c37c7fb63c2845c6eb931506fca539f",
+          "name": "Ko9science",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1151.7059,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc9a9dbb193748024a3b4b659613cef55b5b24898",
+          "name": "Bubaskarseze",
+          "trade_count": 106,
+          "entropy": 0.072,
+          "volume": 1113.999941,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0ae58e26a9e92aebc22de776c7206076c38103fb",
+          "name": "jamey18",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 1106.4066599999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe90fe094286107ab146138930fb878869702131e",
+          "name": "G9vQK5Gcyx",
+          "trade_count": 46,
+          "entropy": 0.071,
+          "volume": 1064.1734729999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x66bec80c9926363db7761c5035bc5f8d3d871148",
+          "name": "Zasmes",
+          "trade_count": 75,
+          "entropy": 0.128,
+          "volume": 1045.3631030000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe2be51cc4ff06cea203113cdc3b2c2722556ff33",
+          "name": "Yettti",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 967.8604299999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x91c7f544a6efad9825185c2bca1f1a95cc92b576",
+          "name": "frosique1",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 924.39212,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdbc45db6ba0618e6182109854e8d19a77b4f4347",
+          "name": "pollybott",
+          "trade_count": 46,
+          "entropy": 0.096,
+          "volume": 916.1289180000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4214bd27b30d8cd3eb8bbe9edd2fcebaac4e6c68",
+          "name": "KriteriTraderJoe",
+          "trade_count": 100,
+          "entropy": 0.215,
+          "volume": 900.60921,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x45eaf6ef3cbfa6cd55976f72a909df077658e966",
+          "name": "ecasa",
+          "trade_count": 105,
+          "entropy": 0.187,
+          "volume": 875.5379999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2eae1023ecfe412625c9ded996501145add4a25f",
+          "name": "0x2EaE1023ECFE412625c9DED996501145adD4a25f-1758897531821",
+          "trade_count": 71,
+          "entropy": 0.075,
+          "volume": 873.942099,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x124f1f38b694344eeefcc1e4a36fe87601510dea",
+          "name": "Motosha",
+          "trade_count": 38,
+          "entropy": 0.164,
+          "volume": 871.38497,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa3de21c8e8248a3bccfec6b68e33d4504802111a",
+          "name": "",
+          "trade_count": 78,
+          "entropy": 0.115,
+          "volume": 861.7398530000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5eee84154d7728c8eaa693b797c9e77d839ff427",
+          "name": "zimumu",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 809.3923920000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa18d9584e5dbe2f7e38e585fc54e688e5d8ab16a",
+          "name": "aldiJames",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 802.6498479999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xeb22308d51cd6e56b084db883807f765a02828d7",
+          "name": "xxxTeeMxx",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 755.760938,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xed457c7e2e3e28cf8129502010fcf8ae5b970d29",
+          "name": "ItsFridaaayy",
+          "trade_count": 31,
+          "entropy": 0.177,
+          "volume": 750.551827,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9d1727206681a3aab5a505381d5a08971f5b9054",
+          "name": "Z4M4Z1NGO",
+          "trade_count": 28,
+          "entropy": 0.275,
+          "volume": 735.24565,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x79463f0b7e76ca148250055da304c4e25b8c387f",
+          "name": "tototo6969",
+          "trade_count": 21,
+          "entropy": 0.132,
+          "volume": 733.8825800000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb04a46908c7cd7e62acbbbf08ec6e395336bacfc",
+          "name": "Zelenearn0",
+          "trade_count": 37,
+          "entropy": 0.084,
+          "volume": 697.8683300000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x946e338b86a3b52d71b642c00a3ed38595031225",
+          "name": "oopslostmoney",
+          "trade_count": 29,
+          "entropy": 0.153,
+          "volume": 694.8814930000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x63bc8a8dfc4840fb0d21c9ceb7fc046bc34a5025",
+          "name": "maxbax8",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 673.242799,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x751450fa3167f00422d61eeefe5e85ad41245dd2",
+          "name": "",
+          "trade_count": 24,
+          "entropy": 0.119,
+          "volume": 656.0266260000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5b2b3f7bc76c2ba2d2a924a6f74314d193d62327",
+          "name": "PTemplarium",
+          "trade_count": 14,
+          "entropy": 0.209,
+          "volume": 650.7746599999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x87a0fad111a51b32f89759b8fdd20633b50203ad",
+          "name": "xarakmar",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 634.199258,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x95172e263f7d5761099126e33ce08f41038ef0b3",
+          "name": "DeLeeuw",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 556.40369,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc0402e527a464e782bca96f802c77e5db8d8beac",
+          "name": "23449",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 549.09946,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xfb94615f863757d60cc98a4e4ce37ad7e5c1494f",
+          "name": "v3827dhqeuc7326ds",
+          "trade_count": 20,
+          "entropy": 0.182,
+          "volume": 545.80211,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb5c4eb8dd83402b22466504039bde5760043cb3b",
+          "name": "l5wrGYrLGv",
+          "trade_count": 123,
+          "entropy": 0.063,
+          "volume": 527.9746869999993,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x53f9de87a41de816dadd7103436b406c034880b7",
+          "name": "0x53F9dE87a41dE816daDD7103436B406c034880B7-1770817102841",
+          "trade_count": 15,
+          "entropy": 0.098,
+          "volume": 487.628079,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe690f6928762a4d92d9c897ec1fe6da8ccf54d32",
+          "name": "Nimloadsavefile",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 470,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa99b41e9ac6539fbcabce0703127b78438bd1211",
+          "name": "S.Cooper",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 418.93475000000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x33878fe42f2bd19f01421d857ff8652bcab9c3f7",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 414.72889599999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3d03c46d2e4594ea6fa03f7b571342d8ee249d52",
+          "name": "",
+          "trade_count": 39,
+          "entropy": 0.201,
+          "volume": 412.01359499999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7b64e09f384b07534dff21859a0d27b823ae8440",
+          "name": "0x7b64e09f384b07534dfF21859A0d27b823aE8440-1774472209075",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 400.86644799999993,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2d4305a5f5cae8e5bbda7a3e56a369e73927a562",
+          "name": "NoviceTrader20",
+          "trade_count": 25,
+          "entropy": 0.115,
+          "volume": 383.26197999999994,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x648bad7080caa1a9931b2774b20e87eca75900ba",
+          "name": "Ox648bAD7080caA1a9931B2774B20e87ECa75900ba",
+          "trade_count": 48,
+          "entropy": 0.237,
+          "volume": 378.83899399999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6b025355d035a679205ae23de33c7e9abe71e5fc",
+          "name": "0x6B025355D035A679205aE23DE33c7E9abe71E5fC-1772307556000",
+          "trade_count": 44,
+          "entropy": 0.11,
+          "volume": 341.45162400000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5245220d4165539c3729ca89b64afcc382195b53",
+          "name": "ffreez",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 322.43962999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1e6af77436c0e52a519d3f456fc2fcd857c9d38a",
+          "name": "hgqj91zohb62",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 320.50926,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xeae1c93c8ba5ded36a6be65043c3d62b3ed665ec",
+          "name": "davpol",
+          "trade_count": 19,
+          "entropy": 0.147,
+          "volume": 312.084977,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xca08d6c4f044ff2d751d30abe51479c50026c267",
+          "name": "",
+          "trade_count": 87,
+          "entropy": 0.113,
+          "volume": 309.63075999999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xef1f437cc5a4af0d91916e51ae8548d0fb7ed517",
+          "name": "trader-ef1f437c",
+          "trade_count": 26,
+          "entropy": 0.112,
+          "volume": 305.4791429999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x682c92615993fd1f75cdfe101efdc1a8adcb17ae",
+          "name": "simplystupid188",
+          "trade_count": 187,
+          "entropy": 0.042,
+          "volume": 289.56661999999994,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcdae0762e8281e6fb40bd14b0d69471d6a0dc02e",
+          "name": "Plunder",
+          "trade_count": 29,
+          "entropy": 0.153,
+          "volume": 287.441688,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x417b75f912bb43f7da0fd43a83a5cf486e5218d3",
+          "name": "UssTrippingHigh",
+          "trade_count": 16,
+          "entropy": 0.179,
+          "volume": 275.58691,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5104791ea1959ab29fada744f273a705709ba114",
+          "name": "AEDE",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 260.99999399999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb6987e4a9b5f238bf627ff2aa511f0c0da50976a",
+          "name": "0xb6987E4A9B5F238BF627ff2AA511F0C0Da50976A-1770763811959",
+          "trade_count": 12,
+          "entropy": 0.25,
+          "volume": 259.56104000000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1a03e5aeee0c11a98c8129a0bb85879b885cea80",
+          "name": "d5c60b3353b171",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 247.81187199999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc93f688e82285e36f7b45601a18e7292d275e889",
+          "name": "Arjunpanditgi",
+          "trade_count": 19,
+          "entropy": 0.296,
+          "volume": 241.87626,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf36605d60f6d2583328d54055998d1f57f9315ad",
+          "name": "ijae",
+          "trade_count": 45,
+          "entropy": 0.108,
+          "volume": 240.30344999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x25fd3151c1cc0f323d680f30a8957f047277bf28",
+          "name": "qe9o6k7jbbt8",
+          "trade_count": 77,
+          "entropy": 0.179,
+          "volume": 234.49876600000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0c735e975d74b883832a1e57c7cd731089271a76",
+          "name": "Stitch-X-626",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 222.8452,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
+          "name": "",
+          "trade_count": 44,
+          "entropy": 0.279,
+          "volume": 213.12733799999992,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe9ce222d479d488f8901a342ecb778eb9cbd711f",
+          "name": "KreoAnon",
+          "trade_count": 18,
+          "entropy": 0.157,
+          "volume": 208.795947,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc28908d7b87d8bdd7e53afe4a64016a06dda04f1",
+          "name": "neskipa",
+          "trade_count": 119,
+          "entropy": 0.114,
+          "volume": 208.36684000000014,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf7a98346fa268b80999eb85f9d6829b3950cc840",
+          "name": "",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 202.84762999999992,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa893abfbc71ba13f8118e75f1b6c6100cdad60a5",
+          "name": "",
+          "trade_count": 117,
+          "entropy": 0.017,
+          "volume": 201.51767599999977,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1ec6d95503c81c1f5dc83d006ba81dc1e22b7edb",
+          "name": "Lihazazs",
+          "trade_count": 21,
+          "entropy": 0.066,
+          "volume": 196.41016000000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6c2a50ee968898c5d50de31b04544f8d3329b7b5",
+          "name": "VolynMolfar",
+          "trade_count": 16,
+          "entropy": 0.179,
+          "volume": 187.93135400000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xeb54562f0132336a725d1303f6110136161dd452",
+          "name": "50kcasestudy",
+          "trade_count": 13,
+          "entropy": 0.115,
+          "volume": 187.824979,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf961e6585aa865c8fefa439b656f8c7db6d834dd",
+          "name": "tsddd",
+          "trade_count": 18,
+          "entropy": 0.233,
+          "volume": 179.99988500000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf1a373992677f6817c762994c44802b60de5f17b",
+          "name": "CharizardStar",
+          "trade_count": 16,
+          "entropy": 0.179,
+          "volume": 175.86058500000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x81de0770551ca28dc0dc7fa148406d40bdfc20d4",
+          "name": "Ox81De0770551cA28Dc0Dc7fa148406D40BdfC20d4",
+          "trade_count": 21,
+          "entropy": 0.132,
+          "volume": 174.98400700000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x628a9ac7d5c6e85c1777adf34287a6a719436d8f",
+          "name": "0x628a9aC7D5c6E85c1777AdF34287a6A719436d8F-1774575063174",
+          "trade_count": 15,
+          "entropy": 0.193,
+          "volume": 174.00790999999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x38266db1174da047028b5343180cca0d02002bc7",
+          "name": "",
+          "trade_count": 28,
+          "entropy": 0.105,
+          "volume": 172.69755300000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd75af87133fc14de68cd83a9e8c5d999fa49fdec",
+          "name": "fantastic55",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 168.78217,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x428208cf4ff7b0aaede6dfd86969cfc823f93455",
+          "name": "ccyy2026",
+          "trade_count": 42,
+          "entropy": 0.103,
+          "volume": 166.48537999999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x608400f434a40361430edb70732ec43666001e9b",
+          "name": "elikoydal",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 155,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x18f0faf72b241dc55094ae704987e391c2a23d5e",
+          "name": "importedaccount",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 151.43538000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9eb45ea084f35787f9762e2d6944c1c095b59eca",
+          "name": "0x9Eb45eA084F35787F9762E2D6944c1c095B59eCa-1777826562221",
+          "trade_count": 16,
+          "entropy": 0.09,
+          "volume": 149.39999999999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4d66520da749ec89bd2f8bed316778b2b28854c3",
+          "name": "",
+          "trade_count": 27,
+          "entropy": 0.108,
+          "volume": 134.54747,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd01195bb21fe9d36ab48431a57eec17b2aaee928",
+          "name": "0xD01195Bb21fe9D36ab48431a57EeC17B2AAee928-1774574342314",
+          "trade_count": 19,
+          "entropy": 0.147,
+          "volume": 134.436443,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x11c93421097fd62be414d439a8ddb4d92d47f5aa",
+          "name": "",
+          "trade_count": 26,
+          "entropy": 0.056,
+          "volume": 129.515551,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xefcedda09b4f2224c856edbd9c41c1d6db124e4a",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 126.51946,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x23b4fbcc9edc3fd7a25d4ce3e41d2a5ce1028e7a",
+          "name": "trader-23b4fbcc",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 118.14218599999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9b5fb62ff41e104e65fa6cc4e57575ebd05f11c5",
+          "name": "0x9b5fb62fF41E104e65FA6CC4e57575EbD05f11c5-1768257631823",
+          "trade_count": 20,
+          "entropy": 0.207,
+          "volume": 117.58380300000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5f0e97101e55624fe29148459834ac5389522c88",
+          "name": "",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 108.597118,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x902f43d157cb1bc9d6cfc4f5be88c659cfdbfb2d",
+          "name": "speed124",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 106.98676999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa9b73b68f02f26238e2fa948fe0b7dbeb5bff43c",
+          "name": "xjsljfi",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 106.22273999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7799378b43ff5ba1c78056c68158b874501baa3b",
+          "name": "",
+          "trade_count": 35,
+          "entropy": 0.132,
+          "volume": 102.89970000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x74f7d7113cd4f7ccde77d29e61e9efb598d677c3",
+          "name": "Rizk",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 101.698375,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe762c62c0cd669fe9f6c7ac08be8e2700418064b",
+          "name": "asterley",
+          "trade_count": 43,
+          "entropy": 0.075,
+          "volume": 97.1069,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8790b88055f5b20a645d9f50a78ad084820d60c2",
+          "name": "pupipupipupipu",
+          "trade_count": 16,
+          "entropy": 0.266,
+          "volume": 94.02019,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x032aa3277e1d7970f0f5c7d66add7af5ace1cf07",
+          "name": "beggarrr",
+          "trade_count": 35,
+          "entropy": 0.29,
+          "volume": 93.523484,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2f4d77a7045ba6a4bebd2986744af529e702e79b",
+          "name": "0x2F4d77A7045ba6A4BebD2986744aF529E702E79B-1774574507978",
+          "trade_count": 26,
+          "entropy": 0.112,
+          "volume": 92.53265399999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x16af6b53036cac2393e7994ded8e0226986b12a5",
+          "name": "Brzk",
+          "trade_count": 46,
+          "entropy": 0.121,
+          "volume": 92.22659000000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x463c3d807ba9321aadf9f42839b2c75dad5cbb98",
+          "name": "MailGuru",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 86.999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x56d9a144f976fde79ef1e76d21883cb7201b2ef0",
+          "name": "76qke0jyau9x",
+          "trade_count": 54,
+          "entropy": 0.062,
+          "volume": 86.19881899999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd0b76cdf68b1cc03619455b92e196c72e339fa4b",
+          "name": "therealcrucenho",
+          "trade_count": 29,
+          "entropy": 0.102,
+          "volume": 85.84554000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x606606da4900baf01c761707fbe2d35d09a0ac8f",
+          "name": "0x606606da4900BAf01C761707fBe2D35D09a0ac8F-1762435853673",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 84.45505999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa636e86efd65b695777ae072e5808aadcff93c2f",
+          "name": "Koizainas",
+          "trade_count": 23,
+          "entropy": 0.28,
+          "volume": 82.88381000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8b3c7d083a33d645ec6959aeb5d433ef73085513",
+          "name": "",
+          "trade_count": 16,
+          "entropy": 0.09,
+          "volume": 82.22939,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe6e53d1135e87edd8d404ed52b3e937983cb8e81",
+          "name": "",
+          "trade_count": 16,
+          "entropy": 0.179,
+          "volume": 79.023999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xea70893929c564cca77f948e2ab1a0a0d281ce43",
+          "name": "Breg1",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 73.11175000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x101ecc6d030795b4c8166ffffe85c1bad7d5d4da",
+          "name": "stefangod",
+          "trade_count": 18,
+          "entropy": 0.204,
+          "volume": 70.828886,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc908bbfbb826b61d35b44c38761ceda590096321",
+          "name": "BimRockCapital876246",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 70.34131000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf26dc21eaa75a3a0e63d9e0a75fa3f2044790bcc",
+          "name": "0xF26dc21eAA75A3a0E63D9E0a75fA3f2044790BCC-1778714711610",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 69.935303,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcb39f69efc6b293aa8b72d3164fafffe78986dda",
+          "name": "",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 69.26185400000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8b19a5aeb3b69cbbc23acade2c1fefeb44e003ec",
+          "name": "",
+          "trade_count": 17,
+          "entropy": 0.167,
+          "volume": 69.073365,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x52177c82768be0178896fde8544e81d2ed0e8201",
+          "name": "",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 67.183052,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x228bf75aa8f8ce3ad4d1ad05bc8a63673f5588b9",
+          "name": "potatWnis",
+          "trade_count": 62,
+          "entropy": 0.056,
+          "volume": 66.28886500000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4b46f47a14a4d88d3641ee87765afddd9e114451",
+          "name": "",
+          "trade_count": 21,
+          "entropy": 0.196,
+          "volume": 65.08822,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xaa06f6e8d4d0cce05d521fbca234de77c0af1e0f",
+          "name": "",
+          "trade_count": 19,
+          "entropy": 0.219,
+          "volume": 60.179647,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xae86937214f218e9ea82be92b4b437caa211669e",
+          "name": "",
+          "trade_count": 99,
+          "entropy": 0.267,
+          "volume": 59.37762600000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2f7733d410c61115b3bfe31e3345251148d64b79",
+          "name": "",
+          "trade_count": 23,
+          "entropy": 0.242,
+          "volume": 59.096285,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xa2e492ce3ed160ac1b0cba9c78ea34cc9dbcc9fb",
+          "name": "Market-.-Maker",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 59.074,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcb67590ab77acbd592714986fb6fd1149ca5cb63",
+          "name": "",
+          "trade_count": 47,
+          "entropy": 0.07,
+          "volume": 59.044099999999986,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xfb1b4154831eba87395b0ac3f39fbca81805a3a1",
+          "name": "Stormyrite1",
+          "trade_count": 23,
+          "entropy": 0.162,
+          "volume": 58.052499000000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcd9d626387862010d26e5581e852a0662f56b99e",
+          "name": "",
+          "trade_count": 21,
+          "entropy": 0.066,
+          "volume": 56.431222000000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd4e8d48486808c84515a22d2d9e2ef096f26baac",
+          "name": "",
+          "trade_count": 23,
+          "entropy": 0.123,
+          "volume": 55.319822,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7cbb4ada931b337983d5d205298ff1e039675b31",
+          "name": "Anon72948184",
+          "trade_count": 17,
+          "entropy": 0.167,
+          "volume": 54.89711599999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x9fb781cc849e1fea68c17318c0bfa34c4c35f7d0",
+          "name": "wanderer85",
+          "trade_count": 19,
+          "entropy": 0.193,
+          "volume": 54.7,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x156b1a354e7b56b8a39a3b860d0352bdea1c0f5b",
+          "name": "elpatrondelaciudad",
+          "trade_count": 28,
+          "entropy": 0.157,
+          "volume": 54.21818499999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6ac266888067f6096950b7ef32e9d2b1ee974e63",
+          "name": "",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 52.968560000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb4f655b9314dd464b42da40f82a1df65375feada",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 52.577194999999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbf01a875a5b4dd144ba848da805e79e9e7395ee9",
+          "name": "",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 52.028668,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc77bc7c12cff77cd80de2d3377ce22aec3a6a526",
+          "name": "projectparrot",
+          "trade_count": 18,
+          "entropy": 0.233,
+          "volume": 51.730972,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd965db51f410b8d5a4657b067e08836130e4064f",
+          "name": "ladyboylover",
+          "trade_count": 21,
+          "entropy": 0.132,
+          "volume": 50.911438000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x73626e046909dd9cd62012d32f7528ab622b12c1",
+          "name": "znyb25tza7az",
+          "trade_count": 25,
+          "entropy": 0.283,
+          "volume": 49.306611000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7130014ced1559f3fb7565524873878e94635387",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 48.83569800000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5968454ab9fa39745d5d4adf78f23b80ebe53fc4",
+          "name": "UranusProbe",
+          "trade_count": 12,
+          "entropy": 0.127,
+          "volume": 48.405919999999995,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0f11dfd4e28822ae90cb79dc63036bf90b883bf9",
+          "name": "",
+          "trade_count": 12,
+          "entropy": 0.127,
+          "volume": 47.85534,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x267233fd04c0b6478a69869cf7bd8cfa56ffd3fe",
+          "name": "",
+          "trade_count": 12,
+          "entropy": 0.127,
+          "volume": 45.40435,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x238fe1b4a91d47bda4fb418dd4a6a09494983015",
+          "name": "",
+          "trade_count": 40,
+          "entropy": 0.079,
+          "volume": 45.06358,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6fbe7de4342f3afa55a20d848b10ab8e3c071b01",
+          "name": "anasheDispatch",
+          "trade_count": 43,
+          "entropy": 0.142,
+          "volume": 44.30535699999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2946afc37ce5a8b1051b051f2fdb23f2be7d8eb4",
+          "name": "rlaghksquf",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 43.166095,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd74274ef757f64330bcb116b4c4c8ee3ad7a51e3",
+          "name": "Great-trader",
+          "trade_count": 16,
+          "entropy": 0.09,
+          "volume": 42.99999700000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0453a94cc0a746fabea77bcd8950dfe921b72ad6",
+          "name": "WildBlack",
+          "trade_count": 13,
+          "entropy": 0.29,
+          "volume": 42,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x81938ff9e4ae3026c0f01782ede96419ab76fc06",
+          "name": "",
+          "trade_count": 13,
+          "entropy": 0.228,
+          "volume": 41.159748,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4161ca40441a31e575cccece3e7f0bb96d9b6290",
+          "name": "0x4161ca40441A31E575ccceCe3e7F0BB96d9B6290-1773254062112",
+          "trade_count": 39,
+          "entropy": 0.041,
+          "volume": 41.15608200000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x8d21cce66ea42c9af6efb82c3e3b6ec9f56b3e74",
+          "name": "SuaveCup-fde",
+          "trade_count": 43,
+          "entropy": 0.142,
+          "volume": 40.997883,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7ba94a914454cfd5da67f4e7cb123ff8644360ab",
+          "name": "",
+          "trade_count": 29,
+          "entropy": 0.153,
+          "volume": 40.503845999999996,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x29a1ccae81f6b9fc0822f3027b2e34fabc645645",
+          "name": "NoPasaran5",
+          "trade_count": 33,
+          "entropy": 0.046,
+          "volume": 40.19152,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xfae1e7c5d0163542d31add492cfa6b9bf4a3eaad",
+          "name": "Zeus007",
+          "trade_count": 16,
+          "entropy": 0.232,
+          "volume": 39.999994,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x24a555fd8727314789ae8497517411cb6e28ab7d",
+          "name": "clampgana",
+          "trade_count": 20,
+          "entropy": 0.281,
+          "volume": 39.375315,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5c981963b983d3056e81c51124117916d0c1fc8a",
+          "name": "stonewu",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 39.07064,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xfabe7c8fc4a349474f34f8ee0f35ada286c33e22",
+          "name": "restardiotrader",
+          "trade_count": 20,
+          "entropy": 0.182,
+          "volume": 38.09873000000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x92ab010655d30ee8916e12e0a6295deb7c984dd5",
+          "name": "sg775",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 36.191369,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x51150cf58b047f03f38b456d3a713f12a2fbf1d2",
+          "name": "",
+          "trade_count": 12,
+          "entropy": 0.127,
+          "volume": 32.46889900000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0968d2becf0821ee7cc5ce768fac6ba1260b3a49",
+          "name": "",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 32.182816,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5631e6c59e80dcda0fc137a6c8bcb4a586113553",
+          "name": "",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 31.699998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3c44552ad4c9e58c3b9efaa9d59a1992680c2fff",
+          "name": "anonoa",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 31.620844,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe53232fb1c4ba546015a52084b36e2a4bb198aee",
+          "name": "0xE53232fB1C4Ba546015A52084b36E2A4Bb198AEe-1776176359334",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 30.072927999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x744eb7bc29b1fe14cd5dc4f58b8637f919824c43",
+          "name": "messiRona",
+          "trade_count": 34,
+          "entropy": 0.135,
+          "volume": 30.021119000000006,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1c3cbb2b86adc310ecde3945e641595557d08f25",
+          "name": "Scalpings",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 29.822100000000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x15ae34957ee0e4c6550696d2b610f80badd82b33",
+          "name": "thegameison",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 29.052597,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2279d15ec590fd69311b46e78c560d4b9e830f3c",
+          "name": "Soporythmique",
+          "trade_count": 15,
+          "entropy": 0.193,
+          "volume": 28.03587300000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3c9fba002ef53d44b818452d0998c49cfd23c67b",
+          "name": "0xF8b0e5bb155b0E024f8221e34B781a944042cAbE-1721774522470",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 27.899991999999994,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x743ca4e87ee4a4fe0b425b4b24526653e61403de",
+          "name": "",
+          "trade_count": 18,
+          "entropy": 0.157,
+          "volume": 27.651253000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3078db4a9737866b4d6529f655025b3a20f80389",
+          "name": "thepolwinner",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 27.304499999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x04567050f9274da5bbbbc2ccb06b70b58a995c6a",
+          "name": "Multiversos",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 26.458968,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd5f2d8d1a369ba861c046a0a383ff9fbe6c926da",
+          "name": "BFFF00",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 26.068038,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xce50d0b41fa9a61cb71bcc967cced83f074f1e2d",
+          "name": "Sutonkirin",
+          "trade_count": 18,
+          "entropy": 0.157,
+          "volume": 25.228430000000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x18413f3bc16708117cabfe9fc8b2d44ad621ce27",
+          "name": "",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 25.201905999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7ab5b6b4ec55e971d32604c022df27bf9fbce123",
+          "name": "Jeffrey1233213",
+          "trade_count": 15,
+          "entropy": 0.193,
+          "volume": 24.883845000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xba3ce4be2ab578fc96d1bed9fe44f2ef1f1eefc5",
+          "name": "Tenorio-hl",
+          "trade_count": 12,
+          "entropy": 0.127,
+          "volume": 24.00720800000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x64b2120337f24f46bec3a36dda3254f902de55de",
+          "name": "",
+          "trade_count": 15,
+          "entropy": 0.286,
+          "volume": 23.516412,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd267cead4d691ba4d2235fad2246f0e92b2a9756",
+          "name": "",
+          "trade_count": 17,
+          "entropy": 0.084,
+          "volume": 21.86477,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x30cc79b0acff35d82194aa81a2b067e026c352fc",
+          "name": "trader-30cc79b0",
+          "trade_count": 13,
+          "entropy": 0.115,
+          "volume": 21.024018000000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x578e5d929d274da80028ee67807d3e09368b25cd",
+          "name": "",
+          "trade_count": 21,
+          "entropy": 0.173,
+          "volume": 20.950038,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x5bc4b9a084929dafe414ac635061936d1e5cede5",
+          "name": "Leopolperu",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 20.790778000000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdcdf67823bb832f867e0d7dab551b37e1bbd0763",
+          "name": "0xDCDf67823bB832F867E0D7dab551b37e1bBD0763-1777424258588",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 20.788144,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf01b53983491af4aa666f825eeee46f169ea224f",
+          "name": "",
+          "trade_count": 15,
+          "entropy": 0.286,
+          "volume": 20.505339,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc9db6c957b2ba169608907443f3991b8d01b2ad3",
+          "name": "",
+          "trade_count": 11,
+          "entropy": 0.278,
+          "volume": 20.22918,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x7115f46fd0d5d5e655182e71d8b75f55c5ed2b2f",
+          "name": "5z7p5v56zmnb",
+          "trade_count": 38,
+          "entropy": 0.083,
+          "volume": 19.68909,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x1fd68a8b54e71b470f20a2077d8fd35f359eb788",
+          "name": "",
+          "trade_count": 45,
+          "entropy": 0.179,
+          "volume": 16.826317,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x075157268a912b624f096b43498572ed8304c5ec",
+          "name": "",
+          "trade_count": 15,
+          "entropy": 0.098,
+          "volume": 16.149558000000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x639d488751c75494d571ce3b285c76931af66c74",
+          "name": "trader-639d4887",
+          "trade_count": 11,
+          "entropy": 0.141,
+          "volume": 15.990625999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xabfbaac50a09472d566dc47f3c400f91286f4e89",
+          "name": "OVEJA.NEGRA",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 15.977999999999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf438f0e1f53daf7c7dd4fc73aa14b71ba9969901",
+          "name": "PyQuantNexusv5",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 15.977280000000004,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xbeae9360957c3af4977972260bbb4539762ff5c0",
+          "name": "",
+          "trade_count": 22,
+          "entropy": 0.189,
+          "volume": 15.595786999999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xfcc4820ca9c6fbf5cd3918a4999128cef4858be6",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 15.387952,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd2d472e8dcd98e120100bfb3836a5c77fe5b7686",
+          "name": "ghb52ud8iavo",
+          "trade_count": 25,
+          "entropy": 0.263,
+          "volume": 14.34452,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xd6d3ac4eff7a84993e8c63078603f9e551a5161c",
+          "name": "DAkostya",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 14.122120000000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb675971e0145bd367ed79584dea68964fd7c762a",
+          "name": "DonPJalaP",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 13.256599999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x806eb39a397cd3a17dae90ab123dea5099fe164f",
+          "name": "",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 12.788709,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x32750722e0cd60943fb840cd2c9654b0e2ae2f2c",
+          "name": "DexFantasy",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 12.250777000000001,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc68b7bdd22c1d464bb4afcdac2aca85fe176b030",
+          "name": "",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 12.092637,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdeeced6b7445b1a381de5c67d02dd5689ee70b74",
+          "name": "",
+          "trade_count": 9,
+          "entropy": 0.27,
+          "volume": 11.889956,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe115d03b76135b21f69886a309e607910e60019b",
+          "name": "western-moose",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 10.798843999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdcbd77c7ec162d29606c0533d604a228216af98f",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 9.389916999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x6d9b04e46b8807a411ec5aeb1f2e5293c556a7da",
+          "name": "wxk2dmoqz814",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 9.375857,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3dcae1c83c7cdc5206616163a885047997db5b4a",
+          "name": "1313143124532",
+          "trade_count": 34,
+          "entropy": 0.045,
+          "volume": 8.668818,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xef69f77cdf738d8e514cdaaefefa2b9914204ea1",
+          "name": "aw9hzzfktj3x",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 8.352568,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4c26a98a587f22e415a20c4dad500e5c6e714750",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 8.190399,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3480311aeace3fcd381c2d26f2420b942177d29b",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 8.013891,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xdd81c279f9f65a1405f1a2f6d8e13cd26245de69",
+          "name": "",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 7.999973,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4157f19818da67fdc9c031384ca0332a42265474",
+          "name": "YJiICTUsGi",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 7.6428,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xc6fd8b51924453648903723887c808aef39453df",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 7.394358,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xf375ffb557851c38695e3bc67b81e6ae46cc1c0e",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 6.999912999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe2f818be88170b399070d32308909093fab70ef8",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 6.999912999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x477dd7a68bc4c6e5d13564a0c91fe9ea2db74f06",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 6.999912999999999,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xcf555f265e072d04258ac51f9403b32edf638fd9",
+          "name": "0xcf555f265e072d04258ac51f9403b32edf638fd9-1774960763636",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 6.9879240000000005,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x97520e8e9d7b23d2e7ed85be19be94ad9fde20fe",
+          "name": "1101101",
+          "trade_count": 32,
+          "entropy": 0.142,
+          "volume": 6.460094999999997,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x355744099c2c85eaada745e5538894c2f8f0e832",
+          "name": "",
+          "trade_count": 13,
+          "entropy": 0.115,
+          "volume": 5.38188,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x08622d67151c9093456a97f11cc019d959228403",
+          "name": "jikebaofu",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 5.123168,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x432cd584150f810f65ab5caa17f97e8b4b2e4a89",
+          "name": "xpa91qapx0jt",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 4.939179,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x3983b4364e7e116038537d61d533aa3ffb334614",
+          "name": "",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 4.744747,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x83c46f09fdf117458f47e91fd37f4e855718526e",
+          "name": "0x83c46f09fdf117458f47e91fd37F4E855718526e-1774575640583",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 3.6036990000000007,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xe65b8e709aa1a5e5a5a83dd10c392b0a5c57339f",
+          "name": "",
+          "trade_count": 35,
+          "entropy": 0.247,
+          "volume": 2.5494499999999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x0fdc2c72a823b9df4f0f0491b43fcce2111e3e98",
+          "name": "yccttjfwwcmf",
+          "trade_count": 7,
+          "entropy": 0.251,
+          "volume": 1.927,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x21302a46473075fdb0c3b227fe01eb043ce0ffb2",
+          "name": "",
+          "trade_count": 16,
+          "entropy": 0.09,
+          "volume": 1.47222,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x77f658f6de758b8de917a53f3fdc35f733c164d4",
+          "name": "",
+          "trade_count": 10,
+          "entropy": 0.159,
+          "volume": 1.18946,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0xb88b3342a08ced79546190488ddfeae6f6699e5e",
+          "name": "0xB88B3342A08cED79546190488ddfeAe6f6699e5E-1775491243264",
+          "trade_count": 8,
+          "entropy": 0.211,
+          "volume": 0.20202000000000003,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x2e32f0f9d13a1de142387d96fbec2491a3751c37",
+          "name": "ijnfiz6fn5ym",
+          "trade_count": 60,
+          "entropy": 0.114,
+          "volume": 0.07990999999999998,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x4954adb855077fd6c5a19051d50f2070fab3ac42",
+          "name": "buffalosold",
+          "trade_count": 9,
+          "entropy": 0.181,
+          "volume": 0.02839,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        },
+        {
+          "wallet": "0x299dd80fe4bbbcf7ec78a7993b3bb99bea30e85f",
+          "name": "hobojim",
+          "trade_count": 73,
+          "entropy": 0.024,
+          "volume": 0.003610000000000002,
+          "verdict": "LIKELY BOT — near-zero entropy (uniform intervals)"
+        }
+      ],
+      "human_wallets_sample": [
+        {
+          "wallet": "0xfce686833a8f7dede97bbaa6293906eb52fabd7f",
+          "name": "0xFCe686833A8F7DeDe97BbAA6293906Eb52FabD7f-1771158416989",
+          "trade_count": 6,
+          "entropy": 0.59,
+          "volume": 85.429444,
+          "verdict": "HUMAN — high entropy"
+        },
+        {
+          "wallet": "0x6bc5d4869bc65e55eec9a1e46d69f2edeb6e33d3",
+          "name": "mying",
+          "trade_count": 11,
+          "entropy": 0.714,
+          "volume": 1100.73029,
+          "verdict": "HUMAN — high entropy"
+        },
+        {
+          "wallet": "0x43fe8ae6e26adf12bb7ab45e04759e5060e26314",
+          "name": "b82a977feb7ffc",
+          "trade_count": 5,
+          "entropy": 0.75,
+          "volume": 66801.21351999999,
+          "verdict": "HUMAN — high entropy"
+        },
+        {
+          "wallet": "0x7af00c9852476648caf0699b3a3996e0d3e583bd",
+          "name": "",
+          "trade_count": 5,
+          "entropy": 0.406,
+          "volume": 9.345039,
+          "verdict": "HUMAN — high entropy"
+        },
+        {
+          "wallet": "0x4e4aeb5968efb1392f2cd0f0c691eb9ecb9eb4a0",
+          "name": "",
+          "trade_count": 6,
+          "entropy": 0.311,
+          "volume": 29.954901000000003,
+          "verdict": "HUMAN — high entropy"
+        }
+      ]
+    },
+    "hhi": {
+      "index": 0.0143,
+      "concentrated": false,
+      "top_5_share": 0.2015,
+      "top_10_share": 0.2797,
+      "unique_traders": 12963,
+      "verdict": "DISPERSED — healthy market"
+    }
+  },
+  "cross_market": {
+    "cross_market_activity": [
+      {
+        "wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "other_markets": 100,
+        "other_market_volume": 1556259.5459,
+        "market_titles": [
+          "Will Abbas Araghchi attend the US-Iran Signing Ceremony?",
+          "Will Jared Kushner attend the US-Iran Signing Ceremony?",
+          "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+          "Will Alan Wilson win the 2026 South Carolina Governor Republican primary electio",
+          "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+          "Will 3 Fed rate cuts happen in 2026?",
+          "Will South America (CONMEBOL) win the 2026 FIFA World Cup?",
+          " Iran agrees to end enrichment of uranium by June 30?",
+          "Will there be no change in Fed interest rates after the September 2026 meeting?",
+          "Will OpenAI have a #1 AI model by June 30?"
+        ],
+        "serial_pattern": true
+      },
+      {
+        "wallet": "0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+        "other_markets": 100,
+        "other_market_volume": 55005.5308,
+        "market_titles": [
+          "Congress passes Iran war powers resolution by June 30?",
+          "Will Mesías Guevara win the 2026 Peruvian presidential election?",
+          "Will OpenAI have the best AI model at the end of June 2026?",
+          "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 0–0.1%?",
+          "Will Wolfgang Grozo win the 2026 Peruvian presidential election?",
+          "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 0.7–0.8",
+          "Will Valve add Cache to the Map Pool by June 30, 2026?",
+          "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?",
+          "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
+          "US strike on Cuba by December 31?"
+        ],
+        "serial_pattern": true
+      },
+      {
+        "wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "other_markets": 100,
+        "other_market_volume": 1556259.5459,
+        "market_titles": [
+          "Will Abbas Araghchi attend the US-Iran Signing Ceremony?",
+          "Will Jared Kushner attend the US-Iran Signing Ceremony?",
+          "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+          "Will Alan Wilson win the 2026 South Carolina Governor Republican primary electio",
+          "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+          "Will 3 Fed rate cuts happen in 2026?",
+          "Will South America (CONMEBOL) win the 2026 FIFA World Cup?",
+          " Iran agrees to end enrichment of uranium by June 30?",
+          "Will there be no change in Fed interest rates after the September 2026 meeting?",
+          "Will OpenAI have a #1 AI model by June 30?"
+        ],
+        "serial_pattern": true
+      },
+      {
+        "wallet": "0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+        "other_markets": 3,
+        "other_market_volume": 1602779.5048,
+        "market_titles": [
+          "Trump announces US x Iran ceasefire over by June 30?",
+          "Will JD Vance win the 2028 US Presidential Election?"
+        ],
+        "serial_pattern": false
+      },
+      {
+        "wallet": "0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+        "other_markets": 1,
+        "other_market_volume": 230,
+        "market_titles": [
+          "Will Ivory Coast go unbeaten in the 2026 FIFA World Cup Group Stage?"
+        ],
+        "serial_pattern": false
+      },
+      {
+        "wallet": "0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
+        "other_markets": 1,
+        "other_market_volume": 42.8091,
+        "market_titles": [
+          "Metamask FDV above $700M one day after launch?"
+        ],
+        "serial_pattern": false
+      }
+    ],
+    "serial_manipulators": [
+      {
+        "wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "other_markets": 100,
+        "other_market_volume": 1556259.5459,
+        "market_titles": [
+          "Will Abbas Araghchi attend the US-Iran Signing Ceremony?",
+          "Will Jared Kushner attend the US-Iran Signing Ceremony?",
+          "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+          "Will Alan Wilson win the 2026 South Carolina Governor Republican primary electio",
+          "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+          "Will 3 Fed rate cuts happen in 2026?",
+          "Will South America (CONMEBOL) win the 2026 FIFA World Cup?",
+          " Iran agrees to end enrichment of uranium by June 30?",
+          "Will there be no change in Fed interest rates after the September 2026 meeting?",
+          "Will OpenAI have a #1 AI model by June 30?"
+        ],
+        "serial_pattern": true
+      },
+      {
+        "wallet": "0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+        "other_markets": 100,
+        "other_market_volume": 55005.5308,
+        "market_titles": [
+          "Congress passes Iran war powers resolution by June 30?",
+          "Will Mesías Guevara win the 2026 Peruvian presidential election?",
+          "Will OpenAI have the best AI model at the end of June 2026?",
+          "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 0–0.1%?",
+          "Will Wolfgang Grozo win the 2026 Peruvian presidential election?",
+          "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 0.7–0.8",
+          "Will Valve add Cache to the Map Pool by June 30, 2026?",
+          "Will 7+ matches be decided by penalty shootout during the 2026 FIFA World Cup?",
+          "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
+          "US strike on Cuba by December 31?"
+        ],
+        "serial_pattern": true
+      },
+      {
+        "wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "other_markets": 100,
+        "other_market_volume": 1556259.5459,
+        "market_titles": [
+          "Will Abbas Araghchi attend the US-Iran Signing Ceremony?",
+          "Will Jared Kushner attend the US-Iran Signing Ceremony?",
+          "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+          "Will Alan Wilson win the 2026 South Carolina Governor Republican primary electio",
+          "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+          "Will 3 Fed rate cuts happen in 2026?",
+          "Will South America (CONMEBOL) win the 2026 FIFA World Cup?",
+          " Iran agrees to end enrichment of uranium by June 30?",
+          "Will there be no change in Fed interest rates after the September 2026 meeting?",
+          "Will OpenAI have a #1 AI model by June 30?"
+        ],
+        "serial_pattern": true
+      }
+    ]
+  },
+  "score": {
+    "overall_score": 8.9,
+    "grade": "RED",
+    "flags": [
+      {
+        "type": "resolver_conflict",
+        "severity": "CRITICAL",
+        "score": 10,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain TX receipt proves this wallet called resolve() while holding positions",
+        "detail": "BenzoateOstylezeneBicarbonate resolved market as NO while holding $357,818 NO position",
+        "proof_links": [
+          "https://polygonscan.com/tx/0x91f9a56a39c07c7f2ab67490953563c887594b6e63f8a4ed8b042a4c4f784401",
+          "https://polymarket.com/profile/0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9"
+        ]
+      },
+      {
+        "type": "resolver_conflict",
+        "severity": "CRITICAL",
+        "score": 10,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain TX receipt proves this wallet called resolve() while holding positions",
+        "detail": "Rex416 resolved market as YES while holding $4,362 YES position",
+        "proof_links": [
+          "https://polygonscan.com/tx/0x4efaed1bfa76df6287c2ea2a5b5a5f37e78e5c009ed671de673d3ded1ca43f45",
+          "https://polymarket.com/profile/0x9a3fa403a6666eef75f92f181fcf13f9c051914a"
+        ]
+      },
+      {
+        "type": "resolver_conflict",
+        "severity": "CRITICAL",
+        "score": 10,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain TX receipt proves this wallet called resolve() while holding positions",
+        "detail": "ArmageddonRewardsBilly resolved market as YES while holding $399,600 YES position",
+        "proof_links": [
+          "https://polygonscan.com/tx/0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+          "https://polymarket.com/profile/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418"
+        ]
+      },
+      {
+        "type": "resolver_conflict",
+        "severity": "CRITICAL",
+        "score": 10,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain TX receipt proves this wallet called resolve() while holding positions",
+        "detail": "0xAlikz resolved market as NO while holding $9,990 NO position",
+        "proof_links": [
+          "https://polygonscan.com/tx/0x5ce05ab226b320dd74381783cddd477c5575d993b3119283823e361255ab11ac",
+          "https://polymarket.com/profile/0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d"
+        ]
+      },
+      {
+        "type": "uma_proposer_traded",
+        "severity": "CRITICAL",
+        "score": 9,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain UMA bond deposits (750 USDC.e) and rewards (1000 USDC.e) confirm proposer role",
+        "detail": "UMA proposer ArmageddonRewardsBilly traded $796,360 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+          "https://polygonscan.com/address/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418"
+        ]
+      },
+      {
+        "type": "uma_proposer_traded",
+        "severity": "CRITICAL",
+        "score": 9,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain UMA bond deposits (750 USDC.e) and rewards (1000 USDC.e) confirm proposer role",
+        "detail": "UMA proposer UnderperformingForALiving traded $498,325 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+          "https://polygonscan.com/address/0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5"
+        ]
+      },
+      {
+        "type": "uma_proposer_traded",
+        "severity": "CRITICAL",
+        "score": 9,
+        "confidence": "VERIFIED",
+        "confidence_note": "On-chain UMA bond deposits (750 USDC.e) and rewards (1000 USDC.e) confirm proposer role",
+        "detail": "UMA proposer GroyperFinance traded $405,488 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
+          "https://polygonscan.com/address/0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-iran-peace-deal",
+        "detail": "Known UMA proposer ArmageddonRewardsBilly (ArmageddonRewardsBilly) traded $796,360 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+          "https://polygonscan.com/address/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-iran-peace-deal",
+        "detail": "Known UMA proposer BenzoateOstylezeneBicarbonate (BenzoateOstylezeneBicarbonate) traded $889,433 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9",
+          "https://polygonscan.com/address/0xadc2efbf97ce7b25f7a638aabdba196c657cd1c9"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-x-iran-permanent-peace-deal-by",
+        "detail": "Known UMA proposer 0xAlikz (0xAlikz) traded $13,976 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d",
+          "https://polygonscan.com/address/0x2037bb7a0773499b3afc9b4a4c18ff8fb715473d"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-x-iran-permanent-peace-deal-by",
+        "detail": "Known UMA proposer UnderperformingForALiving (UnderperformingForALiving) traded $498,325 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5",
+          "https://polygonscan.com/address/0xdbf16bcffa41bd95faec2640daa2c95ab2bd86b5"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-iran-peace-deal",
+        "detail": "Known UMA proposer Rex416 (Rex416) traded $21,277 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0x9a3fa403a6666eef75f92f181fcf13f9c051914a",
+          "https://polygonscan.com/address/0x9a3fa403a6666eef75f92f181fcf13f9c051914a"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from microstrategy-sell-any-bitcoin-in-2025",
+        "detail": "Known UMA proposer  (scout) traded $171,682 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0x2d99e29c4f066ba32098c65e4c7454b277d94ca3",
+          "https://polygonscan.com/address/0x2d99e29c4f066ba32098c65e4c7454b277d94ca3"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-iran-peace-deal",
+        "detail": "Known UMA proposer GroyperFinance (GroyperFinance) traded $405,488 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d",
+          "https://polygonscan.com/address/0xfcd0eadb24d78e016e88b9e2a7029e349ba6391d"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from us-iran-peace-deal",
+        "detail": "Known UMA proposer tf2 (tf2) traded $376,928 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0xa102b434ce441a3119e146f75ed6276ee1a836d9",
+          "https://polygonscan.com/address/0xa102b434ce441a3119e146f75ed6276ee1a836d9"
+        ]
+      },
+      {
+        "type": "known_proposer_flagged",
+        "severity": "HIGH",
+        "score": 8,
+        "confidence": "VERIFIED",
+        "confidence_note": "Previously confirmed UMA proposer from what-will-trump-say-during-bilateral-events-with-xi-jinping",
+        "detail": "Known UMA proposer ZhangMuZhi.. (ZhangMuZhi..) traded $147,710 on this market",
+        "proof_links": [
+          "https://polymarket.com/profile/0x84571f1bf97a5c710cbe51daff2dd4556cc887fd",
+          "https://polygonscan.com/address/0x84571f1bf97a5c710cbe51daff2dd4556cc887fd"
+        ]
+      },
+      {
+        "type": "known_cluster_flagged",
+        "severity": "HIGH",
+        "score": 7,
+        "confidence": "HIGH",
+        "confidence_note": "Cluster previously identified in us-iran-peace-deal",
+        "detail": "19 wallets from known cluster 'iran-peace-cluster' active here, $13,425,579 combined volume"
+      },
+      {
+        "type": "coordinated_bursts",
+        "severity": "HIGH",
+        "score": 7,
+        "detail": "3 trades by 2 wallets in 44s, $105,216"
+      },
+      {
+        "type": "same_funder_cluster",
+        "severity": "HIGH",
+        "score": 7,
+        "detail": "Cluster of 12 wallets, $13,865,625 combined, links: same_funder, shared_contacts"
+      },
+      {
+        "type": "interaction_fingerprint",
+        "severity": "HIGH",
+        "score": 7,
+        "detail": "JAHODA & 033033033 — Jaccard similarity 100.0%"
+      },
+      {
+        "type": "interaction_fingerprint",
+        "severity": "HIGH",
+        "score": 7,
+        "detail": "JAHODA & Dripx — Jaccard similarity 100.0%"
+      },
+      {
+        "type": "interaction_fingerprint",
+        "severity": "HIGH",
+        "score": 7,
+        "detail": "033033033 & Dripx — Jaccard similarity 100.0%"
+      },
+      {
+        "type": "benford_violation",
+        "severity": "MEDIUM",
+        "score": 5,
+        "detail": "Benford's Law violation (MAD=0.0230, chi²=4723.6)"
+      },
+      {
+        "type": "bot_entropy",
+        "severity": "MEDIUM",
+        "score": 5,
+        "detail": "Bot detected: FallingStars (entropy=0.120, $1,165,831)"
+      },
+      {
+        "type": "bot_entropy",
+        "severity": "MEDIUM",
+        "score": 5,
+        "detail": "Bot detected: Ordon (entropy=0.132, $586,540)"
+      },
+      {
+        "type": "bot_entropy",
+        "severity": "MEDIUM",
+        "score": 5,
+        "detail": "Bot detected: UnderperformingForALiving (entropy=0.112, $498,325)"
+      },
+      {
+        "type": "cross_market_recurrence",
+        "severity": "INFO",
+        "score": 3,
+        "detail": "Flagged wallet active on 100 other markets"
+      },
+      {
+        "type": "cross_market_recurrence",
+        "severity": "INFO",
+        "score": 3,
+        "detail": "Flagged wallet active on 100 other markets"
+      },
+      {
+        "type": "cross_market_recurrence",
+        "severity": "INFO",
+        "score": 3,
+        "detail": "Flagged wallet active on 100 other markets"
+      }
+    ],
+    "flag_count": 29,
+    "summary": "29 issues found including CRITICAL conflicts."
+  }
+}

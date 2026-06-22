@@ -1,0 +1,11 @@
+address,label,type,note
+0xeE3Afe347D5C74317041E2618C49534dAf887c24,UMA Optimistic Oracle v2,contract,"UMA OOv2 on Polygon — shared by all UMA proposers, not evidence of direct link"
+0xfb55F43fB9F48F63f9269DB7Dde3BbBe1ebDC0dE,UMA Optimistic Oracle v3,contract,UMA OOv3 on Polygon
+0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74,UMA CTF Adapter,contract,Bridges UMA oracle to Conditional Token Framework for Polymarket
+0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7,Polymarket Resolver,contract,Polymarket market resolution contract
+0x2c0367a9db231ddebd88a94b4f6461a6e47c58b1,UMA Bond/Reward Contract,contract,Handles UMA proposal bonds and rewards — shared contact between proposers
+0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f,Shared Contract,contract,Contract shared between multiple UMA participants
+0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec,DEX/Approval Contract,contract,"Receives approve() calls — likely a DEX router, NOT a personal wallet link"
+0x0000000000000000000000000000000000000000,Null Address,system,Token mint/burn address — not a meaningful shared contact
+0xd152f549545093347a162dce210e7293f1452150,Polygon Bridge,contract,"Polygon bridge contract — common to many wallets, not evidence of link"
+0x239b9c1f24f3423062b0d364796e07ee905e9fce,Common DeFi Contract,contract,Shared by many wallets — not meaningful as a link

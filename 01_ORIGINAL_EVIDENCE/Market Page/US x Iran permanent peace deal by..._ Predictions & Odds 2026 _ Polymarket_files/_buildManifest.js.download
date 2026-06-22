@@ -1,0 +1,421 @@
+self.__BUILD_MANIFEST = {
+  "/404": [
+    "static/chunks/02ox9yu1d0b_0.js"
+  ],
+  "/[locale]": [
+    "static/chunks/0p-g_i963xmsw.js"
+  ],
+  "/[locale]/404": [
+    "static/chunks/0el5dsbck~w7x.js"
+  ],
+  "/[locale]/[category]": [
+    "static/chunks/0_zbpbgqw~ojl.js"
+  ],
+  "/[locale]/[category]/[slug]": [
+    "static/chunks/0spidfkhmmdrs.js"
+  ],
+  "/[locale]/breaking": [
+    "static/chunks/0c4-jwr-ha1x6.js"
+  ],
+  "/[locale]/breaking/[category]": [
+    "static/chunks/0xu9o4la17tfq.js"
+  ],
+  "/[locale]/create": [
+    "static/chunks/0yf__j8o1~2gu.js"
+  ],
+  "/[locale]/esports": [
+    "static/chunks/17pmp3aog8iuy.js"
+  ],
+  "/[locale]/esports/[league]": [
+    "static/chunks/09xwmj3pmmv16.js"
+  ],
+  "/[locale]/esports/[league]/[tournament]": [
+    "static/chunks/0yvjloe8~16mx.js"
+  ],
+  "/[locale]/esports/[league]/[tournament]/[slug]": [
+    "static/chunks/0dlhsrflmo.y2.js"
+  ],
+  "/[locale]/esports/live": [
+    "static/chunks/0_~jtlvgn4ogj.js"
+  ],
+  "/[locale]/esports/soon": [
+    "static/chunks/17ms.6frd~4p8.js"
+  ],
+  "/[locale]/event/[...slug]": [
+    "static/chunks/136u4fatst375.js"
+  ],
+  "/[locale]/leaderboard/[[...params]]": [
+    "static/chunks/0vjbq89fb_0ct.js"
+  ],
+  "/[locale]/market/[slug]": [
+    "static/chunks/0zkvmrb61ch0a.js"
+  ],
+  "/[locale]/perfect": [
+    "static/chunks/0zk6~z9b_gm~6.js"
+  ],
+  "/[locale]/portfolio": [
+    "static/chunks/0voyv6pvoxs0z.js"
+  ],
+  "/[locale]/predictions": [
+    "static/chunks/01wom3gj_6hiy.js"
+  ],
+  "/[locale]/predictions/[slug]": [
+    "static/chunks/0jf04p6b29nth.js"
+  ],
+  "/[locale]/profile/[slug]": [
+    "static/chunks/162kitr_t7a_6.js"
+  ],
+  "/[locale]/redeem/[redeemId]": [
+    "static/chunks/0m83san~2~t.x.js"
+  ],
+  "/[locale]/rfq": [
+    "static/chunks/0citf44_p40dl.js"
+  ],
+  "/[locale]/search": [
+    "static/chunks/0ktl_avwqedtw.js"
+  ],
+  "/[locale]/series/[slug]": [
+    "static/chunks/08n2sgowo.6fd.js"
+  ],
+  "/[locale]/share/[shareId]": [
+    "static/chunks/0bl32hviqq.9g.js"
+  ],
+  "/[locale]/sitemaps/base.xml": [
+    "static/chunks/0tnqk8-khiat8.js"
+  ],
+  "/[locale]/sitemaps/categories.xml": [
+    "static/chunks/15~58eh-o9tb9.js"
+  ],
+  "/[locale]/sitemaps/events-active/[part]": [
+    "static/chunks/15mdec-~9ipef.js"
+  ],
+  "/[locale]/sitemaps/events-closed/[param]": [
+    "static/chunks/0yacan92_o_1a.js"
+  ],
+  "/[locale]/sitemaps/predictions/[part]": [
+    "static/chunks/0v6mbg8rnt5_r.js"
+  ],
+  "/[locale]/sitemaps/sitemap-index.xml": [
+    "static/chunks/0811gz8mmnqa_.js"
+  ],
+  "/[locale]/sitemaps/teams.xml": [
+    "static/chunks/0h_jq591gm88_.js"
+  ],
+  "/[locale]/sports/[league]/[slug]": [
+    "static/chunks/0lhn3_1zw-gl4.js"
+  ],
+  "/[locale]/sports/[league]/bracket": [
+    "static/chunks/0wsqlq6cfz~qu.js"
+  ],
+  "/[locale]/sports/[league]/games": [
+    "static/chunks/0efxj1rlc.mgt.js"
+  ],
+  "/[locale]/sports/[league]/games/live": [
+    "static/chunks/06rpmdtphgsbw.js"
+  ],
+  "/[locale]/sports/[league]/games/week/[week]": [
+    "static/chunks/0iz1vyae08l-b.js"
+  ],
+  "/[locale]/sports/[league]/map": [
+    "static/chunks/05.j5goc314vv.js"
+  ],
+  "/[locale]/sports/[league]/props": [
+    "static/chunks/0bniicqgg.lqb.js"
+  ],
+  "/[locale]/sports/futures/[league]": [
+    "static/chunks/0jd._mu1-y6g5.js"
+  ],
+  "/[locale]/sports/live": [
+    "static/chunks/020txik5a572o.js"
+  ],
+  "/_error": [
+    "static/chunks/0hus2aytac__p.js"
+  ],
+  "__rewrites": {
+    "afterFiles": [
+      {
+        "has": [
+          {
+            "type": "query",
+            "key": "o",
+            "value": "(?<orgid>\\d*)"
+          },
+          {
+            "type": "query",
+            "key": "p",
+            "value": "(?<projectid>\\d*)"
+          },
+          {
+            "type": "query",
+            "key": "r",
+            "value": "(?<region>[a-z]{2})"
+          }
+        ],
+        "source": "/monitoring(/?)"
+      },
+      {
+        "has": [
+          {
+            "type": "query",
+            "key": "o",
+            "value": "(?<orgid>\\d*)"
+          },
+          {
+            "type": "query",
+            "key": "p",
+            "value": "(?<projectid>\\d*)"
+          }
+        ],
+        "source": "/monitoring(/?)"
+      },
+      {
+        "source": "/sitemap.xml",
+        "destination": "/sitemaps/sitemap-index.xml"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/sitemap.xml",
+        "destination": "/:locale/sitemaps/sitemap-index.xml"
+      },
+      {
+        "source": "/sitemaps/predictions-:part.xml",
+        "destination": "/sitemaps/predictions/:part"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/sitemaps/predictions-:part.xml",
+        "destination": "/:locale/sitemaps/predictions/:part"
+      },
+      {
+        "source": "/sitemaps/events-active-:part.xml",
+        "destination": "/sitemaps/events-active/:part"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/sitemaps/events-active-:part.xml",
+        "destination": "/:locale/sitemaps/events-active/:part"
+      },
+      {
+        "source": "/sitemaps/events-closed-:param.xml",
+        "destination": "/sitemaps/events-closed/:param"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/sitemaps/events-closed-:param.xml",
+        "destination": "/:locale/sitemaps/events-closed/:param"
+      },
+      {
+        "source": "/nyc",
+        "destination": "/insights/nyc-mayoral-2025"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/nyc",
+        "destination": "/:locale/insights/nyc-mayoral-2025"
+      },
+      {
+        "source": "/pro-football-champion",
+        "destination": "/event/nfl-sea-ne-2026-02-08"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/pro-football-champion",
+        "destination": "/:locale/event/nfl-sea-ne-2026-02-08"
+      },
+      {
+        "source": "/@:slug([^/]+)",
+        "destination": "/profile/@:slug"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/@:slug([^/]+)",
+        "destination": "/:locale/profile/@:slug"
+      },
+      {
+        "source": "/0x:slug([a-fA-F0-9]{40})",
+        "destination": "/profile/0x:slug"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/0x:slug([a-fA-F0-9]{40})",
+        "destination": "/:locale/profile/0x:slug"
+      },
+      {
+        "source": "/_a/:path*",
+        "destination": "/api/_a/:path*"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/_a/:path*",
+        "destination": "/:locale/api/_a/:path*"
+      },
+      {
+        "source": "/_proxy/dub/track/:path"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/_proxy/dub/track/:path"
+      },
+      {
+        "source": "/_proxy/dub/script.js"
+      },
+      {
+        "source": "/:locale(en|bn|de|es|fr|hi|id|it|ja|ko|pl|pt|ru|th|tl|uk|vi|zh|zh-hant)/_proxy/dub/script.js"
+      }
+    ],
+    "beforeFiles": [],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/404",
+    "/_app",
+    "/_error",
+    "/api/.well-known/farcaster.json",
+    "/api/_a/[...path]",
+    "/api/_e/[...path]",
+    "/api/_m/[...path]",
+    "/api/account/has-deposited",
+    "/api/account/has-traded",
+    "/api/account/mark-deposited",
+    "/api/account/mark-deposited.test",
+    "/api/account/mark-registered",
+    "/api/account/mark-registered.test",
+    "/api/account/mark-traded",
+    "/api/account/migrate-deposit-wallet",
+    "/api/account/profile/image",
+    "/api/account/profile/invalidate",
+    "/api/account/track-trade",
+    "/api/account/track-trade.test",
+    "/api/account/verify-emails/check",
+    "/api/account/verify-emails/create",
+    "/api/admin/google-form-submit",
+    "/api/affiliate/dub/lead",
+    "/api/annotations/generate",
+    "/api/annotations/[id]",
+    "/api/auth/magic-check",
+    "/api/auth/magic-check.test",
+    "/api/biggest-movers",
+    "/api/chainlink-candles",
+    "/api/comment/share",
+    "/api/cron/annotations",
+    "/api/cron/annotations/[slug]",
+    "/api/crypto/counts",
+    "/api/crypto/crypto-price",
+    "/api/crypto/markets",
+    "/api/crypto/price-history",
+    "/api/cyom/generate-autocomplete",
+    "/api/cyom/generate-date",
+    "/api/cyom/generate-summary",
+    "/api/daily-updates",
+    "/api/equity/equity-price",
+    "/api/equity/price-to-beat/[slug]",
+    "/api/equity/ticker-snapshot",
+    "/api/esports/news",
+    "/api/esports/series-state",
+    "/api/esports/tournaments",
+    "/api/esports/video-token",
+    "/api/event",
+    "/api/events/partner",
+    "/api/feature-flags",
+    "/api/finance/counts",
+    "/api/gas/polygon",
+    "/api/geo",
+    "/api/geoblock",
+    "/api/geoblock/perps-allow",
+    "/api/geoblock/wallet-lists",
+    "/api/giphy",
+    "/api/grok/event-summary",
+    "/api/grok/mamdani-borough-summary",
+    "/api/grok/process-citations",
+    "/api/homepage/carousel",
+    "/api/impact/page-load",
+    "/api/intercom/jwt",
+    "/api/market",
+    "/api/market/resolution/[questionId]",
+    "/api/market/similar",
+    "/api/market-context/regenerate",
+    "/api/meta/capi",
+    "/api/moonpay/sign-url",
+    "/api/og",
+    "/api/og/search",
+    "/api/oscars-feed",
+    "/api/partial-position-markets",
+    "/api/partners/event/[slug]",
+    "/api/past-results",
+    "/api/perfect/send-otp",
+    "/api/perfect/verify-otp",
+    "/api/perps-subscribe",
+    "/api/polygraph-subscribe",
+    "/api/polymarket-tweets",
+    "/api/profile/userData",
+    "/api/profile/username-available",
+    "/api/profile/x/callback",
+    "/api/profile/x/disconnect",
+    "/api/proxy/image",
+    "/api/public/v1/breaking",
+    "/api/reddit/capi",
+    "/api/redeem/create",
+    "/api/revalidate/[[...slug]]",
+    "/api/rewards/activesponsorship",
+    "/api/rewards/logs",
+    "/api/rewards/markets",
+    "/api/rewards/sponsorships",
+    "/api/rewards/totalEarnings",
+    "/api/search/execute",
+    "/api/search/trending",
+    "/api/search-autocomplete",
+    "/api/search-events",
+    "/api/series",
+    "/api/series/events",
+    "/api/share/create",
+    "/api/share/link-info",
+    "/api/slack",
+    "/api/snapchat/capi",
+    "/api/sports/league-events",
+    "/api/sports/series-recommendations",
+    "/api/sports/world-cup-hero",
+    "/api/sports/world-cup-search",
+    "/api/tags/filtered",
+    "/api/tags/filteredBySlug",
+    "/api/taxonomy",
+    "/api/teams/[game]/[team]",
+    "/api/tiktok/capi",
+    "/api/twitter/capi",
+    "/api/ufc-moneyline",
+    "/api/us-waitlist",
+    "/api/user/[username]/biggest-wins",
+    "/api/vercel-webhook",
+    "/[locale]",
+    "/[locale]/404",
+    "/[locale]/breaking",
+    "/[locale]/breaking/[category]",
+    "/[locale]/create",
+    "/[locale]/esports",
+    "/[locale]/esports/live",
+    "/[locale]/esports/soon",
+    "/[locale]/esports/[league]",
+    "/[locale]/esports/[league]/[tournament]",
+    "/[locale]/esports/[league]/[tournament]/[slug]",
+    "/[locale]/event/[...slug]",
+    "/[locale]/leaderboard/[[...params]]",
+    "/[locale]/market/[slug]",
+    "/[locale]/perfect",
+    "/[locale]/portfolio",
+    "/[locale]/predictions",
+    "/[locale]/predictions/[slug]",
+    "/[locale]/profile/[slug]",
+    "/[locale]/redeem/[redeemId]",
+    "/[locale]/rfq",
+    "/[locale]/search",
+    "/[locale]/series/[slug]",
+    "/[locale]/share/[shareId]",
+    "/[locale]/sitemaps/base.xml",
+    "/[locale]/sitemaps/categories.xml",
+    "/[locale]/sitemaps/events-active/[part]",
+    "/[locale]/sitemaps/events-closed/[param]",
+    "/[locale]/sitemaps/predictions/[part]",
+    "/[locale]/sitemaps/sitemap-index.xml",
+    "/[locale]/sitemaps/teams.xml",
+    "/[locale]/sports/futures/[league]",
+    "/[locale]/sports/live",
+    "/[locale]/sports/[league]/bracket",
+    "/[locale]/sports/[league]/games",
+    "/[locale]/sports/[league]/games/live",
+    "/[locale]/sports/[league]/games/week/[week]",
+    "/[locale]/sports/[league]/map",
+    "/[locale]/sports/[league]/props",
+    "/[locale]/sports/[league]/[slug]",
+    "/[locale]/[category]",
+    "/[locale]/[category]/[slug]"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

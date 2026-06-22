@@ -1,0 +1,7 @@
+A focused review of ArmageddonRewardsBilly / 0xc8ab97a9089a9ff7e6ef0688e6e591a066946418 identifies a serious conflict-of-interest lead concerning the June 15 US x Iran permanent peace deal market.
+
+The raw resolution receipt shows that the exact June 15 condition ID and question ID were resolved YES through a transaction routed to the ARB Safe. Separate Polymarket activity records identify the same wallet as holding a material BUY YES position in the exact market, including a 400,000 YES trade at 0.999. The known redemption receipt and incoming transfer file show that ARB received 404,422.594999 USDCE from the CTF contract after resolution, and the incoming transfer file identifies an additional 200,328.309676 USDCE payout transaction requiring raw receipt preservation.
+
+Two additional UMA bond or proposal transactions involving ARB are confirmed as related-market UMA proposal activity for June 19 and June 30 physical-signing markets. They should not be described as exact June 15 proposal proof unless additional exact-market evidence is obtained.
+
+The current evidence supports urgent legal review of a potential conflict between profitable YES-side exposure and participation in or execution of the resolution process. It should be presented as a verified resolution-process and beneficiary lead, not as final proof of fraud or common ownership.

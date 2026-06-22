@@ -1,0 +1,1 @@
+The Polymarket activity and cluster trade rows identify ArmageddonRewardsBilly / 0xc8ab97a9089a9ff7e6ef0688e6e591a066946418 as buying 400,000 YES shares at 0.999 on the exact June 15 market. The raw receipt for the transaction succeeded and contains CTF logs tied to the target condition ID. This supports a material YES position before the challenged resolution.

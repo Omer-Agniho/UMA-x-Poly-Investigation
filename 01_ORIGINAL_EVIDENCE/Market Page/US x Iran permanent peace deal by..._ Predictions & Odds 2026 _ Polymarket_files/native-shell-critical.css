@@ -1,0 +1,24 @@
+html[data-native-shell="1"],
+html[data-native-shell="1"] :root,
+html[data-native-shell="1"] body {
+  --navbar-height: 0px;
+}
+
+html[data-native-shell="1"] .web-shell-navbar,
+html[data-native-shell="1"] .web-shell-bottom-nav,
+html[data-native-shell="1"] .web-shell-footer,
+html[data-native-shell="1"] .native-shell-secondary-nav,
+html[data-native-shell="1"] .native-shell-sports-mobile-nav,
+html[data-native-shell="1"] .native-shell-sports-sidebar-nav {
+  display: none !important;
+}
+
+html[data-native-shell="1"] [data-native-shell-webview-back],
+html[data-native-shell="1"] .native-shell-webview-back {
+  display: none !important;
+}
+
+html[data-native-shell="1"] [data-native-shell-webview-back-offset],
+html[data-native-shell="1"] .native-shell-webview-back-offset {
+  padding-left: 0 !important;
+}

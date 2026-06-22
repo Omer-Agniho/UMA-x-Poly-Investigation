@@ -1,0 +1,145 @@
+{
+  "market": "US x Iran permanent peace deal by June 15, 2026",
+  "condition_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+  "question_id": "0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b",
+  "volume": "$177.4M (this sub-market), $478.9M (full event with 16 sub-markets)",
+  "resolved_outcome": "YES",
+  "resolved_date": "2026-06-18T00:31:59Z",
+  "resolver_contract": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "automatically_resolved": true,
+  "uma_resolution_statuses": ["proposed", "disputed", "proposed", "disputed"],
+
+  "IDENTITY_VERIFICATION": {
+    "wallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+    "polymarket_profile_url": "https://polymarket.com/profile/0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+    "profile_shows": "ArmageddonRewardsBilly (joined January 2025, $1.7M positions, 39,547 predictions)",
+    "trades_api_confirmation": "Polymarket /trades API returns name='ArmageddonRewardsBilly' with proxyWallet=0xc8ab97... for a 400,000 YES trade on this exact market",
+    "wallet_type": "Gnosis Safe (smart contract wallet)",
+    "verification_method": "Both profile page AND trades API independently confirm identity",
+    "verification_date": "2026-06-20"
+  },
+
+  "SMOKING_GUN_TIMELINE": {
+    "description": "ArmageddonRewardsBilly proposed UMA prices, resolved the market through their wallet, and collected $604k+ in payouts - all within 37 minutes",
+    "events": [
+      {
+        "time": "2026-06-17T23:57:47Z",
+        "event": "ARB receives $1,500.10 (likely prior UMA bond return)",
+        "tx": "0xb7d1472f53177835ae...",
+        "counterparty": "0xc417fd8e9661c0d2120b64a04bb3278c17e99db1"
+      },
+      {
+        "time": "2026-06-17T23:59:49Z",
+        "event": "ARB deposits $750 UMA bond for Polymarket proposal",
+        "tx": "0x4e78e8c3c2108c832549d835f53e9b5c49405da9ddbb4e471b87f596dac199d8",
+        "tx_link": "https://polygonscan.com/tx/0x4e78e8c3c2108c832549d835f53e9b5c49405da9ddbb4e471b87f596dac199d8",
+        "counterparty": "0x2c0367a9db231ddebd88a94b4f6461a6e47c58b1 (UMA Bond Contract)",
+        "bond_event_details": {
+          "event_hash": "0x6e51dd00371aabffa82cd401592f76ed51e98a9ea4b58751c70463a2c78b5ca1",
+          "topic1_requester": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 (Polymarket Resolver)",
+          "topic2_proposer": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418 (ArmageddonRewardsBilly)",
+          "data_identifier": "YES_OR_NO_QUERY (hex: 5945535f4f525f4e4f5f5155455259)",
+          "data_note": "YES_OR_NO_QUERY is the UMA identifier used exclusively for Polymarket market proposals"
+        }
+      },
+      {
+        "time": "2026-06-17T23:59:58Z",
+        "event": "ARB deposits $750 UMA bond for Polymarket proposal (2nd)",
+        "tx": "0x1f9b73e61e15dc3777a839993087b687792d8eba25c713e163e550fc9bade067",
+        "tx_link": "https://polygonscan.com/tx/0x1f9b73e61e15dc3777a839993087b687792d8eba25c713e163e550fc9bade067",
+        "counterparty": "0x2c0367a9db231ddebd88a94b4f6461a6e47c58b1 (UMA Bond Contract)",
+        "bond_event_details": {
+          "event_hash": "0x6e51dd00371aabffa82cd401592f76ed51e98a9ea4b58751c70463a2c78b5ca1",
+          "topic1_requester": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 (Polymarket Resolver)",
+          "topic2_proposer": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418 (ArmageddonRewardsBilly)",
+          "data_identifier": "YES_OR_NO_QUERY (hex: 5945535f4f525f4e4f5f5155455259)"
+        }
+      },
+      {
+        "time": "2026-06-18T00:31:59Z",
+        "event": "ARB's wallet RESOLVES the peace deal market as YES",
+        "tx": "0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+        "tx_link": "https://polygonscan.com/tx/0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+        "block": 88691816,
+        "call_chain": [
+          "0xb8f7761d8a267d03e24fde9db4c460faa08bad14 (relayer EOA)",
+          "-> execTransaction() on 0xc8ab97a9089a9ff7e6ef0688e6e591a066946418 (ArmageddonRewardsBilly Gnosis Safe)",
+          "-> resolve(questionID=0xb0bca505...) on 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 (Polymarket Resolver)",
+          "-> resolveCondition on 0x4d97dcd97ec945f40cf65f87097ace5ea0476045 (CTF)"
+        ],
+        "question_id_in_tx_input": true,
+        "question_id_position_in_input": 722
+      },
+      {
+        "time": "2026-06-18T00:36:22Z",
+        "event": "ARB receives $404,422.59 CTF payout (resolved position redemption)",
+        "tx": "0x4c315e0cd4d9c1e42a...",
+        "counterparty": "0x4d97dcd97ec945f40cf65f87097ace5ea0476045 (CTF Contract)"
+      },
+      {
+        "time": "2026-06-18T00:37:40Z",
+        "event": "ARB receives $200,328.31 CTF payout (additional redemption)",
+        "tx": "0x4edcecea43e58319eb...",
+        "counterparty": "0x4d97dcd97ec945f40cf65f87097ace5ea0476045 (CTF Contract)"
+      }
+    ],
+    "total_payout_received": "$604,750.90",
+    "time_from_bond_to_resolution": "32 minutes",
+    "time_from_resolution_to_payout": "4-6 minutes"
+  },
+
+  "RESOLUTION_TX_PROOF": {
+    "tx": "0x4594120f7b93d7eadd56e53594f208a3fe3e7b83f715871e59742eac796e017e",
+    "from": "0xb8f7761d8a267d03e24fde9db4c460faa08bad14 (relayer EOA)",
+    "to": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418 (ArmageddonRewardsBilly Gnosis Safe)",
+    "execTransaction_target": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 (Polymarket Resolver)",
+    "event_logs": [
+      {
+        "log_index": "0x440",
+        "address": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+        "description": "ARB Gnosis Safe execTransaction event"
+      },
+      {
+        "log_index": "0x441",
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "description": "USDC.e transfer: 5 USDC from Resolver to market creator",
+        "from": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+        "to": "0x91430cad2d3975766499717fa0d66a78d814e5c5",
+        "amount": "5 USDC"
+      },
+      {
+        "log_index": "0x442",
+        "address": "0x4d97dcd97ec945f40cf65f87097ace5ea0476045",
+        "description": "CTF ConditionResolution - contains BOTH conditionID and questionID",
+        "topic1_conditionID": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+        "topic2_resolver": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+        "topic3_questionID": "0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b"
+      },
+      {
+        "log_index": "0x443",
+        "address": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+        "description": "Polymarket Resolver QuestionResolved event",
+        "topic1_questionID": "0xb0bca505e898b79087fd5057f67c181f661d13ca1a5a091a3db0978a30de125b",
+        "topic2_resolvedPrice": "0x0de0b6b3a7640000 = 1e18 = 1.0 (YES)"
+      }
+    ]
+  },
+
+  "TRADING_POSITION": {
+    "polymarket_trade": {
+      "name": "ArmageddonRewardsBilly",
+      "proxyWallet": "0xc8ab97a9089a9ff7e6ef0688e6e591a066946418",
+      "side": "BUY",
+      "outcome": "Yes",
+      "size": 400000,
+      "price": 0.999,
+      "notional_value": "$399,600",
+      "source": "Polymarket /trades API with market=conditionID, found at offset ~3000"
+    }
+  },
+
+  "CONFLICT_SUMMARY": "ArmageddonRewardsBilly (1) held $399,600 in BUY YES positions, (2) deposited UMA bonds as a proposer for Polymarket markets 32 minutes before resolution, (3) had their wallet execute the resolve() call that resolved this exact market as YES, and (4) collected $604,750 in payouts within minutes. The UMA bond events confirm identifier='YES_OR_NO_QUERY' with requester=Polymarket Resolver, proving these were Polymarket market proposals.",
+
+  "market_creator": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "market_creator_note": "Received 5 USDC UMA reward upon resolution."
+}

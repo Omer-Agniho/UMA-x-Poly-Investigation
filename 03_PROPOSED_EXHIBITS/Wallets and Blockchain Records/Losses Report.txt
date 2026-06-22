@@ -1,0 +1,25 @@
+# Polymarket NO Holder Loss Summary
+
+Market: **US x Iran permanent peace deal by...?**  
+Source: `polymarket_no_holder_losses_by_date.csv`
+
+Final NO-holder losses across resolved-YES date markets from **June 15 onward** totaled:
+
+**$87,377,595.33**
+
+Loss is measured as final NO shares held when NO resolved to `0`, valued at `$1` per share.
+
+| Date Market | NO Loss | Final NO Shares | Holder Rows | Share |
+|---|---:|---:|---:|---:|
+| June 15 | $68,290,107.59 | 68,290,107.59 | 4,490 | 78.16% |
+| June 30 | $10,708,513.83 | 10,708,513.83 | 3,513 | 12.26% |
+| July 31 | $3,127,160.02 | 3,127,160.02 | 1,010 | 3.58% |
+| Dec. 31 | $2,028,480.36 | 2,028,480.36 | 850 | 2.32% |
+| Oct. 31 | $1,611,849.76 | 1,611,849.76 | 286 | 1.84% |
+| Aug. 31 | $1,611,483.77 | 1,611,483.77 | 425 | 1.84% |
+
+The loss was highly concentrated in the **June 15** contract, which alone caused about **$68.29M**, or **78.16%** of total measured NO-holder losses.
+
+The two largest markets, **June 15** and **June 30**, together account for about **$79.0M**, or **90.42%** of all losses.
+
+The file contains **10,574 holder-market rows**. This is not necessarily 10,574 unique wallets, since one wallet may appear in multiple date markets. All holder data is marked complete in the CSV.

@@ -1,0 +1,31 @@
+Step 11D Token Path Review
+
+Inputs reviewed:
+Step 11C shared funder output
+Step 9B ERC1155 incoming edge output
+Step 10 classified redeemer summary
+
+Step 11C result:
+No common Polygon funder was found between the UMA address set and the priority 1 or priority 2 Polymarket wallet set. Step 11C also had 0 failed queries.
+
+Step 11D token path result:
+Direct target-and-future buyer/redeemer source wallets to future-only redeemer wallets: 19 grouped token-transfer edges.
+Future-only redeemer to future-only redeemer grouped token-transfer edges: 4.
+Future-only redeemer wallets with at least one direct target-source receipt: 8 of 12.
+Future-only redeemer wallets with at least one future-source receipt: 4 of 12.
+
+Most important source wallets by ERC1155 amount sent to future-only redeemers:
+0x8eBFDc251c6C378d4a3a54A8f15cebFa4B9183ce | receivers: 4 | amount assuming 6 decimals: 146217.410000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0x88Edd092d799556111E57ff3b2107E24dd406cfb | receivers: 1 | amount assuming 6 decimals: 45194.080000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0xC4086B708Cd3a50880B7069add1A1A80000f4675 | receivers: 1 | amount assuming 6 decimals: 40000.000000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0x54B56146656e7eef9DA02b3A030c18e06e924B31 | receivers: 1 | amount assuming 6 decimals: 14979.930000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0x5CCf62aC8155E49bc7d021a1A66e9Ef18f5579D7 | receivers: 1 | amount assuming 6 decimals: 5254.580000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0x35e36FaA4cf1488D120580302Ed1d149bE749188 | receivers: 1 | amount assuming 6 decimals: 1333.150000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0x24c8CF69a0e0A17EEE21f69d29752BfA32e823e1 | receivers: 1 | amount assuming 6 decimals: 718.830000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+0x7b676D5a6379855773D405fcF19b9AA577651b07 | receivers: 1 | amount assuming 6 decimals: 674.550000 | source classification: BOUGHT_TARGET_AND_FUTURE_MARKETS
+
+Legal interpretation:
+The Step 11D records identify transaction-level ERC1155 token paths from direct target-and-future buyer/redeemer wallets into selected future-only redeemer wallets. This is relevant because some wallets that appeared future-only by trade records received tokens from wallets that were already classified as direct target-and-future buyer/redeemers. These records do not prove common ownership or control. They should be described as token-path leads unless further wallet-link evidence is found.
+
+Recommended next step:
+Proceed to Step 11E. Step 11E should test whether UMA voter or delegate wallets have direct or two-hop links to the Step 11D source wallets and the largest future-only receivers. Because Step 11B and Step 11C found no direct Polygon funding link or shared Polygon funder, Step 11E should be focused, not broad.
