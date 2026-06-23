@@ -34,7 +34,9 @@ The strongest current evidence themes are as follows.
 
 5. ARB resolution process lead: an important lead concerns the Polymarket profile or wallet associated with ArmageddonRewardsBilly, wallet `0xc8ab97a9089a9ff7e6ef0688e6e591a066946418`. The evidence supports that this Safe wallet held a material YES position, that the exact market was resolved YES through a transaction executed through that Safe, and that post resolution proceeds were received or are strongly indicated by preserved transaction records.
 
-6. Wallet link results: direct same address and simple funding link checks between UMA voters and Polymarket YES buyers or redeemers have not identified a simple transaction supported link in the tested data. This does not defeat the claim. It narrows the wallet tracing branch and increases the importance of the rule interpretation, resolution process, conflict of interest, trading benefit, and discovery questions.
+6. Earlier wallet link results: direct same address and simple funding link checks between UMA voters and Polymarket YES buyers or redeemers did not identify a simple transaction supported link in the tested data. This does not defeat the claim. It narrowed the wallet tracing branch and increased the importance of the rule interpretation, resolution process, conflict of interest, trading benefit, and discovery questions.
+
+7. New targeted wallet findings: later depth-4 and suspect-profiler outputs identified stronger suspect-specific leads, including direct ARB to tf2 transfers, a large shared funding network around `0xc417fd...`, GroyperFinance funding plus UMA oracle infrastructure interaction, and secretscent / RockSolidBond / intermediary flows involving UMA proposer lead `0xc337...`.
 
 ## 3. Reported background
 
@@ -144,7 +146,124 @@ The strongest ARB points currently preserved are as follows.
 
 This ARB evidence creates a strong counsel review question: whether a wallet with material YES exposure participated in or executed a resolution transaction for the exact market and then received post resolution proceeds. That question is central to conflict, process fairness, disclosure, platform responsibility, and discovery strategy.
 
-## 11. Loss analysis and claimant identification
+## 11. New targeted wallet findings from depth 4 and PolyAudit suspect profiler
+
+This section records new targeted forensic outputs generated after the earlier wallet-link tests. These outputs should be treated as investigative evidence and counsel-review leads. They materially strengthen the conflict-of-interest and shared-funding branches, but they do not by themselves prove fraud, collusion, or common beneficial ownership.
+
+### 11.1 Depth-4 Top UMA whale path test
+
+A focused depth-4 on-chain path test was run against the Top 12 UMA whale rows from `Top_60_Whales.csv`, using both staker and delegate / hot wallet target addresses. The run used focused seed mode and known priority Polymarket-side source wallets rather than scanning the full repository address universe.
+
+Key run metrics:
+
+1. Top UMA whale target rows: `12`.
+2. UMA target addresses: `24`.
+3. Polymarket-side source addresses: `21`.
+4. Seed addresses: `45`.
+5. On-chain addresses visited: `500`.
+6. Path rows produced: `21`.
+7. Exact-overlap leads hidden: `true`.
+8. Block window: Polygon blocks `84940782` through `88863337`.
+
+The test is useful, but it does not currently prove a strong direct connection to the Top 12 UMA whale voters. Manual review of the 21 path rows indicates that most candidate paths pass through spam-token or generic-contract edges, especially address `0x6f8a06447ff6fcf75d803135a7de15ce88c1d4ec` and the Polygon USDC contract `0x3c499c542cef5e3811e1192ce70d8cc03d5c3359`. These paths should not be treated as evidence of ownership, coordination, or funding unless independently supported by meaningful transfers, timing, or non-generic intermediary behavior.
+
+The lawyer-safe conclusion is that the Top 12 UMA whale path test did not establish a strong Top UMA whale connection. It did, however, provide useful filtering and helped redirect the investigation toward more promising suspect-specific leads involving known Polymarket / UMA actors, shared funders, and proposer wallets.
+
+### 11.2 ARB and tf2 direct relationship
+
+The suspect profiler identified repeated direct transfers between the ARB wallet and the tf2 wallet:
+
+1. ARB / ArmageddonRewardsBilly: `0xc8ab97a9089a9ff7e6ef0688e6e591a066946418`.
+2. tf2: `0xa102b434ce441a3119e146f75ed6276ee1a836d9`.
+
+The direct relation file contains `11` transfer rows between these wallets. The meaningful transfers include:
+
+1. tf2 to ARB: `100,000` USDC.e.
+2. tf2 to ARB: `200,000` pUSD total.
+3. ARB to tf2: approximately `280,571` pUSD total.
+4. Multiple CTF / ERC1155 position-transfer rows in both directions.
+
+This is a strong investigative lead because both wallets are independently relevant to the Polymarket / UMA conflict analysis. ARB is already a key resolution-process lead. tf2 appears in the investigation as a Polymarket trader with prior UMA oracle activity. The direct ARB to tf2 relationship should be reviewed transaction by transaction and the CTF / ERC1155 token IDs should be mapped to specific Polymarket condition IDs.
+
+Careful wording: the current record supports a direct on-chain relationship between ARB and tf2. It does not yet prove common ownership, agreement, or collusion.
+
+### 11.3 Shared funding network around `0xc417fd...`
+
+The suspect profiler identified address `0xc417fd8e9661c0d2120b64a04bb3278c17e99db1` as a substantial USDC.e funding source for multiple known YES-side or investigation-relevant wallets.
+
+Aggregated examples include:
+
+1. Shirtybonds: approximately `6.05 million` USDC.e.
+2. RockSolidBond: approximately `3.50 million` USDC.e.
+3. secretscent: approximately `2.48 million` USDC.e.
+4. GroyperFinance: approximately `1.21 million` USDC.e.
+5. Anghkooey: approximately `432 thousand` USDC.e.
+6. `0x52e5...`: approximately `276.7 thousand` USDC.e.
+7. tf2: approximately `103.4 thousand` USDC.e.
+8. Dripx: approximately `60 thousand` USDC.e.
+
+This is a strong shared-funding lead. It may support an inference that multiple apparently separate YES-side or suspect wallets were financed by the same source. The next step is to compare the funding timestamps against each recipient's Polymarket YES purchases and redemptions.
+
+Careful wording: this is funding-cluster evidence. It does not by itself prove common beneficial ownership or an unlawful agreement, but it strongly supports discovery into wallet control, funding purpose, trading strategy, and account attribution.
+
+### 11.4 GroyperFinance conflict lead
+
+The GroyperFinance profile output shows both shared funding and UMA oracle infrastructure interaction.
+
+Key findings include:
+
+1. `0xc417fd...` to GroyperFinance: approximately `1.205 million` USDC.e.
+2. GroyperFinance to UMA bond contract: approximately `4,500` USDC.e.
+3. UMA bond contract to GroyperFinance: approximately `4,000` USDC.e.
+4. GroyperFinance to UMA OOv2: approximately `750` USDC.e.
+5. UMA OOv2 to GroyperFinance: approximately `1,000` USDC.e.
+
+This makes GroyperFinance an important conflict lead because the wallet appears financially linked to the shared funding network and separately active around UMA oracle / bond infrastructure. Counsel should review whether the relevant transactions represent UMA proposal activity, rewards, bonds, or other oracle-related operations.
+
+Careful wording: GroyperFinance appears transaction-linked to UMA oracle infrastructure and to the `0xc417fd...` funding network. The exact legal significance depends on transaction receipts, market mapping, timing, and wallet attribution.
+
+### 11.5 secretscent, RockSolidBond, intermediaries, and UMA proposer `0xc337...`
+
+The secretscent / RockSolidBond profile output is significant. It shows large flows among secretscent, RockSolidBond, the shared funder `0xc417fd...`, reported intermediaries, and UMA proposer lead `0xc33780d8841dd80fe3de83bff881218372c3d42c`.
+
+Aggregated examples include:
+
+1. `0xc417fd...` to secretscent: approximately `2.476 million` USDC.e.
+2. `0xc417fd...` to RockSolidBond: approximately `3.495 million` USDC.e.
+3. secretscent to RockSolidBond: approximately `4.950 million` USDC.e.
+4. `0xc417fd...` to intermediary `0x245b...`: approximately `2.455 million` USDC.e.
+5. `0xc417fd...` to intermediary `0xa4fc...`: approximately `1.314 million` USDC.e.
+6. intermediary `0x245b...` to UMA proposer `0xc337...`: approximately `436,448` USDC.e.
+7. UMA proposer `0xc337...` back to intermediary `0x245b...`: approximately `221,232` USDC.e.
+8. intermediary `0xa4fc...` to UMA proposer `0xc337...`: approximately `106,500` USDC.e.
+9. UMA proposer `0xc337...` back to intermediary `0xa4fc...`: approximately `53,362` USDC.e.
+
+This is a strong to moderate conflict and funding-network lead. It is stronger than the Top 12 UMA whale path theory because it concerns a known UMA proposer lead rather than generic Top UMA voting wallets.
+
+Careful wording: the current record supports meaningful financial pathways among secretscent, RockSolidBond, intermediary wallets, the shared funder, and UMA proposer `0xc337...`. It does not yet prove common ownership or intent. It does justify transaction-level review, market-timing comparison, and discovery.
+
+### 11.6 `0xacff32...` infrastructure / activator lead
+
+The address `0xacff32f36054e039003c7925f7834360531f1f9a` appears repeatedly around multiple relevant wallets, including ARB, debased, HolyMoses7, RockSolidBond, yungstalin, JAHODA, `0x665d...`, secretscent, and GroyperFinance.
+
+This remains a moderate lead, not a strong funding lead. Many rows are zero-value native MATIC calls, which may indicate activation, relayer, infrastructure, contract-call, or bot behavior rather than capital funding. The address should be reviewed for wallet-creation timing, proxy or Safe setup behavior, recurring contract-call patterns, and any non-zero asset transfers.
+
+Careful wording: `0xacff32...` is a possible infrastructure or activator wallet. It should not currently be described as a confirmed funder.
+
+### 11.7 Legal significance of the new findings
+
+The new findings strengthen the process-integrity and conflict-of-interest branches. They point toward the following legal issues for counsel to evaluate:
+
+1. Whether a financially interested wallet participated in, finalized, or benefited from the resolution process.
+2. Whether wallets with market exposure were connected to UMA oracle participants or proposer infrastructure.
+3. Whether multiple YES-side wallets were funded by a common source.
+4. Whether the Polymarket / UMA resolution mechanism allowed conflicted actors to affect a high-value market outcome.
+5. Whether NO holders were deprived of the payout they would have received under the written market criteria.
+6. Whether discovery should seek account metadata, Safe signer records, IP logs, device fingerprints, exchange withdrawal records, API keys, and internal Polymarket / UMA communications.
+
+The strongest legal framing remains that this is a rule-based and process-based case. The new wallet evidence supports the argument that the disputed YES outcome may have arisen through a resolution process involving financially interested and interconnected actors. It should be presented as conflict and discovery evidence, not as final proof of fraud.
+
+## 12. Loss analysis and claimant identification
 
 Two damages analysis files were added to the evidence register under the LOSS series.
 
@@ -154,7 +273,7 @@ LOSS 002 is `polymarket_no_holder_losses_wallet_details.csv`. It provides wallet
 
 Both files should be treated as high relevance derived analysis. They should not be treated as final claimant proof until each claimant is matched to wallet ownership, transaction history, position records, deposits, withdrawals, and any platform account identifiers available through lawful means.
 
-## 12. Current strongest evidence map
+## 13. Current strongest evidence map
 
 The strongest evidence for immediate counsel review is summarized below.
 
@@ -168,9 +287,11 @@ Strong lead 4: ARB conflict and resolution process. The ARB Safe appears to have
 
 Strong lead 5: post resolution benefit evidence. Redemption records, ERC1155 burn logs, ERC20 transfer logs, and ARB payout evidence support analysis of who economically benefited from the disputed YES resolution.
 
-Strong lead 6: damages scale. Derived loss analysis identifies approximately USD 87.37 million in NO holder losses across six related markets, with approximately USD 68.28 million attributed to the June 15 market. These figures support the seriousness and potential class scale of the dispute, subject to validation.
+Strong lead 6: shared funding and suspect-network evidence. New suspect-profiler outputs identify `0xc417fd...` as a substantial USDC.e funding source for multiple known YES-side or investigation-relevant wallets, repeated direct ARB to tf2 transfers, GroyperFinance funding plus UMA oracle infrastructure interaction, and secretscent / RockSolidBond / intermediary flows involving UMA proposer lead `0xc337...`.
 
-## 13. Issues requiring counsel or expert review
+Strong lead 7: damages scale. Derived loss analysis identifies approximately USD 87.37 million in NO holder losses across six related markets, with approximately USD 68.28 million attributed to the June 15 market. These figures support the seriousness and potential class scale of the dispute, subject to validation.
+
+## 14. Issues requiring counsel or expert review
 
 Counsel should prioritize the following questions.
 
@@ -194,7 +315,7 @@ Counsel should prioritize the following questions.
 
 10. What claims, venues, arbitration issues, class mechanisms, or group action strategies are available?
 
-## 14. Recommended first package for counsel
+## 15. Recommended first package for counsel
 
 The first law firm package should include the following materials.
 
@@ -214,11 +335,15 @@ The first law firm package should include the following materials.
 
 8. ARB exhibit packet, including the exact resolution receipt, Safe Transaction Service files, Safe screenshots, YES buy proof, redemption proof, payout proof, related market UMA activity, and hash manifest.
 
-9. Damages package, including LOSS 001, LOSS 002, claimant intake templates, wallet ownership proof requirements, and current limitations.
+9. Depth-4 Top UMA whale path test packet, including run summary, path rows, high-priority leads, key target edges, Top 12 UMA focus targets, and filtering notes that explain why the Top 12 direct whale-link theory is currently weak.
 
-10. Known gaps and open questions list.
+10. PolyAudit suspect profiler packet, including tracked wallets, all suspect transfers, direct suspect relations, ARB to tf2 direct transfers, `0xc417fd...` funding cluster, `0xacff32...` infrastructure review, GroyperFinance profile, secretscent / RockSolidBond profile, CTF / ERC1155 review, and summary findings.
 
-## 15. Current limitations and careful wording
+11. Damages package, including LOSS 001, LOSS 002, claimant intake templates, wallet ownership proof requirements, and current limitations.
+
+12. Known gaps and open questions list.
+
+## 16. Current limitations and careful wording
 
 The investigation has important strengths, but counsel should avoid overstating certain points.
 
@@ -226,7 +351,7 @@ The evidence currently supports a serious challenge to the YES resolution, a mat
 
 The proper current language is that the evidence raises serious questions requiring legal review, preservation demands, discovery, and expert forensic analysis. Where direct proof exists, such as specific transactions, receipts, token movements, resolution records, and hashes, the note identifies those records directly. Where the evidence is inferential, such as beneficial ownership or coordination, the note frames those matters as leads or questions.
 
-## 16. Proposed legal and discovery focus
+## 17. Proposed legal and discovery focus
 
 The immediate focus for counsel should be preservation and discovery concerning the rule interpretation, resolution decision path, conflict of interest issues, actor identities, wallet control, and damages.
 
@@ -234,10 +359,10 @@ Key discovery targets may include Polymarket market creation records, market rul
 
 The group should continue preserving original files, maintaining hashes, recording source context, and separating claimant identity information for counsel only review.
 
-## 17. Short summary for counsel
+## 18. Short summary for counsel
 
 The claimant group is organizing a potential legal action concerning the Polymarket market “US x Iran permanent peace deal by June 15, 2026.” The group alleges that the written YES criteria required a qualifying permanent peace agreement by 15 June 2026 at 11:59 PM Eastern Time, that no qualifying agreement existed by that deadline, and that the market nevertheless resolved YES after the UMA related resolution process.
 
-The evidence archive now includes market identity records, UMA voting materials, Polymarket trade records, ERC1155 token movement records, redemption and payout records, wallet link analysis, ARB resolution process evidence, damages analysis, evidence register rows, and SHA 256 hash manifests. The strongest actor specific lead concerns the ARB Safe, which appears to have had a material YES position, participated in the exact market’s YES resolution transaction, and received post resolution proceeds.
+The evidence archive now includes market identity records, UMA voting materials, Polymarket trade records, ERC1155 token movement records, redemption and payout records, wallet link analysis, ARB resolution process evidence, depth-4 Top UMA whale path testing, PolyAudit suspect-profiler outputs, damages analysis, evidence register rows, and SHA 256 hash manifests. The strongest actor specific lead concerns the ARB Safe, which appears to have had a material YES position, participated in the exact market’s YES resolution transaction, and received post resolution proceeds.
 
 The current evidence does not need to be framed as final proof of fraud to be significant. It supports a substantial rule based and process based challenge, possible conflict of interest inquiry, significant damages analysis, and a focused request for legal preservation, discovery, and forensic review.
