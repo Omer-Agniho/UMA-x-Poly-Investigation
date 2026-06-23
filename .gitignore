@@ -1,1 +1,6 @@
 *.py
+`n# Large generated Depth 4 files
+03_PROPOSED_EXHIBITS/Deep_Relation_Miner_TOP12_UMA_ONCHAIN_DEPTH4_V8B/edges.csv
+03_PROPOSED_EXHIBITS/Deep_Relation_Miner_TOP12_UMA_ONCHAIN_DEPTH4_V8B/raw_transfers.jsonl
+03_PROPOSED_EXHIBITS/Deep_Relation_Miner_TOP12_UMA_ONCHAIN_DEPTH4_V8B/raw_asset_transfers.jsonl
+03_PROPOSED_EXHIBITS/Deep_Relation_Miner_TOP12_UMA_ONCHAIN_DEPTH4_V8B/*.jsonl
