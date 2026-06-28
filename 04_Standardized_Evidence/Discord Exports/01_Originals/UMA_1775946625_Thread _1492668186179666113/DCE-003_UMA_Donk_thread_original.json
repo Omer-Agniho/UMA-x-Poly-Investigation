@@ -1,0 +1,4826 @@
+{
+  "guild": {
+    "id": "718590743446290492",
+    "name": "UMA",
+    "iconUrl": "https://cdn.discordapp.com/icons/718590743446290492/8e93d9f382d4d4ea11560e3b8968f22f.png?size=512"
+  },
+  "channel": {
+    "id": "1492668186179666113",
+    "type": "GuildPublicThread",
+    "categoryId": "964000735073284127",
+    "category": "\uD83D\uDCAC｜dispute-threads",
+    "name": "Will \"Donk\" be said during the PGL Bucharest 2026 Grand Final? - 1775946625",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-06-26T10:50:24.2611738+00:00",
+  "messages": [
+    {
+      "id": "1492668674270560286",
+      "type": "Default",
+      "timestamp": "2026-04-11T23:32:24.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "p1 - N\nto me, its not clear whether he said donk or dont, it actually makes more sense that he said dont.\nI agree with scout's point.",
+      "author": {
+        "id": "585913787388002324",
+        "name": "sonix_1",
+        "discriminator": "0000",
+        "nickname": "Sonix",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585913787388002324/eb41b7362f1ba55cf5e8a0960fbffad4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492668693258436749",
+      "type": "Default",
+      "timestamp": "2026-04-11T23:32:28.916+00:00",
+      "timestampEdited": "2026-04-13T02:49:42.067+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No\nThe disputed instance of \"Donk\" at 5:22:36 does not qualify.\n\nThe caster slurred his words, he did not mention the actual word properly. We have precedent on this on the Khamenei market. (Let me be clear here, the precedent I'm citing is not context. It's the fact that saying something that sounds similar but is not the same does not qualify)\n\nCorrect pronunciation of Donk: (This is of the generic word, but the player's name is pronounced the same way, not \"dunk\")\nhttps://www.youtube.com/watch?v=tr4gFchtSvY",
+      "author": {
+        "id": "792217223501840414",
+        "name": "scout7438",
+        "discriminator": "0000",
+        "nickname": "Scout",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/792217223501840414/390d6adbd3611b68595dce84b4dae2e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Pronounce donk - American English",
+          "url": "https://www.youtube.com/watch?v=tr4gFchtSvY",
+          "timestamp": null,
+          "description": "Learn how to say/pronounce  donk in American English. Subscribe for more videos!",
+          "color": "#FF0000",
+          "author": {
+            "name": "HowToPronounce19",
+            "url": "https://www.youtube.com/channel/UCIA7buzIzqBwIkXvU9yt3wg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/80IcRRx2oJOQp3KmoQaN6hAZO_yHlkLOHTxGnNpu2dI/https/i.ytimg.com/vi/tr4gFchtSvY/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/tr4gFchtSvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/tr4gFchtSvY",
+            "canonicalUrl": "https://www.youtube.com/embed/tr4gFchtSvY",
+            "width": 1081,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492677773813092443",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:08:33.889+00:00",
+      "timestampEdited": "2026-04-13T03:06:31.514+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P1 — No**\n\nHe flubbed saying don't.\n\n\"Don't k- they don't get any kills in this run, they don't get a bomb plant.\"\n\nDonk was not even playing.\n\nHere is the disputed mention:\n\nhttps://www.youtube.com/live/v0-0BDYKLUg?si=XzUDQ_rpXq9qvuNN&t=19355\n\nhttps://imgur.com/IhqHyR5\n\nIt keeps being said by P2 arguers that the o sounds like donkey. I have no idea what they are talking about. The o sound of the disputed mention is like in \"dome\" or \"don't.\" Not \"donkey.\" So all the clips from Laccs actually help the P1 argument.\n\nHere's one isolated. This is how Donk, the player, is said:\nhttps://www.youtube.com/live/5dwJq533WXM?t=17099\n\nCounting this would be like counting a mention of Trump talking about Scott Kupor in a rally and then something surprising happening in the crowd and saying \"Scott Ku- wait!\" and counting it as a mention of Kuwait.\n\nI also don't think a mention of \"I guess D- I guess Donald Trump wasn't bluffing\" should count as a mention of \"guessed.\"\n\nOne last P2 claim is that there is no t sound for don't. I don't think it even matters, but even if it does, I think they're incorrect. I hear it, though contracted into the k sound a bit. This is common with consonants that run together, *especially* with \"t\"s. You can replicate this yourself by saying \"first light\" really quickly. The t and l will contract together.",
+      "author": {
+        "id": "570563844678877196",
+        "name": "7h0nk3r",
+        "discriminator": "0000",
+        "nickname": "Thonker",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570563844678877196/a_86d5f3520c359b1f5b859321def1213b.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Astralis vs. FUT - PGL Bucharest 2026 - Playoffs: Grand Final",
+          "url": "https://www.youtube.com/live/v0-0BDYKLUg?si=XzUDQ_rpXq9qvuNN&t=19355",
+          "timestamp": "2026-04-11T18:49:35+00:00",
+          "description": "PGL Bucharest 2026 – Counter-Strike 2 (CS2)\uD83D\uDCC5 April 4–11, 2026\uD83D\uDCCD Bucharest, Romania \uD83C\uDFDF️ PGL Studios\uD83D\uDCB0 $1,250,000 \uD83C\uDFAE 16 Top TeamsParticipating TeamsPARIVISION...",
+          "author": {
+            "name": "PGL",
+            "url": "https://www.youtube.com/@pgl"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kAk_ihMk3VyAZurl17Q_Bla9UEEwRCU_3UrUyhMByfM/https/i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19355",
+            "canonicalUrl": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19355",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDCC5",
+              "code": "date",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4c5.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCCD",
+              "code": "round_pushpin",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cd.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFDF️",
+              "code": "stadium",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3df.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCB0",
+              "code": "moneybag",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b0.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFAE",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        },
+        {
+          "title": "",
+          "url": "https://imgur.com/IhqHyR5",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wemjlrhAOnJCEvPzLwRieJvW76gKB7R6SLB4ztAdlk0/https/i.imgur.com/IhqHyR5.png",
+            "canonicalUrl": "https://i.imgur.com/IhqHyR5.png",
+            "width": 812,
+            "height": 1948
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Team Spirit vs. Team Falcons - IEM Katowice 2024 - Semifinal",
+          "url": "https://www.youtube.com/live/5dwJq533WXM?t=17099",
+          "timestamp": null,
+          "description": "The best way to watch Counter-Strike:http://esl.gg/FaceItWatchYTJoin the discussion:http://www.twitter.com/eslcshttp://www.facebook.com/eslcshttp://www.insta...",
+          "author": {
+            "name": "ESL Counter-Strike",
+            "url": "https://www.youtube.com/@ESLCS"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6XjCFUEapclNOmo9nscoyedzvrFYUykHFWriQtpsVHs/https/i.ytimg.com/vi/5dwJq533WXM/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/5dwJq533WXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/5dwJq533WXM?start=17099",
+            "canonicalUrl": "https://www.youtube.com/embed/5dwJq533WXM?start=17099",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492678123215519824",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:09:57.193+00:00",
+      "timestampEdited": "2026-04-12T02:15:32.931+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 - YES**\n\nFragment of where \"Donk\" was said: \nhttps://youtu.be/v0-0BDYKLUg?t=19356\n\nExample fragment of where \"Donk\" is also named:\nhttps://youtu.be/U5R9FgsFtNs?t=4",
+      "author": {
+        "id": "784924476432318484",
+        "name": "laccs",
+        "discriminator": "0000",
+        "nickname": "Laccs",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/784924476432318484/08e2b074399499f18f965536df23d455.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Astralis vs. FUT - PGL Bucharest 2026 - Playoffs: Grand Final",
+          "url": "https://www.youtube.com/watch?v=v0-0BDYKLUg&start=19356",
+          "timestamp": null,
+          "description": "PGL Bucharest 2026 – Counter-Strike 2 (CS2)\n\n\uD83D\uDCC5 April 4–11, 2026\n\uD83D\uDCCD Bucharest, Romania \n\uD83C\uDFDF️ PGL Studios\n\uD83D\uDCB0 $1,250,000 \n\uD83C\uDFAE 16 Top Teams\n\nParticipating Teams\n\nPARIVISION\nThe MongolZ\nAstralis\nFaZe\nFUT\nNRG\nB8\n3DMAX\nLegacy\nBC.Game\n…",
+          "color": "#FF0000",
+          "author": {
+            "name": "PGL",
+            "url": "https://www.youtube.com/channel/UC5jpxDZx4yoBo324pMQ91Ww"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kAk_ihMk3VyAZurl17Q_Bla9UEEwRCU_3UrUyhMByfM/https/i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19356",
+            "canonicalUrl": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19356",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDCC5",
+              "code": "date",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4c5.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCCD",
+              "code": "round_pushpin",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cd.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFDF️",
+              "code": "stadium",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3df.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCB0",
+              "code": "moneybag",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b0.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFAE",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        },
+        {
+          "title": "Best of donk in 2025 | CS2",
+          "url": "https://www.youtube.com/watch?v=U5R9FgsFtNs&start=4",
+          "timestamp": null,
+          "description": "Here's a compilation of donk's best 2025 highlights in CS2 pro and faceit matches.\n\nFollow me on Twitter:\nhttps://twitter.com/flvshi\n\nCredits:\nhttps://www.twitch.tv/eslcs\nhttps://www.twitch.tv/blastpremier\nhttps://www.hltv.org/\n\n#cs2",
+          "color": "#FF0000",
+          "author": {
+            "name": "flvshie",
+            "url": "https://www.youtube.com/channel/UCsrnxV1nJcfh9BdA8Rmi33w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Cyw2hmkHrkCYR8zIEM6o1ODcbPKFxOuHZgVnsF8dx_A/https/i.ytimg.com/vi/U5R9FgsFtNs/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/U5R9FgsFtNs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/U5R9FgsFtNs?start=4",
+            "canonicalUrl": "https://www.youtube.com/embed/U5R9FgsFtNs?start=4",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492682716699955270",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:28:12.365+00:00",
+      "timestampEdited": "2026-04-14T23:16:48.319+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No\n\nI was originally on the side of Yes because I thought anything that sounded like a \"donk\" should and equals a \"donk\". It was a simple argument, until I realized the flaw.\n\nhttps://www.youtube.com/live/v0-0BDYKLUg?t=19355s\n\nLet's establish that there are many ways to pronounce \"don't\" in a way such that \"don't\" sounds exactly like \"donk\". \n\n**If we say its Yes donk**, with the premise being ***we don't care about context***, then there would be at least three instances of  \"**Donk**- they **donk **get any kills in this run, they **donk** get a bomb plant.\"\n\n**There is either 3 mentions of donk or none at all!**\n\nOf course context matters!\n\nHe flubbed saying don't.\n\n\"Don't k- they don't get any kills in this run, they don't get a bomb plant.\"\n\nThis is the simplest explanation using Occam's Razor. There is 0 reason to expect that he said **\"Donk\"** in the middle of nowhere.\n\nThe **intent **for this mention is about the famous CS player name **Donk**. The context of the accused mention doesn't make sense as he would refer to the player in the middle of nowhere.\n\nIts time to stop the scam.",
+      "author": {
+        "id": "708850548312375416",
+        "name": "sixsevenfg",
+        "discriminator": "0000",
+        "nickname": "FinGeek (FoG)",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/708850548312375416/49819d654af3a4913afa4b65670f8a5e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Astralis vs. FUT - PGL Bucharest 2026 - Playoffs: Grand Final",
+          "url": "https://www.youtube.com/live/v0-0BDYKLUg?t=19355s",
+          "timestamp": "2026-04-11T18:49:35+00:00",
+          "description": "PGL Bucharest 2026 – Counter-Strike 2 (CS2)\uD83D\uDCC5 April 4–11, 2026\uD83D\uDCCD Bucharest, Romania \uD83C\uDFDF️ PGL Studios\uD83D\uDCB0 $1,250,000 \uD83C\uDFAE 16 Top TeamsParticipating TeamsPARIVISION...",
+          "author": {
+            "name": "PGL",
+            "url": "https://www.youtube.com/@pgl"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kAk_ihMk3VyAZurl17Q_Bla9UEEwRCU_3UrUyhMByfM/https/i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19355",
+            "canonicalUrl": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19355",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDCC5",
+              "code": "date",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4c5.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCCD",
+              "code": "round_pushpin",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cd.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFDF️",
+              "code": "stadium",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3df.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCB0",
+              "code": "moneybag",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b0.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFAE",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492685788767326311",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:40:24.803+00:00",
+      "timestampEdited": "2026-04-12T10:50:47.729+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 YES\n\nDonk … They don’t get any kills in this round…\n\nScout cites wrong version of «donk». It is the name of a player and commentator pronounced it the right way. Laccs cites a clip where it is mentioned several times. There is no other use for Donk except this one.\n\nEdit. Thonker tries to complicate it and comes up with new arguments every hour. It can’t be another word, and it can’t be flubbed don’t, k at the end of the word is too strong.",
+      "author": {
+        "id": "1370012281252876288",
+        "name": "luckkk111",
+        "discriminator": "0000",
+        "nickname": "lucky",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1370012281252876288/11ac9151a548d73bee23639051c953f8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492687021972652204",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:45:18.822+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No\n\nPer Thonker clarification, clearly wasn't saying the name of a player not in this tournament when stumbling over the word 'don't'",
+      "author": {
+        "id": "398575524621975556",
+        "name": "_majesticwalrus",
+        "discriminator": "0000",
+        "nickname": "MajesticWalrus",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398575524621975556/88268ea44d437b3967f2522568894fcc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492689262267859106",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:54:12.95+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2",
+      "author": {
+        "id": "1371467848442183794",
+        "name": "viniipaquete",
+        "discriminator": "0000",
+        "nickname": "Vini",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1371467848442183794/e2b6835a7adeec98debc8fe0e30e2d1e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492690246914150471",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:58:07.708+00:00",
+      "timestampEdited": "2026-04-12T01:00:10.765+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 No\n\nAfter seeing the precedent (khameni case)and thonkers post i have changed positions he clearly stuttered and did not mean to mention the name of a player who was not even playing",
+      "author": {
+        "id": "761097372108980237",
+        "name": "armanh01",
+        "discriminator": "0000",
+        "nickname": "Arman",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/761097372108980237/b5284744b797abe9f665d5497a9d94a0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492690602121367592",
+      "type": "Default",
+      "timestamp": "2026-04-12T00:59:32.396+00:00",
+      "timestampEdited": "2026-04-14T23:47:38.301+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No\n\nThe sportcaster incorrectly pronounced the words \"don't get\" but cut himself off after \"don't g--\" and restarted, saying \"they **don't get** any kills this run, they **don't get** a bomb plant\"\n\nOriginally I supported Yes, but I realized that if a clear mistake in speech that was cut off was allowed to count, these disputes would start to include this nonsense by manufacturing words out of mispronunciations regularly. \n\nP2 supporters have been mindlessly spamming 'donk' in Polymarket and UMA discords, trivializing the issue and changing the basis for resolution from pure correctness to populist appeal via silliness. \n\nStop the scam and spam by voting P1 on re-roll. Consensus was less than 900k votes away on the first vote.",
+      "author": {
+        "id": "720305732712529931",
+        "name": "laurleo",
+        "discriminator": "0000",
+        "nickname": "Cosmic Cedar",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/720305732712529931/182737b3de5aae52fddd0c7232e10d44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492692650678030448",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:07:40.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES\n\nLaccs covered it well. It's clear Donk.",
+      "author": {
+        "id": "1489305197137362984",
+        "name": ".notcar.",
+        "discriminator": "0000",
+        "nickname": "WhoDat",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1489305197137362984/b2418689de14972c755b7282d29db2c5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492693151054430218",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:09:40.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\ni hear donK",
+      "author": {
+        "id": "353539148507774977",
+        "name": "whosay8888",
+        "discriminator": "0000",
+        "nickname": "who",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/353539148507774977/134412a5c43defd89ed9f9838febd6db.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492693805466652702",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:12:16.133+00:00",
+      "timestampEdited": "2026-04-12T22:18:39.905+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nClearly says \"donk\"\n\nhttps://youtu.be/v0-0BDYKLUg?t=19356\n\nBased on the rules; \"Any usage of the term, regardless of context, will count toward the resolution of this market.\"\n\nRegarding scout's argument, this is the real pronunciation of \"donk\"; https://youtu.be/U5R9FgsFtNs?si=1agAjXt3w5KXU0zK&t=4\n\nThis is a clear yes.",
+      "author": {
+        "id": "1242538292038074479",
+        "name": "kafkaj",
+        "discriminator": "0000",
+        "nickname": "kafka",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1242538292038074479/c85c13715fe013292ad64ca695923c9f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Astralis vs. FUT - PGL Bucharest 2026 - Playoffs: Grand Final",
+          "url": "https://www.youtube.com/watch?v=v0-0BDYKLUg&start=19356",
+          "timestamp": null,
+          "description": "PGL Bucharest 2026 – Counter-Strike 2 (CS2)\n\n\uD83D\uDCC5 April 4–11, 2026\n\uD83D\uDCCD Bucharest, Romania \n\uD83C\uDFDF️ PGL Studios\n\uD83D\uDCB0 $1,250,000 \n\uD83C\uDFAE 16 Top Teams\n\nParticipating Teams\n\nPARIVISION\nThe MongolZ\nAstralis\nFaZe\nFUT\nNRG\nB8\n3DMAX\nLegacy\nBC.Game\n…",
+          "color": "#FF0000",
+          "author": {
+            "name": "PGL",
+            "url": "https://www.youtube.com/channel/UC5jpxDZx4yoBo324pMQ91Ww"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kAk_ihMk3VyAZurl17Q_Bla9UEEwRCU_3UrUyhMByfM/https/i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19356",
+            "canonicalUrl": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19356",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDCC5",
+              "code": "date",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4c5.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCCD",
+              "code": "round_pushpin",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cd.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFDF️",
+              "code": "stadium",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3df.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCB0",
+              "code": "moneybag",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b0.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFAE",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        },
+        {
+          "title": "Best of donk in 2025 | CS2",
+          "url": "https://www.youtube.com/watch?v=U5R9FgsFtNs&start=4",
+          "timestamp": null,
+          "description": "Here's a compilation of donk's best 2025 highlights in CS2 pro and faceit matches.\n\nFollow me on Twitter:\nhttps://twitter.com/flvshi\n\nCredits:\nhttps://www.twitch.tv/eslcs\nhttps://www.twitch.tv/blastpremier\nhttps://www.hltv.org/\n\n#cs2",
+          "color": "#FF0000",
+          "author": {
+            "name": "flvshie",
+            "url": "https://www.youtube.com/channel/UCsrnxV1nJcfh9BdA8Rmi33w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Cyw2hmkHrkCYR8zIEM6o1ODcbPKFxOuHZgVnsF8dx_A/https/i.ytimg.com/vi/U5R9FgsFtNs/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/U5R9FgsFtNs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/U5R9FgsFtNs?start=4",
+            "canonicalUrl": "https://www.youtube.com/embed/U5R9FgsFtNs?start=4",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492696364725965022",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:22:26.308+00:00",
+      "timestampEdited": "2026-04-12T09:08:02.752+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 YES\n\nDonk was said clearly with sharp «k» at the end. There is no «t» sound at all, the word was said quick and in one go, without any pause before «k», but with the pause after. P1 side also tries to use arguments about context, it has no bearing, player doesnt need to be present to get mentioned.\n\n\"donk\" strike was offered to be included in the market by MikeMNM. He confirmed that it was meant to be the famous CS player \"donk\" and that it sounds the way it should sound.",
+      "author": {
+        "id": "1331809293670027308",
+        "name": "nifrml",
+        "discriminator": "0000",
+        "nickname": "aaasder",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1331809293670027308/007c8a4b3b5627d845893900fb61544b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492697569678065704",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:27:13.591+00:00",
+      "timestampEdited": "2026-04-12T23:46:45.95+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 NO\n\nI changed my mind after reading Oxy's post, he wanted to say \"Dont Get\" which is often quickly pronounced as \"donk\"",
+      "author": {
+        "id": "1178665239173140504",
+        "name": "car_poly",
+        "discriminator": "0000",
+        "nickname": "Car",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1178665239173140504/4323f26f4510189c1bd2be238f76eafd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492697775610134569",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:28:02.689+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 Yes\n\nSeems pretty clear that he says \"Donk\" to me. He says \"don't\" later on in the same sentence and it sounds completely different. Context is iffy tho. Caster probably jumbled up his words. It is also possible he wanted to talk about another player but accidentally called them Donk (this is more far-fetched but technically possible lol). At the end of the day, I heard \"donk\" pronounced the same way other announcers have said \"donk\" in the past.",
+      "author": {
+        "id": "434455101000646676",
+        "name": "rustic4216",
+        "discriminator": "0000",
+        "nickname": "RUSTIC",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/434455101000646676/113479f53206196b7699a225b89ea317.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492698204523991090",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:29:44.95+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 No, obviously,",
+      "author": {
+        "id": "424567831657709594",
+        "name": "lonfus",
+        "discriminator": "0000",
+        "nickname": "Lonfus",
+        "color": "#64A4AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1331340773643260047",
+            "name": "Proposooors",
+            "color": "#64A4AD",
+            "position": 27
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/424567831657709594/2411d01c7db7a55226e067197e1006ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492698438700105728",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:30:40.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 Yes\n\nIt might not of been intended but it definitely has a distinct donk mention",
+      "author": {
+        "id": "213149404142501888",
+        "name": "destinyboobs",
+        "discriminator": "0000",
+        "nickname": "Destiny",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213149404142501888/162c6d26541462113590098706cede22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492702550091370546",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:47:01.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1",
+      "author": {
+        "id": "675645774163607553",
+        "name": "gum5683",
+        "discriminator": "0000",
+        "nickname": "Poorsob",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/675645774163607553/304817f0c8814f7720836b632b81d97b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492705092095311963",
+      "type": "Default",
+      "timestamp": "2026-04-12T01:57:07.075+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\nThe No argument is attempting to convince us that he didn't mean to say it. \nBut 'donk' was said.\nEven if he said it mistakenly said it, it was still said.\nThis market is NOT \"Was donk said intentionally.\nThe rules say:\n\"Any usage of the term, regardless of context, will count toward the resolution of this market.\"\nClear P2",
+      "author": {
+        "id": "1136896126147113000",
+        "name": "jugsbugs",
+        "discriminator": "0000",
+        "nickname": "jugsbugs",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492719239193170062",
+      "type": "Default",
+      "timestamp": "2026-04-12T02:53:20.006+00:00",
+      "timestampEdited": "2026-04-12T03:16:05.41+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 YES \nDONK WAS CLEAR AS DAY\nhe was gonna say dont but said donk.\nas rule say it count regardless of context ,this should be yes",
+      "author": {
+        "id": "744559907944005634",
+        "name": "youaretalkingtogod",
+        "discriminator": "0000",
+        "nickname": "GOD",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/744559907944005634/30e56e694ce9cb7edc848b178b51601a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492727279506427994",
+      "type": "Default",
+      "timestamp": "2026-04-12T03:25:16.966+00:00",
+      "timestampEdited": "2026-04-15T12:20:21.55+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Should go P1 this time after a convincing victory in R1. Thonker also brings up a good point that the context clause likely isn't meant to apply to this situation. \n\n~~**P2 Yes**\n\nSounds like a clear \"donk\" at the disputed timestamp. I'd encourage just listening to the clip in question and judging for yourself.\n\nA clear mention should count even if it's weird in context.~~",
+      "author": {
+        "id": "252215153305583616",
+        "name": "aenews",
+        "discriminator": "0000",
+        "nickname": "aenews",
+        "color": "#FC6CEF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776991186618941511",
+            "name": "Developer",
+            "color": null,
+            "position": 38
+          },
+          {
+            "id": "1255620223482986537",
+            "name": "Truthooors",
+            "color": "#FC6CEF",
+            "position": 30
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/252215153305583616/12ef7af59025a0e974d19936675602d8.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492746159976878234",
+      "type": "Default",
+      "timestamp": "2026-04-12T04:40:18.421+00:00",
+      "timestampEdited": "2026-04-12T06:42:04.938+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "p1, weird pronunciation of don't.\n\nwhy use other people's pronounciations when we literally have the same caster (dinko) saying donk:\n\nhttps://www.youtube.com/live/5dwJq533WXM?t=17099\n\nsounds more like donkey the correct way he pronounces it in my view, which i try to but can't hear as clear as in the clip above\n\nalso: see scout's argument",
+      "author": {
+        "id": "270322289256562688",
+        "name": "muri.",
+        "discriminator": "0000",
+        "nickname": "chiwawinha",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270322289256562688/d170f06ce431c7c81c345bee7c7d5674.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Team Spirit vs. Team Falcons - IEM Katowice 2024 - Semifinal",
+          "url": "https://www.youtube.com/live/5dwJq533WXM?t=17099",
+          "timestamp": null,
+          "description": "The best way to watch Counter-Strike:http://esl.gg/FaceItWatchYTJoin the discussion:http://www.twitter.com/eslcshttp://www.facebook.com/eslcshttp://www.insta...",
+          "author": {
+            "name": "ESL Counter-Strike",
+            "url": "https://www.youtube.com/@ESLCS"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6XjCFUEapclNOmo9nscoyedzvrFYUykHFWriQtpsVHs/https/i.ytimg.com/vi/5dwJq533WXM/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/5dwJq533WXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/5dwJq533WXM?start=17099",
+            "canonicalUrl": "https://www.youtube.com/embed/5dwJq533WXM?start=17099",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492755721635233912",
+      "type": "Default",
+      "timestamp": "2026-04-12T05:18:18.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nDoesn't really matter what the guy *intended to say*, it's a mention market and this mf pronounced \"donk\" perfectly LOL.",
+      "author": {
+        "id": "356548985235963915",
+        "name": "mebeim",
+        "discriminator": "0000",
+        "nickname": "mebeim",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/356548985235963915/4ba10200d7c82be5ecdbf1960382e608.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492770144731005079",
+      "type": "Default",
+      "timestamp": "2026-04-12T06:15:36.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 NO\nAenews bought NO but suggesting yes, just so much fun, this is gonna be another epic scam\nGood luck everyone",
+      "author": {
+        "id": "964053839315619872",
+        "name": "theboybilly",
+        "discriminator": "0000",
+        "nickname": "EvilBoyBilly",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/964053839315619872/b7a19973f6db702e60ef145cb7bc4b42.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492779934769483776",
+      "type": "Default",
+      "timestamp": "2026-04-12T06:54:30.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "clear P1",
+      "author": {
+        "id": "260071956177485834",
+        "name": "wynn0747",
+        "discriminator": "0000",
+        "nickname": "Wynn",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260071956177485834/01689895e9ecc2a6bb199a6de75cba11.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492787796732149760",
+      "type": "Default",
+      "timestamp": "2026-04-12T07:25:45.397+00:00",
+      "timestampEdited": "2026-04-12T11:12:01.44+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES\nDonk pronounced\n\nIts quite obvious to hear the don-ke, with emphasis on the 'ke' sound at the end of the word when pronounced at first and it sounds apparently different to the second time he says 'don't' - the pronunciation of the 'o' in each case is different. First is donk, second is don't",
+      "author": {
+        "id": "547526451210092564",
+        "name": "camal_",
+        "discriminator": "0000",
+        "nickname": "Camal",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/547526451210092564/7451573e47525d9e7dca31f6df0a426c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492818001999827004",
+      "type": "Default",
+      "timestamp": "2026-04-12T09:25:46.894+00:00",
+      "timestampEdited": "2026-04-12T09:37:34.367+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1\n\n@chiwawinha sums it up well. Clear flub of don't which he immediately cuts off. This is obvious on its own, but it's made more apparent by the o sound, which is different from how \"donk\" has been pronounced by the same caster, Dinko, as well as other casters.\n\nhttps://www.youtube.com/watch?v=87ksLFu1Hb4\n\nhttps://youtu.be/DV-R2rA2hvY\n\nThe o here is much closer to the one used in the second video I've linked than the first. The Scott Kupor analogy is also good.",
+      "author": {
+        "id": "1405573409542504521",
+        "name": "petedrunkseth",
+        "discriminator": "0000",
+        "nickname": "Pete Hegseth's DUI",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1405573409542504521/452fb599aa8fa491786cf4125accd54c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Pronounce Donkey (Real Life Examples!)",
+          "url": "https://www.youtube.com/watch?v=87ksLFu1Hb4",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "American Pronunciation Guide",
+            "url": "https://www.youtube.com/channel/UCM-DM3FXN520SaDa9RTK_Mw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xktRH5j_owNqCstYV-3Uwm4TAfjKqR0YS8kUPfPHYyM/https/i.ytimg.com/vi/87ksLFu1Hb4/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/87ksLFu1Hb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/87ksLFu1Hb4",
+            "canonicalUrl": "https://www.youtube.com/embed/87ksLFu1Hb4",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        },
+        {
+          "title": "How to pronounce DON'T in American English",
+          "url": "https://www.youtube.com/watch?v=DV-R2rA2hvY",
+          "timestamp": null,
+          "description": "This video shows you how to pronounce DON'T in American English. Speaker has an accent from Ames, Iowa. https://www.collinsdictionary.com/us/dictionary/english/don't. Collins Dictionary, the home of living English and pioneers of dictionary publishing: https://www.collinsdictionary.com",
+          "color": "#FF0000",
+          "author": {
+            "name": "English with Collins Dictionary",
+            "url": "https://www.youtube.com/channel/UCzQwDYYZ44evRH0_64Q5Vag"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mWISQrM8MvN3s7zC4PUPtf4ZKETSi6jIMCtAQfT7_Ck/https/i.ytimg.com/vi/DV-R2rA2hvY/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/DV-R2rA2hvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/DV-R2rA2hvY",
+            "canonicalUrl": "https://www.youtube.com/embed/DV-R2rA2hvY",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "270322289256562688",
+          "name": "muri.",
+          "discriminator": "0000",
+          "nickname": "chiwawinha",
+          "color": "#546E7A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1262065548171411586",
+              "name": "verified",
+              "color": "#546E7A",
+              "position": 25
+            },
+            {
+              "id": "896804657580638219",
+              "name": "Umans",
+              "color": "#546E7A",
+              "position": 24
+            },
+            {
+              "id": "1461050127434256518",
+              "name": "Level 5+",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1133156870715101345",
+              "name": "Disputooors",
+              "color": "#546E7A",
+              "position": 20
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270322289256562688/d170f06ce431c7c81c345bee7c7d5674.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492837992065142944",
+      "type": "Default",
+      "timestamp": "2026-04-12T10:45:12.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P1 No**\n\nThe commentator said “they don’t get” fast with a stutter in a way that can be perceived as “Donk”. \n\nHowever it can be reasonably concluded based on context and when he repeats the sentence right after that the intention was “Don’t” and not the name of the E-Sports player “Donk”.",
+      "author": {
+        "id": "1345112860564394074",
+        "name": "usernamethr33",
+        "discriminator": "0000",
+        "nickname": "username3",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345112860564394074/e7c7f8a99439534c24efdc5399cfe7d9.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1492837991432065034",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1492837991432065034/ScreenRecording_04-11-2026_19-25-52_1.mov?ex=6a3fa9b8&is=6a3e5838&hm=faa44594819031e19a6123c916403d141744f16331d7e0832748f6c3c390c22b&",
+          "fileName": "ScreenRecording_04-11-2026_19-25-52_1.mov",
+          "fileSizeBytes": 2608268
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492886184559509796",
+      "type": "Default",
+      "timestamp": "2026-04-12T13:56:42.883+00:00",
+      "timestampEdited": "2026-04-13T00:21:08.479+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - yes\n\nClearly says \"donk\" in this clip. What he meant to say is irrelevant to the market. We resolve based on the sound pronounced just like previous markets i.e. Khamenei market resolutions when Trump mispronounced those resolved based on the audio not the context. Not sure why they are trying to twist it the other way around now.",
+      "author": {
+        "id": "96922286082240512",
+        "name": "dark_souls2",
+        "discriminator": "0000",
+        "nickname": "Sid",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96922286082240512/5dd603c7285ca17d40dd9947f04376f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492903714007158825",
+      "type": "Default",
+      "timestamp": "2026-04-12T15:06:22.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 YES\n\nThe difference between the commentator saying “don’t” and “donk” is clear",
+      "author": {
+        "id": "754443283714801745",
+        "name": "rec229637",
+        "discriminator": "0000",
+        "nickname": "Tilts",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754443283714801745/270d2d6acf42dd7acacfd981997c1b7f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1492903712795000853",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1492903712795000853/ScreenRecording_04-11-2026_19-25-52_1.mov?ex=6a3f3e2d&is=6a3decad&hm=d6447f6f9084046aafda3bef7ee55fa55b60cf11efa35fdc43e81fec6ece00aa&",
+          "fileName": "ScreenRecording_04-11-2026_19-25-52_1.mov",
+          "fileSizeBytes": 369025
+        },
+        {
+          "id": "1492903713226883257",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1492903713226883257/Donk.mov?ex=6a3f3e2e&is=6a3decae&hm=374f26f66de64f2c98ba41fdcb815557741bb77cf6c7d366592495a7d98817aa&",
+          "fileName": "Donk.mov",
+          "fileSizeBytes": 136705
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492917932093739089",
+      "type": "Default",
+      "timestamp": "2026-04-12T16:02:52.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - yes\nThe caster clearly said \"Donk\".\nThe market rules don't determine whether this word was made intentionally or not, let alone whether it applies to any particular player.",
+      "author": {
+        "id": "233686905718439937",
+        "name": "aceofrare",
+        "discriminator": "0000",
+        "nickname": "aceofrare",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/233686905718439937/a_5ef1bee1ef0438c5955871f998119db5.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492921188593307650",
+      "type": "Default",
+      "timestamp": "2026-04-12T16:15:48.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No\n\nThe caster said Don't\ncontext wise, Donk doesnt fit either\nin the same video, it can be heard that the caster re-phrased his sentence afterwords with the same \"don't\" word and it sounds the same",
+      "author": {
+        "id": "824919967441879040",
+        "name": "ducpl",
+        "discriminator": "0000",
+        "nickname": "duc",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/824919967441879040/5b5ec17ac10107f51c6574d99eadd13f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492957768750202891",
+      "type": "Default",
+      "timestamp": "2026-04-12T18:41:09.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well he said 'donk' in the way Donk is pronounced, but he clearly wanted to say 'don'get': [don't get] but dropping the t in a pretty common way.\n\nThen again: the strike is for Donk with a capital letter: the name of a player. Don't really see the argument for the player name being said here by the caster. So I think it should go P2 No.",
+      "author": {
+        "id": "965782230666461204",
+        "name": "oxymirin",
+        "discriminator": "0000",
+        "nickname": "Oxymirin",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/965782230666461204/36b8bc60bcbcafbd0890ead9dedefae6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1492959582887088311",
+      "type": "Default",
+      "timestamp": "2026-04-12T18:48:22.408+00:00",
+      "timestampEdited": "2026-04-12T21:48:17.437+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nVoters, listen to the 10 second clip. If you hear \"donk\" then vote P2, if you don't hear \"donk\" then vote P1. Seems fine in context. But no guesswork about context or intention. Did he say the word or not?\n\nhttps://www.youtube.com/watch?v=v0-0BDYKLUg&t=19356s\n\n\"donk\" is short for \"donkey\" (common slang for a bad player). Donk is a player's name and it sounds exactly how you think, first syllable of donk-ey.",
+      "author": {
+        "id": "529922957733003264",
+        "name": "whamapajama",
+        "discriminator": "0000",
+        "nickname": "whamapajama",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/529922957733003264/b046a65af86fe0ee7154850851b75e38.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Astralis vs. FUT - PGL Bucharest 2026 - Playoffs: Grand Final",
+          "url": "https://www.youtube.com/watch?v=v0-0BDYKLUg&start=19356",
+          "timestamp": null,
+          "description": "PGL Bucharest 2026 – Counter-Strike 2 (CS2)\n\n\uD83D\uDCC5 April 4–11, 2026\n\uD83D\uDCCD Bucharest, Romania \n\uD83C\uDFDF️ PGL Studios\n\uD83D\uDCB0 $1,250,000 \n\uD83C\uDFAE 16 Top Teams\n\nParticipating Teams\n\nPARIVISION\nThe MongolZ\nAstralis\nFaZe\nFUT\nNRG\nB8\n3DMAX\nLegacy\nBC.Game\n…",
+          "color": "#FF0000",
+          "author": {
+            "name": "PGL",
+            "url": "https://www.youtube.com/channel/UC5jpxDZx4yoBo324pMQ91Ww"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kAk_ihMk3VyAZurl17Q_Bla9UEEwRCU_3UrUyhMByfM/https/i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/v0-0BDYKLUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19356",
+            "canonicalUrl": "https://www.youtube.com/embed/v0-0BDYKLUg?start=19356",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": [
+            {
+              "id": "",
+              "name": "\uD83D\uDCC5",
+              "code": "date",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4c5.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCCD",
+              "code": "round_pushpin",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4cd.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFDF️",
+              "code": "stadium",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3df.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83D\uDCB0",
+              "code": "moneybag",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b0.svg"
+            },
+            {
+              "id": "",
+              "name": "\uD83C\uDFAE",
+              "code": "video_game",
+              "isAnimated": false,
+              "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3ae.svg"
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493004651434479858",
+      "type": "Default",
+      "timestamp": "2026-04-12T21:47:27.587+00:00",
+      "timestampEdited": "2026-04-12T21:59:47.073+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nEven if announcer stuttered / weird context, market is about if “donk” was said (mention in videos listed above)",
+      "author": {
+        "id": "1461119654654115911",
+        "name": "zzzzzzzzz55555zzzzzz",
+        "discriminator": "0000",
+        "nickname": "z",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493007282881957918",
+      "type": "Default",
+      "timestamp": "2026-04-12T21:57:54.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 – Yes**\n\nClear and audible mention of 'Donk'. It wasn't his intention based on the context, however the word was pronounced clearly.",
+      "author": {
+        "id": "187208622478983168",
+        "name": "im.hydro",
+        "discriminator": "0000",
+        "nickname": "hydro",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/187208622478983168/e26779aaef382f72ccc7d47fd00c88f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493072320212762675",
+      "type": "Default",
+      "timestamp": "2026-04-13T02:16:21.081+00:00",
+      "timestampEdited": "2026-04-13T08:57:28.422+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 - Yes**\n\nhttps://www.youtube.com/watch?v=v0-0BDYKLUg&t=19356s\n\nOne only needs to listen to the clip themselves.\n\n**Does Context Matter?**\n\nFrom the rules, \"any usage of the term, regardless of context, will count toward the resolution of this market.\"\n\nAnd to address an earlier (and incorrect) precedent argument, the Khamenei precedent literally establishes that context does NOT matter (Trump intended to say Khamenei but the market still went no), and hence context does NOT apply here.\n\n**Was Donk Pronounced Correctly?**\n\nAn earlier argument argues that this is not the correct pronunciation of Donk, the player. This is false: below you can find many instances where Donk is pronounced the same as how the caster said it in the qualifying clip:\n\nhttps://www.youtube.com/shorts/OqJpSBRHSQg\n\n**Can you audibly hear \"Don't Get\" instead of \"Donk\"?**\n\nAgain, please listen to the qualifying clip. To those who say that \"Don't Get\" is quickly mispronounced of \"Donk\", try mispronuncing \"Don't Get\" yourself - I find it hard to believe that you can get what the caster said, without going out of your way to audibly say \"Donk\", which the caster ultimately did.\n\n**Ultimately:**\n\n1) context does not matter\n\n2) Donk is said and pronounced in a qualifying manner",
+      "author": {
+        "id": "705797414728237156",
+        "name": "cylex_x",
+        "discriminator": "0000",
+        "nickname": "cylex",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705797414728237156/01b05ab99ead7de6cf3c92a2ad5cbb21.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493074540488556655",
+      "type": "Default",
+      "timestamp": "2026-04-13T02:25:10.436+00:00",
+      "timestampEdited": "2026-04-13T02:27:22.49+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2\n\n\"Donk\" was audibly said. \n\nThe only argument against this fact is that it was not intentional, which is irrelevant. There's a strong precedence for unintentional mentions and even mispronunciations and words not completed counting so this case were the word is clearly said in full must go Y to uphold precedence.\n\nAnother example of words counting despite being unintentional is \"Inflation\", which was settled as Y even despite the word not being completed before being corrected to unemployment.",
+      "author": {
+        "id": "590445545202647047",
+        "name": "gr33dy.eth",
+        "discriminator": "0000",
+        "nickname": "Scout",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590445545202647047/dca6e60adf9474aa303fad5533d01ee8.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493074540086165605",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493074540086165605/inflat-uh_sorry_unemployment.mp3?ex=6a3f3486&is=6a3de306&hm=009f6b491111a85551273986b1656d3b7deeb48a6af0b0c72384cd92687d3121&",
+          "fileName": "inflat-uh_sorry_unemployment.mp3",
+          "fileSizeBytes": 40542
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493096837601824898",
+      "type": "Default",
+      "timestamp": "2026-04-13T03:53:46.482+00:00",
+      "timestampEdited": "2026-04-13T03:54:38.317+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nDonk with K at the end was said.",
+      "author": {
+        "id": "212372343383654401",
+        "name": "xavert",
+        "discriminator": "0000",
+        "nickname": "xavert",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/212372343383654401/5aebac8a6ef5c8653148a49630231c79.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493165326358282301",
+      "type": "Default",
+      "timestamp": "2026-04-13T08:25:55.474+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Our [voting committees](<https://github.com/UMA-rocks/voting-committees>) are currently reviewing this dispute, we will edit this comment once they have made their final decision.\n\n_Disclaimer: This post is for informational purposes only. We encourage all voters to do their own due diligence and to vote independently based on what they believe to be correct._",
+      "author": {
+        "id": "1241683881690796084",
+        "name": "uma.rocks",
+        "discriminator": "0000",
+        "nickname": "UMA.rocks",
+        "color": "#FC6CEF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1255620223482986537",
+            "name": "Truthooors",
+            "color": "#FC6CEF",
+            "position": 30
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1241683881690796084/55e5bbfdb0ae2a58dda8bd5ad5aa36f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493172423363788860",
+      "type": "Default",
+      "timestamp": "2026-04-13T08:54:07.532+00:00",
+      "timestampEdited": "2026-04-13T09:19:43.481+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1\n\nPartial/incomplete pronunciation doesn’t count. “donk” doesn’t fit the intend or context here. The announcer said don’t without the t and mixed with whatever next word. Even from the sentence prior, he said “let’s think,” but it also sounds like “let stink.”",
+      "author": {
+        "id": "1193678497323958333",
+        "name": "okayway1",
+        "discriminator": "0000",
+        "nickname": "OKAYWAY1",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493205679089913926",
+      "type": "Default",
+      "timestamp": "2026-04-13T11:06:16.315+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1",
+      "author": {
+        "id": "1271468218137182281",
+        "name": "scriptlin_55968",
+        "discriminator": "0000",
+        "nickname": "ScriptLin",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1271468218137182281/426f10b01fb4e69b866190f54fa82fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493231655136264432",
+      "type": "Default",
+      "timestamp": "2026-04-13T12:49:29.487+00:00",
+      "timestampEdited": "2026-04-13T12:49:34.942+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES .",
+      "author": {
+        "id": "1084065446887694416",
+        "name": "spirit_lt",
+        "discriminator": "0000",
+        "nickname": "Spirit",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1084065446887694416/a266b55c35da82fb2bb64a3845aac723.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493418218197356595",
+      "type": "Default",
+      "timestamp": "2026-04-14T01:10:49.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 yes",
+      "author": {
+        "id": "228152604406972417",
+        "name": "mysterious884",
+        "discriminator": "0000",
+        "nickname": "Z",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228152604406972417/5a9bff17412c06ace3d0f9ce91398692.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493418217455227162",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493418217455227162/IMG_5469.png?ex=6a3f2319&is=6a3dd199&hm=cff161129db228a1c3268912ba71ffa6ba66ace7f2b10769e42db0f94bd09306&",
+          "fileName": "IMG_5469.png",
+          "fileSizeBytes": 175074
+        },
+        {
+          "id": "1493418218008871013",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493418218008871013/image.png?ex=6a3f2319&is=6a3dd199&hm=5465404fe767bd006ca761405fe709aa4ce755b0717248a265b435d12ac8bd94&",
+          "fileName": "image.png",
+          "fileSizeBytes": 111370
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493598696280035350",
+      "type": "Default",
+      "timestamp": "2026-04-14T13:07:58.915+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1",
+      "author": {
+        "id": "730251773335437383",
+        "name": "saurabh6786",
+        "discriminator": "0000",
+        "nickname": "lranon",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/730251773335437383/404b7eb74192f5403b624ac293393d7f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493657068824035439",
+      "type": "Default",
+      "timestamp": "2026-04-14T16:59:56.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 - Yes**",
+      "author": {
+        "id": "430439468538003456",
+        "name": "mannyeu",
+        "discriminator": "0000",
+        "nickname": "outcome",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/430439468538003456/b170d5acedb29225ee6f34ca7f4751c7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493713319666913415",
+      "type": "Default",
+      "timestamp": "2026-04-14T20:43:27.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No\n\nThe word was not said",
+      "author": {
+        "id": "407673338194821131",
+        "name": "exxon.com",
+        "discriminator": "0000",
+        "nickname": "Mr Fig",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/407673338194821131/c92e53fa77d9615e06b8d924ca852f60.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493732792432066722",
+      "type": "Default",
+      "timestamp": "2026-04-14T22:00:49.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nThe caster clearly said “donk”. The market rules explicitly state that any usage of the term, regardless of context, will count toward resolution, so arguments about what he meant or the surrounding context are irrelevant here.\n\nOn the actual audio, it’s 100% “donk”, clear consonant at the end and a pronunciation that matches how the name is normally said. This should resolve Yes based on the sound alone.",
+      "author": {
+        "id": "374533137742561283",
+        "name": "orimey",
+        "discriminator": "0000",
+        "nickname": "JustBetter",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/374533137742561283/ddf51b0ae19475d11005a99cb48aa692.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493741417804333314",
+      "type": "Default",
+      "timestamp": "2026-04-14T22:35:06.378+00:00",
+      "timestampEdited": "2026-04-15T10:53:49.632+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - yes",
+      "author": {
+        "id": "722059446460874782",
+        "name": "abelttesfaye",
+        "discriminator": "0000",
+        "nickname": "abel",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722059446460874782/e0ba2effae4ec839bafc0f806e2d2efc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493741417242038353",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493741417242038353/donk_slowed__reverb.mp3?ex=6a3fa75a&is=6a3e55da&hm=9de1ce83d5f10d0ad45c957da4ec05db551ca9bc0fc8fc4c89f05e4bf35a24be&",
+          "fileName": "donk_slowed__reverb.mp3",
+          "fileSizeBytes": 480906
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493742238843273226",
+      "type": "Default",
+      "timestamp": "2026-04-14T22:38:22.129+00:00",
+      "timestampEdited": "2026-04-15T00:26:35.584+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 DONKTARD, THONKTARD, AENEWSTARD, BOSAURUMTARD, DROPPERTARD, EVERYONETARD",
+      "author": {
+        "id": "1178665239173140504",
+        "name": "car_poly",
+        "discriminator": "0000",
+        "nickname": "Car",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1178665239173140504/4323f26f4510189c1bd2be238f76eafd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493748666513752295",
+      "type": "Default",
+      "timestamp": "2026-04-14T23:03:54.605+00:00",
+      "timestampEdited": "2026-04-15T01:06:25.297+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 no stop the scam \nDonk is not clearly heard without mental gymnastics",
+      "author": {
+        "id": "1196310862252757003",
+        "name": "pipsniiper",
+        "discriminator": "0000",
+        "nickname": "Tartarus \uD83D\uDD04",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1196310862252757003/47fb301a12ff08b2a7a32aa7f93955c2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493764826630193255",
+      "type": "Default",
+      "timestamp": "2026-04-15T00:08:07.477+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P1 - NO for Roll #1**\n\nFinal results last round:\np1: 10.6955.37\np2:  6.133.603\n\nIts pretty clear that the Schelling point is p1, as it was just 900k votes away from consensus.\n\nThis is what the announcer said: \"Don't k- they don't get any kill...\"",
+      "author": {
+        "id": "358378704809754636",
+        "name": "dropper2012",
+        "discriminator": "0000",
+        "nickname": "Dropper",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/358378704809754636/fcb3d4e3baa5c122c180873425ec8f0d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493764826156109934",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493764826156109934/Donk.png?ex=6a3f1467&is=6a3dc2e7&hm=8e37b1540c9c4305a9b01eff2f4cc64b86ae0f6260359dcce51ccfc161c5995b&",
+          "fileName": "Donk.png",
+          "fileSizeBytes": 45990
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493770174715924590",
+      "type": "Default",
+      "timestamp": "2026-04-15T00:29:22.56+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 YES. It’s a very clear K sound.\nThe rules explicitly state that context cannot be used, and past precedents strongly support judging without context—just like when it was clearly Khamenei but pronounced Khomeini, the ruling was Khomeini.\n\nSo both the rules and precedents support Yes.\nI’m switching my vote to Yes.",
+      "author": {
+        "id": "790041567187697675",
+        "name": "uma_alan",
+        "discriminator": "0000",
+        "nickname": "UMAVOTE Voting Pool: No ETH fees",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/790041567187697675/57885ccd7de96ade870126d5721a60f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493770954545827850",
+      "type": "Default",
+      "timestamp": "2026-04-15T00:32:28.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 no \n63% for no so rolling should vote no",
+      "author": {
+        "id": "964053839315619872",
+        "name": "theboybilly",
+        "discriminator": "0000",
+        "nickname": "EvilBoyBilly",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/964053839315619872/b7a19973f6db702e60ef145cb7bc4b42.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493771865057919089",
+      "type": "Default",
+      "timestamp": "2026-04-15T00:36:05.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No for the roll\n63.5% Voted P1 for the first round. No facts have changed so we should vote with the majority.",
+      "author": {
+        "id": "792217223501840414",
+        "name": "scout7438",
+        "discriminator": "0000",
+        "nickname": "Scout",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/792217223501840414/390d6adbd3611b68595dce84b4dae2e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493773388538183872",
+      "type": "Default",
+      "timestamp": "2026-04-15T00:42:08.795+00:00",
+      "timestampEdited": "2026-04-15T00:42:40.345+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No for Roll #1\n\nMajority of 63.55% voted P1. Same circumstance as under the first vote. P2 votes in subsequent rounds carry significant risk of slashes.",
+      "author": {
+        "id": "720305732712529931",
+        "name": "laurleo",
+        "discriminator": "0000",
+        "nickname": "Cosmic Cedar",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/720305732712529931/182737b3de5aae52fddd0c7232e10d44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493773853372059698",
+      "type": "Default",
+      "timestamp": "2026-04-15T00:43:59.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "p1 - N for the roll\nnot only was it not clear, but the majority voted p1.",
+      "author": {
+        "id": "585913787388002324",
+        "name": "sonix_1",
+        "discriminator": "0000",
+        "nickname": "Sonix",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/585913787388002324/eb41b7362f1ba55cf5e8a0960fbffad4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493778126109671594",
+      "type": "Default",
+      "timestamp": "2026-04-15T01:00:58.32+00:00",
+      "timestampEdited": "2026-04-15T04:38:31.415+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 Yes\n\nthere is a reason why reroll happened you cant gaslight people into not hearing something the only reason why p1 had so many votes is because of uma.rocks had they voted p2 it would be a p2 by now with no rerolls looking at the stats as well by a voter count a majority voted p2. about the people saying majority of the people voted no so everyone should vote no is a poor argument and people vote p1 or get slashed is a poor arguments and a attempt at marketing manipulation in my opinion",
+      "author": {
+        "id": "761097372108980237",
+        "name": "armanh01",
+        "discriminator": "0000",
+        "nickname": "Arman",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/761097372108980237/b5284744b797abe9f665d5497a9d94a0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493778628658331709",
+      "type": "Default",
+      "timestamp": "2026-04-15T01:02:58.137+00:00",
+      "timestampEdited": "2026-04-15T08:31:28.753+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes",
+      "author": {
+        "id": "708850548312375416",
+        "name": "sixsevenfg",
+        "discriminator": "0000",
+        "nickname": "FinGeek (FoG)",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/708850548312375416/49819d654af3a4913afa4b65670f8a5e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493779909997367397",
+      "type": "Default",
+      "timestamp": "2026-04-15T01:08:03.632+00:00",
+      "timestampEdited": "2026-04-15T04:52:56.999+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nEach voting round should exist independently, not just reinforce whatever the previous majority happened to be. In fact, a 63/37 split shows there to be actual disagreement, and using a non-overwhelming majority as the  reason to repeat the same outcome makes no sense. (More people voted p2 btw, they just had less tokens)\n\nIt's possible that some people originally voted a certain way out of fear of being slashed if they went against the herd. Now that the votes are public and perhaps the majority not as strong as they thought, maybe they'll feel more comfortable changing their vote (or maybe they'll all just stick to their previous decision because thats what they strongly believe in, who knows). \n\nLet the voters reevaluate again and vote whatever side they want independently. Resolving based off simple majority sort of defeats the entire system of there being rolls lol",
+      "author": {
+        "id": "434455101000646676",
+        "name": "rustic4216",
+        "discriminator": "0000",
+        "nickname": "RUSTIC",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/434455101000646676/113479f53206196b7699a225b89ea317.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493784627175755826",
+      "type": "Default",
+      "timestamp": "2026-04-15T01:26:48.295+00:00",
+      "timestampEdited": "2026-04-15T12:34:29.335+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nThe person clearly said \"donk\" bad actors are trying to manipulate the market.\n\nignore talk of slashing, these people want you voting against reality to protect reckless whales.",
+      "author": {
+        "id": "96922286082240512",
+        "name": "dark_souls2",
+        "discriminator": "0000",
+        "nickname": "Sid",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/96922286082240512/5dd603c7285ca17d40dd9947f04376f0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493784911507881994",
+      "type": "Default",
+      "timestamp": "2026-04-15T01:27:56.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P1 No** for Rolled Vote\n\nWhile I personally hear the “donk”, this was pretty debatable either way and last round was 10.7M P1 to 6.1M P2 (Required: 11.6M Consensus). There is no reason to vote anything but P1 this round since it is by far the winner of last round (92.4% of consensus). There is also no precedent for overruling a near-consensus vote when there are no concerns about the resolution (both sides have merit) and no important discovered information.",
+      "author": {
+        "id": "252215153305583616",
+        "name": "aenews",
+        "discriminator": "0000",
+        "nickname": "aenews",
+        "color": "#FC6CEF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776991186618941511",
+            "name": "Developer",
+            "color": null,
+            "position": 38
+          },
+          {
+            "id": "1255620223482986537",
+            "name": "Truthooors",
+            "color": "#FC6CEF",
+            "position": 30
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/252215153305583616/12ef7af59025a0e974d19936675602d8.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493784911214149683",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493784911214149683/Screenshot_2026-04-14_165049.png?ex=6a3f271c&is=6a3dd59c&hm=ea91977afa2161436af11b3e03f151b7bb06066d07bd1561b47897487237b223&",
+          "fileName": "Screenshot_2026-04-14_165049.png",
+          "fileSizeBytes": 83299
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493800041490677952",
+      "type": "Default",
+      "timestamp": "2026-04-15T02:28:03.354+00:00",
+      "timestampEdited": "2026-04-15T02:53:44.782+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 — Yes? for Rolled Vote (devil's advocate)**\n\nMaybe \"Scott Ku- Wait!\" really should count as a mention of Kuwait.\n\nMaybe \"He plays the trump- he plays the tuba I mean\" really should count as a mention of Trump.\n\nMaybe \"I guess D- I guess Donald Trump wasn't bluffing\" really should count as a mention of \"guessed.\"",
+      "author": {
+        "id": "570563844678877196",
+        "name": "7h0nk3r",
+        "discriminator": "0000",
+        "nickname": "Thonker",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570563844678877196/a_86d5f3520c359b1f5b859321def1213b.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493820252587556885",
+      "type": "Default",
+      "timestamp": "2026-04-15T03:48:22.055+00:00",
+      "timestampEdited": "2026-04-15T03:48:56.739+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P1 No for Rolled Vote**\n\nMajority voted No last round.\n\nThe commentator said “they don’t get” fast with a stutter in a way that can be perceived as “Donk”. \n\nHowever it can be reasonably concluded based on context and when he repeats the sentence right after that the intention was “Don’t” and not the name of the E-Sports player “Donk”.",
+      "author": {
+        "id": "1345112860564394074",
+        "name": "usernamethr33",
+        "discriminator": "0000",
+        "nickname": "username3",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1345112860564394074/e7c7f8a99439534c24efdc5399cfe7d9.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493820252222656694",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493820252222656694/ScreenRecording_04-11-2026_19-25-52_1.mov?ex=6a3f4805&is=6a3df685&hm=ffd59b286759a5b516ea81b0a2ab11314531aa67d344b92c486a229447684891&",
+          "fileName": "ScreenRecording_04-11-2026_19-25-52_1.mov",
+          "fileSizeBytes": 2608268
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493831949633191987",
+      "type": "Default",
+      "timestamp": "2026-04-15T04:34:50.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update on voting results for previous rounds:\n```\n1st vote:\nVote            Voters       % of stake\nNo-P1           246          60.1\nYes-P2          376          34.5\n```\nA majority consensus > 65% is required for a dispute to resolve. \n\nSee UMA docs FAQs for more information on rolled votes:\nhttps://docs.uma.xyz/protocol-overview/dvm-2.0#rolled-votes",
+      "author": {
+        "id": "704876505800638476",
+        "name": "pumpedlunch",
+        "discriminator": "0000",
+        "nickname": "Lee | RL",
+        "color": "#FF4A4A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1123485195694256158",
+            "name": "Risk Labs",
+            "color": "#FF4A4A",
+            "position": 51
+          },
+          {
+            "id": "1278379489012875337",
+            "name": "Tix Admin",
+            "color": "#E91E63",
+            "position": 44
+          },
+          {
+            "id": "776991186618941511",
+            "name": "Developer",
+            "color": null,
+            "position": 38
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1092390133703122984",
+            "name": "delegated voter",
+            "color": "#E74C3C",
+            "position": 21
+          },
+          {
+            "id": "1418721466215694376",
+            "name": "ThreadOOr",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704876505800638476/6fc9f8d43a9790dd9165dbffb4c8ce5f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493878359959277579",
+      "type": "Default",
+      "timestamp": "2026-04-15T07:39:15.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 YES\n\nAs aenews said we should count mention without context\n\n**Stop copyvoting what umarocks post**\n\n** DONK is clear in it**\n**have some theory on your own**",
+      "author": {
+        "id": "744559907944005634",
+        "name": "youaretalkingtogod",
+        "discriminator": "0000",
+        "nickname": "GOD",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/744559907944005634/30e56e694ce9cb7edc848b178b51601a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493878359996891216",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493878359996891216/image.png?ex=6a3f7e23&is=6a3e2ca3&hm=ca29aa374d93d9e90f0298be878c27b0533c6c04502eaea4a66a1df822874403&",
+          "fileName": "image.png",
+          "fileSizeBytes": 31798
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493886183997182042",
+      "type": "Default",
+      "timestamp": "2026-04-15T08:10:21.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1",
+      "author": {
+        "id": "428680615064240130",
+        "name": "xy5831",
+        "discriminator": "0000",
+        "nickname": "xy",
+        "color": "#FC6CEF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1255620223482986537",
+            "name": "Truthooors",
+            "color": "#FC6CEF",
+            "position": 30
+          },
+          {
+            "id": "1331340773643260047",
+            "name": "Proposooors",
+            "color": "#64A4AD",
+            "position": 27
+          },
+          {
+            "id": "832545334966222849",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 26
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428680615064240130/a_7dca7a73bfda2a72d1687cb6cdf8b8d0.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493911231780749415",
+      "type": "Default",
+      "timestamp": "2026-04-15T09:49:53.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES\n\nRules clearly state out of context words count.\nHe quite clearly said donk with a K.\nNo phonetics argument could convince me that that was a Dont rather than a Donk.\n\nHe didnt mean to say Donk - but he did. This should resolve to yes.",
+      "author": {
+        "id": "591692792078532608",
+        "name": "monkeman4596",
+        "discriminator": "0000",
+        "nickname": "Small Yahu",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/591692792078532608/6c747ba578d9c1ceb98d2ec8e2ac8610.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493918260054196327",
+      "type": "Default",
+      "timestamp": "2026-04-15T10:17:48.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes",
+      "author": {
+        "id": "1237324338651467778",
+        "name": "0xcow_50711",
+        "discriminator": "0000",
+        "nickname": "Limit Buy Up Failed",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1237324338651467778/44062ee86e6f214e0b97c64b2a77ffa5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493941526936682557",
+      "type": "Default",
+      "timestamp": "2026-04-15T11:50:16.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nPeople are asking you to trust mental gymnastics rather than your own senses (ears) with fear of slashing as a motivator\n\nListen to the clip. A clear \"donk\" with a hard K. This is not ambiguous.\n\nThe rules say it themselves: \"Any usage of the term, regardless of context, will count toward the resolution of this market.\" \n\n375 individual voters heard the clip in Round 1 and voted YES. 247 voted NO. The majority of human beings who actually listened said YES.\nSo why didn't it resolve YES? Because the NO side has more tokens. That's the entire reason.\n\nNow I need every UMA holder to read what is happening in this thread, because the future of this protocol is being decided right now, not by the evidence, but by fear.\n----\nA Verifier in this thread wrote and I quote — \"While I personally hear the 'donk'\" and then voted NO. Why? Because the larger stake was on NO and they were afraid of getting slashed.\n\nAnother participant wrote that \"P2 votes in subsequent rounds carry significant risk of slashes.\" That's not an argument about audio evidence. That's a threat.\n\nA third said to \"vote with the majority\" not with the majority of voters, who voted YES — but the majority of tokens.\n\nRead those again. These are people telling you, in writing, that they believe the answer is YES but they are voting NO because a whale is on the other side.\n\nThis is the moment UMA either proves it works or proves it doesn't.\n----\nUMA's entire value proposition — the reason any of your tokens are worth anything — is that the oracle resolves on **truth**. That's the promise. That's **the Schelling point.** __That's what makes UMA worth more than zero.__\n\nIf this dispute resolves NO: Not because NO is correct, but because one large holder has enough weight to scare rational voters away from truth — then what is UMA? It's not an oracle. It's an auction. Whoever holds the most tokens decides reality, and everyone else falls in line out of self-preservation.n\n\nAnd if that's what UMA is, ask yourself: why would Polymarket keep using it? Why would any protocol trust an oracle where evidence doesn't matter and capital decides truth? They won't. They'll build something else or move to a competitor. And when they do, the value of every UMA token you hold goes to zero.\n\nThis is not about one esports market. This is about whether **UMA's Schelling point is truth or money.** And right now, in this thread, you can see it breaking in real time — people publicly stating YES and voting NO out of **fear.**\nThat is textbook oracle corruption.",
+      "author": {
+        "id": "905569281591369788",
+        "name": "yngvi_frey",
+        "discriminator": "0000",
+        "nickname": "Fool",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905569281591369788/e4e82a2443ab113590ebe55b4d877604.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493948279510012034",
+      "type": "Default",
+      "timestamp": "2026-04-15T12:17:06.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 No\n\n63% result No from first round and no further evidence has come to light, nor has there been any polymarket clarification",
+      "author": {
+        "id": "178448582376947712",
+        "name": "j_j_o",
+        "discriminator": "0000",
+        "nickname": "JJo",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/178448582376947712/2be2b1f0a4e9e31084b2be971eea27be.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493949460986986628",
+      "type": "Default",
+      "timestamp": "2026-04-15T12:21:47.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P1 - No** for the rolled vote, no reason to vote against the previous round majority unless you want to get slashed",
+      "author": {
+        "id": "1402971670444245084",
+        "name": "poly.scout",
+        "discriminator": "0000",
+        "nickname": "scout",
+        "color": "#F47FFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "832545334966222849",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 26
+          },
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1402971670444245084/218e4836f78ad341a2b76326961e474d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493951522168639541",
+      "type": "Default",
+      "timestamp": "2026-04-15T12:29:59.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nJust listen to it. Crazy gaslighting going on here.",
+      "author": {
+        "id": "211163771714928641",
+        "name": ".stefan2222",
+        "discriminator": "0000",
+        "nickname": "oracle of omaha",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/211163771714928641/3aa39f8018aa7f8591095ffa858a58da.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493956873714663534",
+      "type": "Default",
+      "timestamp": "2026-04-15T12:51:15.07+00:00",
+      "timestampEdited": "2026-04-15T14:43:57.615+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES\n\nThe resolution criteria are straightforward and should be applied as written.\n\nThe rules explicitly state that any usage of the term counts, regardless of context. This removes the need to interpret intent, meaning, or surrounding sentence structure. The only relevant question is whether the word “Donk” was audibly said.\n\nIn the available clip, the pronunciation includes a clear terminal “k” sound. While some may interpret the phrase differently in context, the rule explicitly eliminates context as a factor. This is therefore not a question of meaning, but of phonetic output.\n\nImportantly, this is not a case of missing evidence — the clip exists and has been reviewed by all participants. The disagreement is not about availability of proof, but about interpretation of what is heard. In such cases, resolution should follow the rule’s simplest and most literal application.\n\nA significant portion of voters (by count) independently identified the word as “Donk,” which further supports that this is not an isolated or unreasonable interpretation.\n\nChoosing “No” requires introducing additional assumptions:\n1)that intent overrides pronunciation\n2)that context should be used despite rules stating otherwise\n3)that an audible “k” can be dismissed\n\nThis adds unnecessary complexity and deviates from the rule’s clear wording.\n\nConclusion:\nSince the rule counts any usage regardless of context, and the clip contains a defensible and audible instance of “Donk,” this market should resolve P2 – Yes.",
+      "author": {
+        "id": "1164271775799058562",
+        "name": "focus.usd",
+        "discriminator": "0000",
+        "nickname": "Vondik",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1164271775799058562/e52a746d3ff628cee71cfcbbd84f1918.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493961601307639878",
+      "type": "Default",
+      "timestamp": "2026-04-15T13:10:02.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nDonk was said clearly in the clip can't really argue anything else",
+      "author": {
+        "id": "213149404142501888",
+        "name": "destinyboobs",
+        "discriminator": "0000",
+        "nickname": "Destiny",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213149404142501888/162c6d26541462113590098706cede22.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493966981030875266",
+      "type": "Default",
+      "timestamp": "2026-04-15T13:31:24.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES\nP1 arguments are ridiculous",
+      "author": {
+        "id": "228152604406972417",
+        "name": "mysterious884",
+        "discriminator": "0000",
+        "nickname": "Z",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/228152604406972417/5a9bff17412c06ace3d0f9ce91398692.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493978529078181908",
+      "type": "Default",
+      "timestamp": "2026-04-15T14:17:18.111+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 – Yes**\n\nHe said the word – resolving otherwise takes far more energy and mental gymnastics to force a different perspective.\n\nThis has turned into a game of voting alongside influential stakers to avoid being slashed, rather than resolving to what happened. Even though more wallets voted for P2, voting for reality carries the risk of being slashed, so keep that in mind.",
+      "author": {
+        "id": "187208622478983168",
+        "name": "im.hydro",
+        "discriminator": "0000",
+        "nickname": "hydro",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/187208622478983168/e26779aaef382f72ccc7d47fd00c88f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493980379269300345",
+      "type": "Default",
+      "timestamp": "2026-04-15T14:24:39.231+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 N",
+      "author": {
+        "id": "1163209505945952367",
+        "name": "adrian110447",
+        "discriminator": "0000",
+        "nickname": "flipadria",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1163209505945952367/c6eefdbd41abb92ded9eff43238b3083.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493986144684085400",
+      "type": "Default",
+      "timestamp": "2026-04-15T14:47:33.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - YES\n\nYou can clearly hear the 'k' sound — that is unambiguously the word 'donk' regardless of the speaker's intent. The market rule is straightforward: **as long as the pronunciation contains that word, it resolves Yes.**\n\nhttps://discord.com/channels/718590743446290492/1492653069429641412/1493942355869306910 There is a very compelling spectrographic analysis supporting this.\n\nBased on the UMA voter count, YES has **more than half the votes (376 > 246)**, which shows that the community is clearly pushing back against big voters trying to control the resolution.\n\n**I think Polymarket should resolve based on the rules and the facts, rather than based on the price being driven up by whales.**",
+      "author": {
+        "id": "1106239634188550205",
+        "name": "huypeter_",
+        "discriminator": "0000",
+        "nickname": "adamsantos",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1106239634188550205/0c99dc1bbe2a2b8bad7d634dc582c64d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1493986144092946505",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493986144092946505/donk_slowed__reverb.mp3?ex=6a3f39c5&is=6a3de845&hm=71c656f24ade1568d38ae4901adee648fdeb6016924dfb505113a1cac45981de&",
+          "fileName": "donk_slowed__reverb.mp3",
+          "fileSizeBytes": 480906
+        },
+        {
+          "id": "1493986144482754754",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1493986144482754754/image.png?ex=6a3f39c5&is=6a3de845&hm=2272f41fd4800cd92755f589d5d1268a3ec0e64c4f4055907d8e1ed9f25ccebc&",
+          "fileName": "image.png",
+          "fileSizeBytes": 42972
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1493990247283822622",
+      "type": "Default",
+      "timestamp": "2026-04-15T15:03:51.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vote p2",
+      "author": {
+        "id": "1371467848442183794",
+        "name": "viniipaquete",
+        "discriminator": "0000",
+        "nickname": "Vini",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1371467848442183794/e2b6835a7adeec98debc8fe0e30e2d1e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494013674631991457",
+      "type": "Default",
+      "timestamp": "2026-04-15T16:36:57.464+00:00",
+      "timestampEdited": "2026-04-15T19:00:44.038+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nSince the \"No\" side is choosing to **FRAUDULENTLY** vote against the physical evidence, we shall let the actual data prevail.\n\n> Obviously... final-obstruent devoicing... into a /k/\n\nThe symbol [ɡ̊] represents a \"voiceless velar plosive,\" which is identical to a [k]. By arguing that the sound \"devoiced,\"  you admit that his vocal cords stopped vibrating and a **voiceless velar stop [k] was produced.** Whether you call it a \"devoiced g\" or a \"k,\" the physical result is the same: **the [k] sound.**\nThis argument also claims the caster uttered the diphthong /oʊ/ (as in \"don't\"). This is **physically impossible**.\nThe caster is [Northern Irish](https://liquipedia.net/counterstrike/Dinko).  In Ulster English, this vowel is typically a steady monophthong. My Praat analysis shows a *steady-state monophthong.* This matches the expected phonetic realization of \"Donk\" in the speaker's native dialect perfectly. To claim he said \"don't\" is to ignore the specific linguistic constraints of Northern Irish phonology, which would require a completely different formant signature than what was originally recorded.\n\n**\"Donk\" was said in isolation with no subject before it. The \"They\" only came later in the correction. The claim that it was a slurred \"don't\" has no ground when there was no sentence structure to slur it into.**\n\n> reasonably concluded... intention was “Don’t”\nIf the claim is that the resolution should be \"No\" because the commentator \"intended\" to say don't, then **YOU ARE VOTING AGAINST THE CLEAR MARKET RULES.** Read the criteria: **\"Regardless of context.\"** The commentator's thoughts, his stutter, and his self-correction are IRRELEVANT to the contract. Voting \"No\" because you have collectively decided the speaker's intent matters more than what was actually said is a bad-faith interpretation of the Polymarket rules.\n\n> no reason to vote against the previous round majority unless you want to get slashed\nThis is not even a factual argument; it's just a threat. They openly admit that the only reason to vote with them is to avoid being slashed, they are admitting the facts are not on their side. Using fear to enforce a \"No\" vote is a desperate attempt to manipulate the Schelling point and create a false precedent.\n\n> Partial/incomplete pronunciation doesn’t count... The announcer said don’t without the t and mixed with whatever next word. \nThe spectrogram shows a sharp voiceless velar release burst. That is not a \"missing t\"... it is a **present k!** Furthermore, /n/ naturally becomes the velar nasal [ŋ] before a [k]. Differentiating \"Dongk\" from \"Donk\" is an outright rejection of basic linguistics. **This is a fully articulated realization of the word.**\n\nEven the top \"No\" holder, aenews, states\n> it sounds like donk to me, but it don't count as donk for the market.\nThis is a confession that the \"No\" side is not voting on what actually happened, but on a secondary narrative they've invented to protect their positions. If a sound \"sounds like Donk,\" and a spectrogram proves it is \"Donk,\" and the rules say \"Regardless of context,\" then it MUST count for the market. To vote \"No\" while admitting the sound exists is a **direct attack on the integrity** of the UMA oracle. It is the definition of a \"bad faith\" resolution.\n\nIf it's a \"dumb market,\" **why** is he so desperate to defend a position that contradicts the spectrographic physics? You don't get to call a market a waste of time while simultaneously gatekeeping the truth. Ultimately, the \"No\" side is trying to rewrite the contract mid-vote. The rules clearly state **\"Regardless of context,\"** which is specifically designed to prevent people from arguing about what a speaker \"meant\" to say.\n\n**Vote on reality. Don't vote to support a SCAM because you didn't care to look at the facts, when they are clearly laid out via image, video, and audio. UMA is a truth machine; it is time that we treat it like one.**",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [
+        {
+          "id": "1494013674904354836",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494013674904354836/spec.png?ex=6a3f5369&is=6a3e01e9&hm=34ca8d15598447e32b14b81d74633a26aa4707a4c716e74856d166cf5a087cbd&",
+          "fileName": "spec.png",
+          "fileSizeBytes": 431598
+        },
+        {
+          "id": "1494013675265069157",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494013675265069157/image.png?ex=6a3f5369&is=6a3e01e9&hm=e05e32ca5d6fd224350431357176819df3183946038ad58cdc6f33511e953e2e&",
+          "fileName": "image.png",
+          "fileSizeBytes": 123908
+        },
+        {
+          "id": "1494013675525378068",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494013675525378068/249b8267-a5a5-463c-b715-8f29b53e2a1c.png?ex=6a3f5369&is=6a3e01e9&hm=d8d68d9abbe91b7c14dc19d24953a6ee536387e46dd706f1eb9c322f05cc865b&",
+          "fileName": "249b8267-a5a5-463c-b715-8f29b53e2a1c.png",
+          "fileSizeBytes": 41576
+        },
+        {
+          "id": "1494013675785158717",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494013675785158717/Track_1.wav?ex=6a3f5369&is=6a3e01e9&hm=1123f52e9f312c1cadfc6de96e2d1fa9c0cfc77a81911b7ff0a1922aba4bf282&",
+          "fileName": "Track_1.wav",
+          "fileSizeBytes": 2931136
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494021616156545227",
+      "type": "Default",
+      "timestamp": "2026-04-15T17:08:30.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 no donk still was not said",
+      "author": {
+        "id": "398575524621975556",
+        "name": "_majesticwalrus",
+        "discriminator": "0000",
+        "nickname": "MajesticWalrus",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398575524621975556/88268ea44d437b3967f2522568894fcc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494042746279694427",
+      "type": "Default",
+      "timestamp": "2026-04-15T18:32:28.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P2 - Yes\n\nThe dude said \"Donk\"\n\nHe clearly didn't mean to, but he did.",
+      "author": {
+        "id": "626743068942532641",
+        "name": "oisinmcmenamin",
+        "discriminator": "0000",
+        "nickname": "OisinMcMen",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494055869418176603",
+      "type": "Default",
+      "timestamp": "2026-04-15T19:24:37.485+00:00",
+      "timestampEdited": "2026-05-01T23:18:42.629+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**P2 - Yes**\n\n**In theory, this market should be incredibly simple to resolve. **All one has to ask themselves is, “Did I hear the speaker say Donk?”, and vote alongside that belief.\n\n**Reality could not be any different.** A few actors, some with tremendous influence, have pushed forth narratives which deviate from what the overwhelming number of us hear. If one looks at the first round of voting, they will see that 128 more voters committed to P2 than P1.\n\nThe P1 (NO) arguments are many, often duplicitous, and grow in volume each day. Most can be addressed by listening to the clip oneself. **But some P1 arguments betray a belief of superiority over the truth.** To be the minority that earnestly did not hear Donk is one thing. To tell us that context matters, abandoning market rules, or to tell us that speaker said something fundamentally different from what we ourselves can hear is another.\n\n**Perhaps the most egregious narrative that a few P1 have spread is that, if you vote against them, you will be slashed.** This argument stands against the values of prediction markets and should speak for itself.\n\nAnd yet, somehow, I doubt this narrative. If 375 voters are willing to stand up for the truth, against the few who flaunt their influence and wallet sizes, perhaps more can break away and vote for what they heard, when given the chance in this new round.\n\n**To the voters, I say this:** while I believe that we can win, to what risk is it getting slashed? 0.1% of your tokens is not some financial hostage (especially when those tokens are down 59% in the past year). Many of you bought these tokens because you believed in the idea behind UMA, and perhaps still believe, but this idea is being tested at this very moment.\n\n**At the end of the day, is it really that unlikely that many of us hear Donk? **Is it a far cry belief that one of the most notable CS2 casters inadvertently said the name of one of the most famous CS2 players in one of the biggest tournaments of the year, even if he did not intend to?\n\nIf this market can be resolved against a reality anyone can experience by watching a three second clip, than any market can be resolved against reality. **If you hear Donk, please vote for Donk.**\n\n\u2028Excited to see how this one turns out : - ).",
+      "author": {
+        "id": "705797414728237156",
+        "name": "cylex_x",
+        "discriminator": "0000",
+        "nickname": "cylex",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705797414728237156/01b05ab99ead7de6cf3c92a2ad5cbb21.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494057359222378598",
+      "type": "Default",
+      "timestamp": "2026-04-15T19:30:32.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 - No for rolled vote\n\nTo me it sounds like a jumble/slur, and I don't hear donk. I hear the speaker saying/stumbling on the word “don’t”. If you listen to anything at varying speeds and a million times you can hear whatever you want to hear, but on a simple initial listen of the original audio, which is consistent with how we have resolved these in the past, I don't hear it.\n\nFurther, the first vote had majority vote P1, so the schelling point has been reached and we should move the vote to P1.",
+      "author": {
+        "id": "602316713010397206",
+        "name": "refused68",
+        "discriminator": "0000",
+        "nickname": "Refused68",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/602316713010397206/6789a1e08f78b1473ba8bf1067000e4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494099459557032027",
+      "type": "Default",
+      "timestamp": "2026-04-15T22:17:50.184+00:00",
+      "timestampEdited": "2026-04-15T22:20:27.965+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P: 2 - Yes\nNew evidence: aenews, the largest No holder (302k shares), admitted multiple times that he hears \"donk\":\n\n\"It's donk\" (12/04/26, 06:54)\n\"Zero chance I switch to P1\" (same timestamp)\n\"It's DONK\" (12/04/26, 13:54)\n\"I think it should be Y\" (12/04/26, 13:56)\n\"Yeah I hear donk\" (12/04/26, 13:56)\n\nHe then switched to P1 No and bought 302k No shares. His own words: \"I think it should be Y, but N clarification is more likely.\"\nHe's not voting based on what he heard. He's voting based on what makes him money. This is the definition of market manipulation admitting the answer is Yes while voting and trading No.\nIf the biggest No holder himself hears \"donk,\" what more evidence do you need?\n375 wallets heard donk. Some Risk Labs Staff voted Yes. The largest No holder admits he hears donk. Vote P2.",
+      "author": {
+        "id": "389444746352918529",
+        "name": "andrea05317",
+        "discriminator": "0000",
+        "nickname": "A",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/389444746352918529/e607b54b36733addb421558d76346169.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1494099458013794383",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494099458013794383/Screenshot_at_Apr_16_00-12-12.png?ex=6a3fa34d&is=6a3e51cd&hm=2ea484df9b2ee388b42ffc5191adac51085277a5c90c49f7aba7415b9c454c42&",
+          "fileName": "Screenshot_at_Apr_16_00-12-12.png",
+          "fileSizeBytes": 327079
+        },
+        {
+          "id": "1494099458273574922",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494099458273574922/Screenshot_at_Apr_16_00-12-05.png?ex=6a3fa34d&is=6a3e51cd&hm=982eb0a0a108cc8b5473496298e7b7691344369f3852af8571aac9cc33050971&",
+          "fileName": "Screenshot_at_Apr_16_00-12-05.png",
+          "fileSizeBytes": 151436
+        },
+        {
+          "id": "1494099458554855594",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494099458554855594/Screenshot_at_Apr_16_00-11-04.png?ex=6a3fa34d&is=6a3e51cd&hm=6a5981ef99ce4dc93936f7585279a3781ae014ba6b96f1e5d351729c1672ea18&",
+          "fileName": "Screenshot_at_Apr_16_00-11-04.png",
+          "fileSizeBytes": 250608
+        },
+        {
+          "id": "1494099459276148927",
+          "url": "https://cdn.discordapp.com/attachments/1492668186179666113/1494099459276148927/image.png?ex=6a3fa34e&is=6a3e51ce&hm=dbc5c78f7bfda91f573b72fef161ab3d9762dbf09e03d3751705bed5f7098761&",
+          "fileName": "image.png",
+          "fileSizeBytes": 397295
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1494385963852370050",
+      "type": "Default",
+      "timestamp": "2026-04-16T17:16:18.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "P1 NO caster either said donkT or donT you can hear rolling T at the end",
+      "author": {
+        "id": "260071956177485834",
+        "name": "wynn0747",
+        "discriminator": "0000",
+        "nickname": "Wynn",
+        "color": "#546E7A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1262065548171411586",
+            "name": "verified",
+            "color": "#546E7A",
+            "position": 25
+          },
+          {
+            "id": "896804657580638219",
+            "name": "Umans",
+            "color": "#546E7A",
+            "position": 24
+          },
+          {
+            "id": "1461050127434256518",
+            "name": "Level 5+",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1133156870715101345",
+            "name": "Disputooors",
+            "color": "#546E7A",
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260071956177485834/01689895e9ecc2a6bb199a6de75cba11.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 88
+}

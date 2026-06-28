@@ -1,0 +1,19 @@
+Step 11C Polygon shared funder screen
+Collected at UTC: 2026-06-20T19:48:14.390372+00:00
+UMA addresses checked: 108
+Polymarket priority threshold: <= 2
+Polymarket wallets checked: 36
+Block window: 88522223 to 88753129
+Transfer categories: external, erc20
+UMA incoming transfer rows: 4
+Polymarket incoming transfer rows: 10013
+Common funder addresses found: 0
+Common funder pair edges produced: 0
+Priority lead rows produced: 0
+Failed queries: 0
+
+Interpretation:
+This script checks whether the same Polygon source wallet funded both a UMA address and a high-priority Polymarket/Step9B wallet.
+A common funder is an investigative lead only. It does not prove common ownership.
+Exchange, bridge, relayer, aggregator, contract, and high-volume wallets must be treated as weak unless other facts support the link.
+For legal analysis, prioritize common funder pair edges with matching contracts/assets, close timing, similar values, and non-exchange source wallets.
